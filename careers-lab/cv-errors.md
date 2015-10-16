@@ -12,7 +12,7 @@ This should usually be the first section, as it is the most recent and important
   4. **AIMING HIGHER** If you hope that your marks will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
   5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. "13 GCSE's A*-A including Maths and English". These exams were important when you were 16, but are less relevant now.x
   6. **DATES** The description of your degree should include a start date and (expected) end date (year)
-  7. ** FIRST YEAR TEAM PROJECT ** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the Unviersity of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)?
+  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the Unviersity of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)?
 
 ## Experience (EX) and Projects
 
@@ -25,27 +25,27 @@ This is usually the second section on the first page, unless you have lots of ex
   5. Don't have any experience? It's never too late to volunteer to become a student ambassador http://studentnet.cs.manchester.ac.uk/volunteering and http://manchester.ac.uk/volunteers  
 
 
-## SKILLS (SK)
+## Skills (SK)
 
-  1. ** AWSUM SKILLZ ** List all your technical skills, you might want to break them down into languages, operating sytems, frameworks, front-end, back-end, hardware and software applications (for example)
-  2. ** NOT JUST A TECHIE ** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them where you can
-  3. ** EXPERT OR BEGINNER? ** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
-  4. ** PRINCIPLES ** Don't forget to mention principles you've learnt as well as specific technologies. Languages, frameworks and other technologies come and go very fast - its the principles you've learnt on your degree that will set you up for your career. E.g. Computer architecture, Object oriented programming, algorithms, version control, operating system etc
+  1. **AWSUM SKILLZ** List all your technical skills, you might want to break them down into languages, operating sytems, frameworks, front-end, back-end, hardware and software applications (for example)
+  2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them where you can
+  3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
+  4. **PRINCIPLES** Don't forget to mention principles you've learnt as well as specific technologies. Languages, frameworks and other technologies come and go very fast - its the principles you've learnt on your degree that will set you up for your career. E.g. Computer architecture, Object oriented programming, algorithms, version control, operating system etc
 
 
 ## Personal Details (PD)
 
-  1. ** ADDRESS ** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
-  2. ** THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. ** DATE OF BIRTH* You don't need to include your date of birth on your CV
-  4. ** MUGSHOT?** It is unusual to put a photo of yourself on your CV
-  5. ** ME@MYDOMAIN.COM* If you have your own domain, this says something important about you (besides just how to make contact) so make sure you mention it. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
+  1. **ADDRESS** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
+  2. **THIS IS A CV (WELL DUH!)* Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
+  3. **DATE OF BIRTH* You don't need to include your date of birth on your CV
+  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV
+  5. **ME@MYDOMAIN.COM** If you have your own domain, this says something important about you (besides just how to make contact) so make sure you mention it. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
 
 ## Formatting (FM)
 
 It is really important to get the formatting of your CV right so that it looks professional.
 
-  1. ** WASTE OF SPACE ** Space is very valuable, you should use every pixel, millimetre and word to maximum effect... If there are big blank spaces this can look bad - fill space by providing more detail, changing the font size, margins & line spacing etc. Make sure you use all the vertical and horizontal space available (but leave reasonable sized margins)
+  1. **WASTE OF SPACE** Space is very valuable, you should use every pixel, millimetre and word to maximum effect... If there are big blank spaces this can look bad - fill space by providing more detail, changing the font size, margins & line spacing etc. Make sure you use all the vertical and horizontal space available (but leave reasonable sized margins)
   2. **CRAMPING YOUR STYLE** It can be tempting to cram things on - but this makes it hard to read if the text is too cramped or small
   3. **BLANK SPACE* Not using all the space available (two pages is the norm)
   4. **PORTABLE DOCUMENT FORMAT ** PDF is a more idiot-proof way to distribute documents than Word documents, and works on more platforms. Beware of converting Word to PDF, it can be an unpredictable and lossy conversion
@@ -68,27 +68,27 @@ The order and structure of your CV is as important as the content
 
 Some general points
 
-  1. ** LINKING ** It's good to have some hyperlinks (preferably clickable URLs) in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you customise and shorten it https://www.google.co.uk/search?q=custom+linkedin+url it will look a lot less ugly
-  2. ** KNOW WHAT I MEAN** Don't assume the person reading your CV knows what you're talking about (they often don't)
-  3. ** UNDERSELLING **  if you're the modest type - a CV is no place for modesty - its an advert for you. Don't hide your light under a bushel!
-  4. ** ACTIVE LANGAGE ** Starting sentences with VERBS, see the "Active Language List" described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest
-  5. Overselling - but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on
-  6. ** QUANTIFY ** improve any claims you make by adding numbers. For example, instead of saying "won prize for best student in year" you could say "won prize for best student in year (out of 200 in total)"
-  7. *EXPAND* Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
-  8. ** ME ME ME ME ME ME ME ** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there, (impossible to avoid in a personal statement if you write one) but too many I's looks bad.
+  1. **LINKING** It's good to have some hyperlinks (preferably clickable URLs) in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you customise and shorten it https://www.google.co.uk/search?q=custom+linkedin+url it will look a lot less ugly
+  2. **KNOW WHAT I MEAN** Don't assume the person reading your CV knows what you're talking about (they often don't)
+  3. **UNDERSELL**  a CV is no place for modesty - its an advert for you. Don't hide your light under a bushel!
+  4. **ACTIVE LANGAGE** Starting sentences with VERBS, see the "Active Language List" described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest
+  5. **OVERSELL** - but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on
+  6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying "won prize for best student in year" you could say "won prize for best student in year (out of 200 in total)"
+  7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
+  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there, (impossible to avoid in a personal statement if you write one) but too many I's looks bad.
   9. **SPILLING and GRAMER** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document.
-  10. ** PROVE IT** It's easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you prove it? Don't tell me, show me. When did you work in a team? What did you use Java for?
+  10. **PROVE IT** It's easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you prove it? Don't tell me, show me. When did you work in a team? What did you use Java for?
 
 
 ## Hobbies and interests (HOB)
 
   1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in http://manchesterstudentsunion.com (including Quidditch BTW  http://manchesterstudentsunion.com/groups/quidditch-club)
-  2. ** MEMBER ** If you are involved in activities or societies say what your role is. What does member mean - bit vague. You can be a member without actually doing anything. Treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Techie? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE etc
+  2. **MEMBER?** If you are involved in activities or societies say what your role is. What does member mean - bit vague. You can be a member without actually doing anything. Treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Techie? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE etc
 
 ## References (REF)
 
-  1. ** ON REQUEST ** Usually you can just say "references available on request" rather than listing all your referees. IF you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them all. Also by saying "on request" you know when the references will be taken up (because you'll be notified) so you have more control over the process.
-  2. ** ASK YOUR REFEREES ** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
+  1. **ON REQUEST** Usually you can just say "references available on request" rather than listing all your referees. IF you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them all. Also by saying "on request" you know when the references will be taken up (because you'll be notified) so you have more control over the process.
+  2. **ASK YOUR REFEREES** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
 
 ## Next steps
 
