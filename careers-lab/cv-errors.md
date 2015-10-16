@@ -1,6 +1,6 @@
 # Debugging your CV / Résumé
 
-This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. Most undergraduate CVs are version 0.1 (beta release) and there are still many chances to debug it and make it better. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
+This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. Most undergraduate CVs are a version 0.1 (beta release) and there are still many chances to debug it and make it better. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
 ## Education (ED)
 
@@ -10,9 +10,9 @@ This should usually be the first section, as it is the most recent and important
   2. **TOO MUCH**... but don't list every single module you've done - just summarise the courses that are relevant to the job, the ones you found interesting or excelled at
   3. **AVERAGE** Give an overall mark e.g "first year average, 65%, 2:1" but don't list every mark for every course (it's usually a waste of space and tedious for the person reading it). Two significant figures is enough e.g. don't say "68.71% overall mark".
   4. **AIMING HIGHER** If you hope that your marks will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
-  5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. "13 GCSE's A*-A including Maths and English". These exams were important when you were 16, but are less relevant now.x
+  5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. "13 GCSE's A*-A including Maths and English". These exams were important when you were 16, but are less relevant now.
   6. **DATES** The description of your degree should include a start date and (expected) end date (year)
-  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the Unviersity of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)?
+  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the Unviersity of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)? What role did you play in the team?
 
 ## Experience (EX) and Projects
 
@@ -35,7 +35,7 @@ This is usually the second section on the first page, unless you have lots of ex
 ## Personal Details (PD)
 
   1. **ADDRESS** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
-  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
+  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
   3. **DATE OF BIRTH** You don't need to include your date of birth on your CV
   4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV
   5. **MYDOMAIN.COM** The email me@mydomain.com says something important about you (besides just how to make contact) so make sure you mention your personal domain / email you have one. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
@@ -49,13 +49,13 @@ It is really important to get the formatting of your CV right so that it looks p
   3. **BLANK SPACE** Make sure you use all the space available, both vertical and horizontal. Two pages is the norm for a CV, though some employers ask for a one pager
   4. **PORTABLE DOCUMENT FORMAT** PDF is a more idiot-proof way to distribute documents than Word documents, and works on more platforms. Beware of converting Word to PDF, it can be an unpredictable and lossy conversion
   5. **MICROSOFT** Word is OK, if that is what you are most comfortable with, but using LaTeX can make your CV stand out because the typography is usually much better. Some formatting can be painful to do in Latex, but the same is also true of Word. There are BLTs (Beautiful Latex Templates) available in overleaf https://www.overleaf.com, https://www.sharelatex.com and elsewhere https://www.google.com/search?q=latex+cv+template
-  6. **STYLE** Don't underestimate the importance of formatting, badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see e.g. http://bryn.co.uk/CV.pdf and http://todddavies.co.uk for examples
+  6. **STYLE** Don't underestimate the importance of formatting, badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see e.g. http://bryn.co.uk/CV.pdf
   7. **AVOID UNDERLINE** Underline was designed for typewriters and should usually be avoided. Sometimes it's OK to use underline for hyperlinks, as it can help show that they are clickable URLs. Fixed width fonts look pretty horrible too. Avoid! Look at any professional looking document, its very unlikely that you'll find underline or fixed width fonts.
   8. **PRINT** Print out your CV to check what it actually looks like. Odd things can happen that make your CV look rubbish, so its worth trying out a few different printers. Does it fit nicely onto two pages? Without any nasty page and line breaks that create widowed & orphaned text?
   9. **BAD PAGE BREAKS** splitting sections across pages is usually a bad idea and can waste space
-  10. **BAD LINE BREAKS** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste
+  10. **BAD LINE BREAKS** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste valuable
 
-  valuable space and make it harder to read the document
+  space and make it harder to read the document
   11. **TABULATE** Tables can be a good way to arrange information, but they usually look better, cleaner and easier to read WITHOUT a border
 
 ## Structure (ST)
@@ -80,7 +80,6 @@ Some general points
   9. **SPILLING and GRAMER** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document.
   10. **PROVE IT** It's easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you prove it? Don't tell me, show me. When did you work in a team? What did you use Java for?
 
-
 ## Hobbies and interests (HOB)
 
   1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in http://manchesterstudentsunion.com (including Quidditch BTW  http://manchesterstudentsunion.com/groups/quidditch-club)
@@ -95,10 +94,11 @@ The last thing on your CV
 
 ## Next steps
 
-What you could do next
+What to do next:
 
 * According to Linus's Law http://enwp.org/Linus%27s_Law ''given enough eyeballs, all bugs are shallow'' the more people who see your CV, the more bugs you can get rid of. Do a peer-review / CV swap with a fellow student (if you haven't already). Show it to your friends and family.
-* See five things you can do today  http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
+* See five things you can do today, Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
+* Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a
 * Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * I'm happy to look at version 2.0 of your CV, show it also to your tutors
 
