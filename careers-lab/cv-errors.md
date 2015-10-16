@@ -1,7 +1,4 @@
-# Debugging your CV / Resume
-
-
-https://web.archive.org/web/20151014064120/https://royalsociety.org/people/david-attenborough-11015/
+# Debugging your CV / Résumé
 
 This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. Most undergraduate CVs are version 0.1 (beta release) and there are still many chances to debug it and make it better. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
@@ -39,7 +36,7 @@ This is usually the second section on the first page, unless you have lots of ex
 ## Personal Details (PD)
 
   1. ** ADDRESS ** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
-  2. ** THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING". 
+  2. ** THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
   3. ** DATE OF BIRTH* You don't need to include your date of birth on your CV
   4. ** MUGSHOT?** It is unusual to put a photo of yourself on your CV
   5. ** ME@MYDOMAIN.COM* If you have your own domain, this says something important about you (besides just how to make contact) so make sure you mention it. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
