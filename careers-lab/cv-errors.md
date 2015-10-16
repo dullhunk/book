@@ -21,7 +21,7 @@ This is usually the second section on the first page, unless you have lots of ex
   1. **DETAILS** Make sure the duration, company name and location of any experience you have is described. If you have lots of experience and projects, choose the ones that are most relevant to the job you are applying for
   2. **VOLUNTEER?** Include voluntary work (as well as paid work), e.g. PASS leader, Student Ambassador, etc
   3. **EXPLAIN** Saying "first year team project" won't mean much to people outside the Kilburn building.
-  4. ** TINKERING** Include projects you've worked in your own time, have you ever built anything in your spare time? What about that Raspberry Pi / Arduino home automation project? If you've contributed to any open source software projects, you should DEFINITELY mention it. Doesn't have to be just code, could be testing, bug reports, documentation, asking/answering questions (e.g. on stackoverflow etc)
+  4. **TINKERING** Include projects you've worked in your own time, have you ever built anything in your spare time? What about that Raspberry Pi / Arduino home automation project? If you've contributed to any open source software projects, you should DEFINITELY mention it. Doesn't have to be just code, could be testing, bug reports, documentation, asking/answering questions (e.g. on stackoverflow etc)
   5. Don't have any experience? It's never too late to volunteer to become a student ambassador http://studentnet.cs.manchester.ac.uk/volunteering and http://manchester.ac.uk/volunteers  
 
 
@@ -37,9 +37,9 @@ This is usually the second section on the first page, unless you have lots of ex
 
   1. **ADDRESS** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
   2. **THIS IS A CV (WELL DUH!)* Don't include the title RESUME or CURRICULUM VITAE (it will be obvious to the reader that the document is a CV/Resume), saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. **DATE OF BIRTH* You don't need to include your date of birth on your CV
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV
   4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV
-  5. **ME@MYDOMAIN.COM** If you have your own domain, this says something important about you (besides just how to make contact) so make sure you mention it. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
+  5. **MYDOMAIN.COM** The email me@mydomain.com says something important about you (besides just how to make contact) so make sure you mention your personal domain / email you have one. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
 
 ## Formatting (FM)
 
@@ -50,18 +50,20 @@ It is really important to get the formatting of your CV right so that it looks p
   3. **BLANK SPACE* Not using all the space available (two pages is the norm)
   4. **PORTABLE DOCUMENT FORMAT ** PDF is a more idiot-proof way to distribute documents than Word documents, and works on more platforms. Beware of converting Word to PDF, it can be an unpredictable and lossy conversion
   5. **MICROSOFT** Word is OK, if that is what you are most comfortable with, but using LaTeX can make your CV stand out because the typography is usually much better. Some formatting can be painful to do in Latex, but the same is also true of Word. There are BLTs (Beautiful Latex Templates) available in overleaf https://www.overleaf.com, https://www.sharelatex.com and elsewhere https://www.google.com/search?q=latex+cv+template
-  6. ** STYLE ** Don't underestimate the importance of formatting, badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see e.g. http://bryn.co.uk/CV.pdf and http://todddavies.co.uk for examples
-  7. ** AVOID UNDERLINE ** Underline was designed for typewriters and should usually be avoided. Sometimes it's OK to use underline for hyperlinks, as it can help show that they are clickable URLs. Fixed width fonts look pretty horrible too. Avoid! Look at any professional looking document, its very unlikely that you'll find underline or fixed width fonts.
-  8. ** PRINT ** Print out your CV to check what it actually looks like. Odd things can happen that make your CV look rubbish, so its worth trying out a few different printers. Does it fit nicely onto two pages? Without any nasty page and line breaks that create widowed & orphaned text?
-  9. ** BAD PAGE BREAKS ** splitting sections across pages is usually a bad idea and can waste space
-  10. ** BAD LINE BREAKS ** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste valuable space and make it harder to read the document
-  11. ** TABULATE ** Tables can be a good way to arrange information, but they usually look better, cleaner and easier to read WITHOUT a border
+  6. **STYLE** Don't underestimate the importance of formatting, badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see e.g. http://bryn.co.uk/CV.pdf and http://todddavies.co.uk for examples
+  7. **AVOID UNDERLINE ** Underline was <u>designed for typewriters</u> and should usually be avoided. Sometimes it's OK to use underline for hyperlinks, as it can help show that they are clickable URLs. Fixed width fonts look pretty horrible too. Avoid! Look at any professional looking document, its very unlikely that you'll find underline or fixed width fonts.
+  8. **PRINT** Print out your CV to check what it actually looks like. Odd things can happen that make your CV look rubbish, so its worth trying out a few different printers. Does it fit nicely onto two pages? Without any nasty page and line breaks that create widowed & orphaned text?
+  9. **BAD PAGE BREAKS** splitting sections across pages is usually a bad idea and can waste space
+  10. **BAD LINE BREAKS** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste
+
+  valuable space and make it harder to read the document
+  11. **TABULATE** Tables can be a good way to arrange information, but they usually look better, cleaner and easier to read WITHOUT a border
 
 ## Structure (ST)
 
 The order and structure of your CV is as important as the content
 
-  1. *FIRST THINGS FIRST* First page should usually be Education and Experience (usually in that order), second page page all the other stuff. Order with the most important (or recent) things first. Its debateable if your personal details should go front and top (e.g. is your postal address REALLY the most important thing about you? Does it really deserve prime space at the top of your CV? Many people put personal details at the end (often just email and telephone no. for first contact)
+  1. **FIRST THINGS FIRST** First page should usually be Education and Experience (usually in that order), second page page all the other stuff. Order with the most important (or recent) things first. Its debateable if your personal details should go front and top (e.g. is your postal address REALLY the most important thing about you? Does it really deserve prime space at the top of your CV? Many people put personal details at the end (often just email and telephone no. for first contact)
   2. **REVERSE** Reverse chronological order is normal, (most recent first) and its usually the easiest way to structure things. Within each section, order likewise, most important (or relevant) work experience goes at the top of that section and and so on
 
 ## General (GEN)
@@ -93,9 +95,9 @@ Some general points
 ## Next steps
 
 * According to Linus's Law http://enwp.org/Linus%27s_Law ''given enough eyeballs, all bugs are shallow'' the more people who see your CV, the more bugs you can get rid of. Do a peer-review / CV swap with a fellow student (if you haven't already). Show it to your friends and family.
+* See five things you can do today  http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
+* Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * I'm happy to look at version 2.0 of your CV, show it also to your tutors
-* See http://www.careers.manchester.ac.uk/myfuture/
-* See mid-degree advice from http://www.careers.manchester.ac.uk/middegree/
-* UPLOAD an updated version to the CV bank once you've changed it
+
 
 --Duncan Hull
