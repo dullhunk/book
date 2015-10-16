@@ -26,12 +26,13 @@ This is usually the second section on the first page, unless you have lots of ex
 
 ## Skills (SK)
 
-List your skills
+List your skills and provide evidence and context where you can.
 
-  1. **AWSUM SKILLZ** List all your technical skills, you might want to break them down into languages, operating sytems, frameworks, front-end, back-end, hardware and software applications (for example)
+  1. **AWSUM SKILLZ** List your relevant technical skills. You could break them down into (for example) languages, operating sytems, frameworks, front/back-end, hardware, tools and specific software applications.
   2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them where you can
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
-  4. **PRINCIPLES** Don't forget to mention principles you've learnt as well as specific technologies. Languages, frameworks and other technologies come and go very fast - its the principles you've learnt on your degree that will set you up for your career. E.g. Computer architecture, Object oriented programming, algorithms, version control, operating system etc
+  4. **PRINCIPLES** Don't forget to mention principles (the Science bit) you've learnt as well as specific technologies. Languages, frameworks and other technologies come and go very fast - its the principles you've learnt on your degree that will set you up for your career for many years to come. E.g. Architecture, Object oriented programming, algorithms, version control, operating systems, networks etc
+  5. **META** As a computer science student, you also have demonstratable "meta" skills like the ability to learn things quickly, thinking logically, reasoning, problem solving & analysis. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these "meta" capabilities and your potential than specific technology.
 
 
 ## Personal Details (PD)
@@ -100,11 +101,11 @@ The last thing on your CV
 
 What to do next:
 
-* According to Linus's Law http://enwp.org/Linus%27s_Law ''given enough eyeballs, all bugs are shallow'' the more people who see your CV, the more bugs you can get rid of. Do a peer-review / CV swap with a fellow student (if you haven't already). Show it to your friends and family.
-* See five things you can do today, Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
-* Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a
-* Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
-* I'm happy to look at version 2.0 of your CV, show it also to your tutors
+* **RELEASE OFTEN** According to Linus's Law http://enwp.org/Linus%27s_Law ''given enough eyeballs, all bugs are shallow'' the more people who see your CV, the more bugs you can get rid of. Do a peer-review, CV swap with a fellow student (if you haven't already). Show it to your friends, family and personal tutor etc. The more people who see it, the better it will get.
+* **IMPROVING** See five things you can do today, Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
+* **RECHECK* Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a
+* **UPLOAD** please upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
+* I'm happy to look at future improved versions of your CV while you're at University
 
 
 --Duncan Hull
