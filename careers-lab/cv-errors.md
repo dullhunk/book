@@ -26,6 +26,8 @@ This is usually the second section on the first page, unless you have lots of ex
 
 ## Skills (SK)
 
+List your skills
+
   1. **AWSUM SKILLZ** List all your technical skills, you might want to break them down into languages, operating sytems, frameworks, front-end, back-end, hardware and software applications (for example)
   2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them where you can
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
@@ -34,11 +36,13 @@ This is usually the second section on the first page, unless you have lots of ex
 
 ## Personal Details (PD)
 
+How to get in touch
+
   1. **ADDRESS** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from an employer is unlikely to be by post)
   2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying that it is wastes valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV
-  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV
-  5. **MYDOMAIN.COM** The email me@mydomain.com says something important about you (besides just how to make contact) so make sure you mention your personal domain / email you have one. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV. It's not relevant to your job application
+  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. It's not relevant to your job application
+  5. **MYDOMAIN.COM** The email me@mydomain.com says something important about you (besides just how to make contact) so make sure you mention your personal domain / website / email if you have one. It's more impressive than me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
 
 ## Formatting (FM)
 
