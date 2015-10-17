@@ -12,7 +12,7 @@ This should usually be the first section, as it is the most recent and important
   4. **AIMING HIGHER** If you hope that your marks will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
   5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. "13 GCSE's A*-A including Maths and English". These exams were important when you were 16, but are less relevant now.
   6. **DATES** The description of your degree should include a start date and (expected) end date (year)
-  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the Unviersity of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)? What role did you play in the team?
+  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. Mancshacks http://www.mancshacks.com (built accomodation finder for students at the University of Manchester that worked on mobile and web, organised team of 6 students meeting once a week over 12 months). No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)? What role did you play in the team?
 
 ## Experience (EX) and Projects
 
@@ -26,13 +26,13 @@ This is usually the second section on the first page, unless you have lots of ex
 
 ## Skills (SK)
 
-List your skills and provide evidence and context where you can.
+List your skills, providing evidence and context where you can.
 
   1. **AWSUM SKILLZ** List your relevant technical skills. You could break them down into (for example) languages, operating sytems, frameworks, front/back-end, hardware, tools and specific software applications.
-  2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them where you can
+  2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them.
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
-  4. **PRINCIPLES** Don't forget to mention principles (the Science bit) you've learnt as well as specific technologies. Languages, frameworks and other technologies come and go very fast - its the principles you've learnt on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like Architecture, Object oriented programming, algorithms, version control, operating systems, networks don't change as quickly as the technology does - so make sure you mention them.
-  5. **META** As a computer science student, you also have demonstratable "meta" skills like the ability to learn things quickly, thinking logically, reasoning, problem solving & analysis. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these "meta" capabilities and your potential than specific technology.
+  4. **PRINCIPLES** Don't forget to mention fundamental principles (the science bit) you have learnt as well as specific tools (the technology bit). Languages, tools, frameworks and other technologies come and go very fast - it is the principles you've learnt on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, version control, operating systems, networks don't change as quickly as the technology does - so make sure you mention them.
+  5. **META** As a computer science student, you also have demonstratable "meta" skills like the ability to learn things quickly, think logically, reason, problem solve & analyse. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these "meta" capabilities and your potential than in specific technology.
 
 
 ## Personal Details (PD)
@@ -87,7 +87,7 @@ Some general points
 
 ## Hobbies and interests (HOB)
 
-  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in http://manchesterstudentsunion.com (including Quidditch BTW  http://manchesterstudentsunion.com/groups/quidditch-club)
+  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union][http://manchesterstudentsunion.com] including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) BTW  http://manchesterstudentsunion.com/groups/quidditch-club
   2. **MEMBER?** If you are involved in activities or societies say what your role is. What does "member" actually mean - bit vague. You can be a member without actually doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Techie? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? etc See ACTIVE LANGUAGE.
 
 ## References (REF)
