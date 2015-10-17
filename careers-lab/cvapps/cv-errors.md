@@ -2,6 +2,20 @@
 
 This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. Most undergraduate CVs are a version 0.1 (beta release) and there are still many chances to debug it and make it better. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Debugging your CV / Résumé](#)
+	- [Education (ED)](#)
+	- [Experience (EX) and Projects](#)
+	- [Skills (SK)](#)
+	- [Personal Details (PD)](#)
+	- [Formatting (FM)](#)
+	- [Structure (ST)](#)
+	- [General (GEN)](#)
+	- [Hobbies and interests (HOB)](#)
+	- [References (REF)](#)
+	- [Next steps](#)
+
 ## Education (ED)
 
 This should usually be the first section, as it is the most recent and important thing about you, unless you have LOTS of work experience.
@@ -39,9 +53,9 @@ List your skills, providing evidence and context where you can.
 
 How to get in touch
 
-  1. **ADDRESS** PushedForSpace? Consider leaving out your postal address (an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post)
-  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying that it is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - it is not relevant to your job application
+  1. **ADDRESS** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page.
+  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - it is not relevant to your job application and can lead to age discrimination
   4. **MUGSHOT? MARRIED?** It is unusual to put a photo of yourself on your CV. What you look like is not relevant to your job application. Your marital status is not relevant either
   5. **MYDOMAIN.COM** The email address me@mydomain.com says something important about you, besides just how to make contact. It says you know how to setup a web and/or email server. Make sure you mention your personal domain,  web / email if you have one. It can give a better impression than a generic me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
 
