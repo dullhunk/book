@@ -25,7 +25,7 @@ This should usually be the first section, as it is the most recent and important
   4. **AIMING HIGHER** If you hope that your marks will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
   5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. "13 GCSE's A*-A including Maths and English". These exams were important when you were 16, but are much less relevant now so don't waste space with a detailed description
   6. **DATES** The description of your degree should include a start date and (expected) end date (year). Don't includes days, and only include months where they are relevant (e.g. summer jobs)
-  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. *Mancshacks built an accomodation finder for students at the University of Manchester that worked both on mobile and web platforms, organised a team of 6 students meeting once a week over 12 months, see http://www.mancshacks.com*. No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)? What role did you play in the team?
+  7. **FIRST YEAR TEAM PROJECT** Mention the name of the project, what it did and what your role was e.g. *Mancshacks: built an accommodation finder for students in Manchester that worked both on mobile and web platforms, organised a team of 6 students meeting once a week over 12 months, see http://www.mancshacks.com*. No-one outside the Kilburn building will understand what you mean if you say "first year team project". What skills did you gain while doing it (not just tech skills)? What role did you play in the team?
 
 ## Experience (EX) and Projects
 
@@ -34,8 +34,8 @@ This is usually the second section on the first page, unless you have lots of ex
   1. **DETAILS** Make sure the duration, company name and location of any experience you have is described. If you have lots of experience and projects, choose the ones that are most relevant to the job you are applying for
   2. **VOLUNTEER?** Include voluntary work (as well as paid work), e.g. Teacher, PASS leader, Student Ambassador, etc
   3. **EXPLAIN** Saying "first year team project" won't mean much to people outside the Kilburn building.
-  4. **TINKERING** Include projects you've worked in your own time, have you ever built anything in your spare time? What about that Raspberry Pi / Arduino home automation project? If you've contributed to any open source software projects, you should DEFINITELY mention it. Doesn't have to be just code, could be testing, bug reports, documentation, asking/answering questions (e.g. on stackoverflow etc)
-  5. **NO EXPERIENCE** Don't have any experience? Voluntary work is a good way to pick some experience up. It's never too late to volunteer http://manchester.ac.uk/volunteers or become a student ambassador http://studentnet.cs.manchester.ac.uk/volunteering/
+  4. **TINKERING** Include projects you've worked in your own time, have you ever built anything in your spare time? What about that Raspberry Pi / Arduino home automation project? If you've contributed to any open source software projects, you should DEFINITELY mention them. It doesn't have to be just code, it could be testing, bug reports, documentation, asking/answering questions (e.g. on stackoverflow etc)
+  5. **NO EXPERIENCE** Don't have any experience? Voluntary work is a good way to pick some experience up. It is never too late to volunteer http://manchester.ac.uk/volunteers or become a student ambassador http://studentnet.cs.manchester.ac.uk/volunteering/
 
 ## Skills (SK)
 
@@ -44,8 +44,8 @@ List your skills, providing evidence and context where you can.
   1. **AWSUM SKILLZ** List your relevant technical skills. You could classify them into (for example) languages, operating sytems, frameworks, front/back-end, hardware, tools and specific software applications. The classification you use will depend on the job you're applying for. A web developer role will require a different emphasis to a DevOps / sysadmin role.
   2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them.
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
-  4. **PRINCIPLES** Don't forget to mention fundamental principles (the science bit) you have learnt as well as specific tools (the technology bit). Languages, tools, frameworks and other technologies come and go very fast - it is the principles you've learnt on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, version control, operating systems, networks don't change as quickly as the technology does - so make sure you mention them.
-  5. **META** As a computer science student, you also have demonstratable "meta" skills like the ability to learn things quickly, think logically, reason, problem solve & analyse. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these "meta" capabilities and your potential than in specific technology.
+  4. **PRINCIPLES** Don't forget to mention fundamental principles (the science bit) you have learned as well as specific tools (the engineering & technology bit). Technologies come and go very fast - it is the principles you have learned  on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, operating systems, security and networks don't change as quickly as the technology does - so make sure you mention them.
+  5. **META** As a computer science student, you also have demonstrable "meta" skills like the ability to learn things quickly, think logically, reason, problem solve & analyse. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these "meta" capabilities and your potential than in specific technical skills.
 
 
 ## Personal Details (PD)
@@ -54,9 +54,10 @@ How to get in touch
 
   1. **ADDRESS** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page.
   2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - it is not relevant to your job application and can lead to age discrimination
-  4. **MUGSHOT? MARRIED?** It is unusual to put a photo of yourself on your CV. What you look like is not relevant to your job application. Your marital status is not relevant either
-  5. **MYDOMAIN.COM** The email address me@mydomain.com says something important about you, besides just how to make contact. It says you know how to setup a web server and/or email server. Make sure you mention your personal domain,  web / email if you have one. It can give a better impression than a generic me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - your age should not be relevant to your job application
+  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. What you look like should not be relevant to your job application.
+  5. **MARRIAGE & GENDER** Your marital status & gender should not be relevant to your job application either
+  6. **MYDOMAIN.COM** The email address me@mydomain.com says you know how to setup an email server and possibly web server. Make sure you mention your personal domain,  web / email if you have one. It can give a better impression than a generic me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
 
 ## Formatting (FM)
 
@@ -69,7 +70,7 @@ It is really important to get the formatting of your CV right so that it looks p
   5. **MICROSOFT** Word is OK, if that is what you are most comfortable with, but using LaTeX can make your CV stand out because the typography is usually much better. Some formatting can be painful to do in LaTeX, but the same is also true of Word. There are BLTs (Beautiful Latex Templates) available from [overleaf.com](https://www.overleaf.com), [sharelatex.com](https://www.sharelatex.com) and elsewhere [google.com/search?q=latex+cv+template](https://www.google.com/search?q=latex+cv+template).
   6. **STYLE** Don't underestimate the importance of formatting, badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see for example Bryn's CV http://bryn.co.uk/CV.pdf. Bryn is a third year student in Computer Science on placement at Google during 2015/6.
   7. **AVOID UNDERLINE** Underline was designed for typewriters and should usually be avoided. Sometimes it's OK to use underline for hyperlinks, as it can help show that they are clickable URLs. Fixed width fonts look pretty horrible too (for example URLs in LaTeX). Avoid! Look at any professional document, it is very unlikely that you'll find underline or fixed width fonts.
-  8. **PRINT** Print out your CV to check what it actually looks like. Odd things can happen that make your CV look rubbish, so its worth trying out a few different printers. Does it fit nicely onto two pages? Without any nasty page and line breaks that create widowed & orphaned text?
+  8. **PRINT** Print out your CV to check what it actually looks like. Cam you read it? Odd things can happen that make your CV look rubbish, so it is worth trying out a few different printers. Does it fit nicely onto two pages? Without any nasty page and line breaks that create widowed & orphaned text?
   9. **BAD PAGE BREAKS** splitting sections across pages is usually a bad idea and can waste space. If you have to split a section, make sure the title follows it. e.g. "EXPERIENCE (continued)""
   10. **BAD LINE BREAKS** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste valuable
 
@@ -96,20 +97,20 @@ Some general points
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
   8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there,  and it is difficulty to avoid in a personal statement, but too many I's can look bad.
   9. **SPILLING and GRAMMAR** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document. Proof read it again. Then proof read it again.
-  10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you prove it? Don't tell me, show me. When did you work in a team? What did you use Java for?
+  10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for?
 
 ## Hobbies and interests (HOB)
 
 Hobbies reveal some of your personality, which is what employers really care about
 
-  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) BTW  http://manchesterstudentsunion.com/groups/quidditch-club
+  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club)
   2. **MEMBER?** If you are involved in activities or societies say what your role is. By itself, what does "member" actually mean - a bit vague. You can be a member without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
 
 ## References (REF)
 
 The last thing on your CV
 
-  1. **ON REQUEST** Usually you can just say "references available on request" rather than listing all your referees. IF you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them. Also by saying "on request" you know when the references will be taken up (because you'll be notified) so you have more control over the process.
+  1. **ON REQUEST** Usually you can just say "references available on request" rather than listing all your referees. If you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them. Also by saying "on request" you know when the references will be taken up (because you'll be notified) so you have more control over the process.
   2. **ASK YOUR REFEREES** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
 
 ## Next steps
