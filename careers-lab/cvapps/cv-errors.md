@@ -2,7 +2,7 @@
 
 This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. Most undergraduate CVs are a version 0.1 (beta release) and there are still many chances to debug it and make it better. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [Education (ED)](#education-ed)
 - [Experience (EX) and Projects](#experience-ex-and-projects)
@@ -87,7 +87,7 @@ The order and structure of your CV is as important as the content
 
 Some general points
 
-  1. **HYPER LINKING** It's good to have some links (preferably clickable URLs) in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you customise and shorten it https://www.google.co.uk/search?q=custom+linkedin+url it will look much better than the default
+  1. **HYPER LINKING** It's good to have some links (preferably clickable URLs) in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default
   2. **KNOW WHAT I MEAN** Don't assume the person reading your CV knows what you're talking about (they often don't)
   3. **UNDERSELL**  a CV is no place for modesty - its an advert for you - to sell what you have to a prospective employer. Don't hide your light under a bushel!
   4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the "Active Language List" described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they just want the gist.
