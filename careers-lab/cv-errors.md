@@ -81,8 +81,8 @@ Some general points
   5. **OVERSELL** - but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying "won prize for best student in year" you could say "won prize for best student in year (out of 200 in total)"
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
-  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there, (impossible to avoid in a personal statement if you write one) but too many I's looks bad.
-  9. **SPILLING and GRAMER** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document.
+  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there,  and it's impossible to avoid in a personal statement, but too many I's looks bad.
+  9. **SPILLING and GRAMMAR** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document.
   10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. "I am an excellent team worker" or "I am a Java expert". Anyone can SAY this, how can you prove it? Don't tell me, show me. When did you work in a team? What did you use Java for?
 
 ## Hobbies and interests (HOB)
@@ -102,9 +102,9 @@ The last thing on your CV
 What to do next:
 
 * **RELEASE OFTEN** You've released your CV early, now release it often. According to [Linus's (Torvald's) Law](http://enwp.org/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can get rid of. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, family and personal tutor etc. The more people who see it, the better it will get.
-* **IMPROVING** See five things you can do today, Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
+* **IMPROVING** See five things you can do today: Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
 * **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a
-* **UPLOAD** please upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank this is where selected employers from our industry club will be looking to recruit
+* **UPLOAD** please upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank this is where selected employers from our industry club will be looking to recruit students
 * I'm happy to look at improved versions of your CV in the future while you're at University
 
 
