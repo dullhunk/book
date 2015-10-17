@@ -4,17 +4,16 @@ This guide is based on common bugs we've seen in the School of Computer Science 
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Debugging your CV / Résumé](#)
-	- [Education (ED)](#)
-	- [Experience (EX) and Projects](#)
-	- [Skills (SK)](#)
-	- [Personal Details (PD)](#)
-	- [Formatting (FM)](#)
-	- [Structure (ST)](#)
-	- [General (GEN)](#)
-	- [Hobbies and interests (HOB)](#)
-	- [References (REF)](#)
-	- [Next steps](#)
+- [Education (ED)](#education-ed)
+- [Experience (EX) and Projects](#experience-ex-and-projects)
+- [Skills (SK)](#skills-sk)
+- [Personal Details (PD)](#personal-details-pd)
+- [Formatting (FM)](#formatting-fm)
+- [Structure (ST)](#structure-st)
+- [General (GEN)](#general-gen)
+- [Hobbies and interests (HOB)](#hobbies-and-interests-hob)
+- [References (REF)](#references-ref)
+- [Next steps](#next-steps)
 
 ## Education (ED)
 
@@ -124,4 +123,4 @@ What to do next:
 * I'm happy to look at improved versions of your CV in the future while you're at University
 
 
---Duncan Hull
+--Duncan Hull, October 2015
