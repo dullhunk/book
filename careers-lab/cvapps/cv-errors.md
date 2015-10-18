@@ -122,7 +122,7 @@ What to do next:
 * **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * **REJECTION** It is hard work finding a job, most people will make many unsuccessful job applications and interviews before finding something they like. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
-* I'm happy to look at improved versions of your CV in the future while you're at University.
 
+Good luck with your applications and interviews. I'm happy to look at improved versions of your CV in the future while you're at University.
 
 --Duncan Hull, October 2015
