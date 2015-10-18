@@ -63,7 +63,7 @@ How to get in touch
 
 It is really important to get the formatting of your CV right so that it looks professional.
 
-  1. **WASTE OF SPACE** Space is very valuable, you should use every pixel, millimetre and word to maximum effect. Prime real estate is  If there are big blank spaces this can look bad - fill space by providing more detail, increasing the font size, margins & line spacing etc. Make sure you use all the vertical and horizontal space available (but leave reasonable sized margins)
+  1. **WASTE OF SPACE** Space is very valuable, you should use every pixel, millimetre and word to maximum effect. If there are big blank spaces this can look bad - fill space by providing more detail, increasing the font size, margins & line spacing etc. Make sure you use all the vertical and horizontal space available (but leave reasonable sized margins)
   2. **CRAMPING YOUR STYLE** It can be tempting to cram things on - but this makes it hard to read if the text is too small. Rather than list EVERYTHING you've done EVER, show the most important or relevant aspects.
   3. **BLANK SPACE** Make sure you use all the space available, both vertical and horizontal. Two pages is the norm for a CV, though some employers ask for a one pager. You shouldn't have blank space on either type.
   4. **PDF** The Portable Document Format is a more idiot-proof way to distribute documents than Word documents, and PDF works on more platforms and devices. Beware of converting Word to PDF, it can be an unpredictable and lossy conversion which messes up fonts, page breaks and other important formatting. Some employers will use software that won't accept PDFs, and will insist on Word. Thankfully they are not too common.
