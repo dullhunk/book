@@ -92,7 +92,7 @@ Some general points that apply to all sections of your CV
   2. **KNOW WHAT I MEAN** Don't assume the person reading your CV knows what you're talking about (they often don't)
   3. **UNDERSELL**  a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer. Don't hide your light under a bushel!
   4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the "Active Language List" described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not.
-  5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on. Honesty is the best policy.
+  5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - it is easy to spot and check up on. Some employers have rigorous background checks, so honesty is the best policy. If one inconsistency is found in your CV, you may well be rejected.
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying "won prize for best student in year" you could say "won prize for best student in year (out of 200 in total)"
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
   8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there,  and it is difficulty to avoid in a personal statement, but too many I's can look bad.
@@ -117,11 +117,12 @@ The last thing on your CV
 
 What to do next:
 
-* **RELEASE OFTEN** Having [released your CV early, keep releasing it often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, family and personal tutor etc. The more people who see it, the better it will get.
+* **RELEASE OFTEN** Having [released your CV early, keep releasing it often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, family and personal tutor etc. The more people who see it, the better it will get. You can apply many of the the principles of [agile software engineering](https://en.wikipedia.org/wiki/Agile_software_development) to your CV.
 * **IMPROVING** See five steps to take next: Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and mid-degree advice (for 2nd years)  http://www.careers.manchester.ac.uk/middegree/ from the careers service
-* **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a
+* **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
-* I'm happy to look at improved versions of your CV in the future while you're at University
+* **REJECTION** It is hard work finding a job, most people will make many unsuccessful job applications and interviews before finding something they like. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
+* I'm happy to look at improved versions of your CV in the future while you're at University.
 
 
 --Duncan Hull, October 2015
