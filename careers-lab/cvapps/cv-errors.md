@@ -54,10 +54,10 @@ How to get in touch
 
   1. **ADDRESS** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page.
   2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just "ALAN TURING" not "CURRICULUM VITAE ALAN TURING".
-  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - your age should not be relevant to your job application
-  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. What you look like should not be relevant to your job application.
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - your age should not be relevant to your job application. Also, publicising your birth date widely *could* make you more vulnerable to identity theft, see the [dangers of revealing your date of birth](http://security.stackexchange.com/questions/95029/how-dangerous-is-it-to-reveal-your-date-of-birth-and-why) for example.
+  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. What you look like should not be a factor in your job application.
   5. **MARRIAGE & GENDER** Your marital status & gender should not be relevant to your job application either
-  6. **MYDOMAIN.COM** The email address me@mydomain.com says you know how to setup an email server and possibly web server. Make sure you mention your personal domain,  web / email if you have one. It can give a better impression than a generic me@hotmail.com, me@gmail.com or me@student.manchester.ac.uk
+  6. **MYDOMAIN.COM** The email address me@mydomain.com says more than just how to contact you, it shows that you know how to setup an email server and a web server. Make sure you mention your personal domain and email if you have one. It can give a better impression than a generic me@hotmail.com or me@gmail.com.
 
 ## Formatting (FM)
 
@@ -86,13 +86,13 @@ The order and structure of your CV is as important as the content
 
 ## General (GEN)
 
-Some general points
+Some general points that apply to all sections of your CV
 
   1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you.
   2. **KNOW WHAT I MEAN** Don't assume the person reading your CV knows what you're talking about (they often don't)
   3. **UNDERSELL**  a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer. Don't hide your light under a bushel!
   4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the "Active Language List" described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not.
-  5. **OVERSELL** - but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on
+  5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - its easy to spot and check up on. Honesty is the best policy.
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying "won prize for best student in year" you could say "won prize for best student in year (out of 200 in total)"
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
   8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using "I, me, My" too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying "I developed a system for improving logistics" you can say "developed a system for improving logistics". Its OK to have a few "I's" in there,  and it is difficulty to avoid in a personal statement, but too many I's can look bad.
@@ -103,7 +103,7 @@ Some general points
 
 Hobbies reveal some of your personality, which is what employers really care about
 
-  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual docyment. Hobbies can be talking points for the interview (or make you stand out). Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club)
+  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual document. Hobbies can be talking points for the interview, or make you stand out. Hobbies can be an icebreaker if you're fortunate enough to share interests with your interview panel. Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club)
   2. **MEMBER?** If you are involved in activities or societies say what your role is. By itself, what does "member" actually mean - a bit vague. You can be a member without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
 
 ## References (REF)
