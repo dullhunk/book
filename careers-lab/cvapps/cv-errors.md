@@ -1,6 +1,6 @@
 # Debugging your CV / Résumé
 
-This guide is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. This is probably the first CV you've written, think of it as version 0.1 (beta release). There are many chances to debug and improve it. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
+This guide (http://git.io/vWtMn) is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. This is probably the first CV you've written, think of it as version 0.1 (beta release). There are many chances to debug and improve it. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
 **Table of Contents**
 
