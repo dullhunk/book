@@ -13,7 +13,7 @@
 
 ## Outline of the Mentoring Scheme
 
-We are looking to recruit volunteers from industry to act as mentors to teams of second year undergraduate students studying Software Engineering. This is a compulsory course with around 200 students every year. The aim of the scheme is to increase the industrial relevance of the course unit for our students by giving them access to an industry professional who can discuss (amongst other things):
+We are looking to recruit volunteers from industry to act as mentors to teams of undergraduate students studying [Software Engineering in their second year](https://studentnet.cs.manchester.ac.uk/ugt/COMP23420/syllabus/). This is the only compulsory course in the second year, with around 200 students every year. The aim of the scheme is to increase the industrial relevance of the course unit for our students by giving them access to an industry professional who can discuss (amongst other things):
 
 * The range of career options available to graduates with particular flavours of Computer Science degrees.
 * The realities of being a software engineer in today’s industry.
@@ -34,11 +34,11 @@ The mentoring scheme will run twice in each academic year, once in each semester
 Within a single semester, we ask mentors to interact with their teams at the following times:
 
 * Week beginning 22nd February (week 4 of teaching), we’ll ask mentors to come into the University to meet with their teams and kickstart the mentoring relationship during this week.  By default, mentors will come to the University for a 2 hour period, during which time they will spend an hour with each of two teams assigned to them.
-* Week beginning 11th April (week 8 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, she can:
+* Week beginning 11th April (week 8 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, they can:
 
-  * Arrange a face-to-face meeting with her teams at some other mutually convenient time and place.
-  * Arrange to hold an electronic meeting with her teams.
-  * Arrange for a colleague from her organisation to meet with her teams in her place.
+  * Arrange a face-to-face meeting with their teams at some other mutually convenient time and place.
+  * Arrange to hold an electronic meeting with their teams.
+  * Arrange for a colleague from their organisation to meet with their teams in their place.
 
 * Week beginning 9th May (week 12 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
 
@@ -46,7 +46,7 @@ Within a single semester, we ask mentors to interact with their teams at the fol
 
 Mentoring could be beneficial to employers in several ways, including advertising their company, building relationships with students, and - importantly - improving the quality of the entire cohort by helping to embed good software practices early on.
 
-An optional showcase session at the end of the seemster will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students
+An optional showcase session at the end of the seemster will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students for recruitment.
 
 
 ## What Will Mentors Do During the Visits?
