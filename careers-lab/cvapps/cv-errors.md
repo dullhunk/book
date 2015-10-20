@@ -29,7 +29,7 @@ This should usually be the first section, as it is the most recent and important
 
 ## Experience (EX) and Projects
 
-This is usually the second section on the first page, unless you have lots of experience.
+This is usually the second section on the first page, unless you have lots of experience. If you don't have much experience to talk about, you can emphasise project work, both inside and outside of education.
 
   1. **DETAILS** Make sure the duration, company name and location of any experience you have is described. If you have lots of experience and projects, choose the ones that are most relevant to the job you are applying for
   2. **VOLUNTEER?** Include voluntary work (as well as paid work), e.g. Teacher, PASS leader, Student Ambassador, etc
@@ -88,9 +88,9 @@ The order and structure of your CV is as important as the content
 
 Some general points that apply to all sections of your CV
 
-  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you.
+  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. P.S. If you've not used LinkedIn before, it's like social media for grown ups - where people talk about employment and jobs.
   2. **KNOW WHAT I MEAN?** Don't assume the person reading your CV knows what you're talking about. It's a classic mistake to make when writing.
-  3. **UNDERSELL** a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer. Don't hide your light under a bushel!
+  3. **UNDERSELL** a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer so that they invite you to interview. Don't hide your light under a bushel!
   4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the “Active Language List” described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not.
   5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - it is easy to spot and check up on. Some employers have very rigorous background checks, so honesty is the best policy. If one inconsistency is found in your CV, however trivial, you could be rejected.
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying “won prize for best student in year” you could say “won prize for best student in year (out of 200 in total)”
@@ -103,8 +103,9 @@ Some general points that apply to all sections of your CV
 
 Hobbies reveal some of your personality, which is what employers really care about
 
-  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual document. Hobbies can be talking points for the interview, or make you stand out. Hobbies can be an icebreaker if you're fortunate enough to share interests with your interview panel. Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club)
+  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual document. Hobbies can be talking points for the interview, or make you stand out. Hobbies can be an icebreaker if you're fortunate enough to share interests with your interview panel. Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club))
   2. **MEMBER?** If you are involved in activities or societies say what your role is. By itself, what does “member” actually mean - a bit vague. You can be a member without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
+  3. **COMPUTING?** Is computing also your hobby? Don't be ashamed if it is, as it demonstrates your commitment and enthusiasm to the subject beyond just getting a degree.
 
 ## References (REF)
 
