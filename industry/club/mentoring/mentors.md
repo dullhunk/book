@@ -26,8 +26,8 @@ Mentors will primarily interact with their teams by coming into the University t
 
 The academic year at Manchester is divided into two 12 week semesters:
 
-  1. Semester 1: running from early September to mid-December.
-  2. Semester 2: running from early February to early May (with a three week vacation over Easter).
+* Semester 1: running from early September to mid-December.
+* Semester 2: running from early February to early May (with a three week vacation over Easter).
 
 The mentoring scheme will run twice in each academic year, once in each semester.  This means that mentors can sign up for just semester 1, just semester 2, or both semesters, depending on their availability.
 
@@ -75,4 +75,4 @@ There will be a ‘training’ workshop for mentors in mid January (w/c 18th Jan
 
 ## How to sign up
 
-I’m interested and would like to know more please contact [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
+If you are interested and would like to know more please contact [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
