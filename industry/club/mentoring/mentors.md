@@ -1,15 +1,17 @@
 # Recruitment of mentors
 
+**Table of Contents**
+
+- [Outline of the Mentoring Scheme](#outline-of-the-scheme)
+- [What Will Mentors be Signing up to?](#what-will-mentors-be-signing-up-to)
+- [What are the benefits to employers of mentoring?] (#what-are-the-benefits-to-employers-of-mentoring)
+- [What Will Mentors Do During the Visits?](#what-will-mentors-do-during-the-visits)
+- [What if Mentors Want to Offer More?](#what-if-mentors-want-to-offer-more)
+- [Preparing Mentors for the Scheme](#preparing-mentors-for-the-scheme)
+- [How to sign up](#how-to-sign-up)
 
 
-## What is the benefit to employers of providing mentoring?
-
-Mentoring could be beneficial to employers in several ways, including advertising their company, building relationships with students, and - importantly - improving the quality of the entire cohort by helping to embed good software practices early on.
-
-An optional showcase session at the end of the seemster will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students
-
-
-## Outline of the Scheme
+## Outline of the Mentoring Scheme
 
 We are looking to recruit volunteers from industry to act as mentors to teams of second year undergraduate students studying Software Engineering. This is a compulsory course with around 200 students every year. The aim of the scheme is to increase the industrial relevance of the course unit for our students by giving them access to an industry professional who can discuss (amongst other things):
 
@@ -20,7 +22,7 @@ We are looking to recruit volunteers from industry to act as mentors to teams of
 
 Mentors will primarily interact with their teams by coming into the University to work face-to-face with students for one or two sessions, although other forms of communication are also possible.  We propose to ask mentors to meet with their teams twice in one semester, with an optional third encounter at the end-of-semester assessment showcase.
 
-# What Will Mentors be Signing up to?
+## What Will Mentors be Signing up to?
 
 The academic year at Manchester is divided into two 12 week semesters:
 
@@ -39,6 +41,13 @@ Within a single semester, we ask mentors to interact with their teams at the fol
   * Arrange for a colleague from her organisation to meet with her teams in her place.
 
 * Week beginning 9th May (week 12 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
+
+## What are the benefits to employers of mentoring?
+
+Mentoring could be beneficial to employers in several ways, including advertising their company, building relationships with students, and - importantly - improving the quality of the entire cohort by helping to embed good software practices early on.
+
+An optional showcase session at the end of the seemster will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students
+
 
 ## What Will Mentors Do During the Visits?
 
@@ -62,7 +71,7 @@ We’ll be very grateful for any additional contact mentors propose to have with
 
 ## Preparing Mentors for the Scheme
 
-There will be a ‘training’ workshop for mentors in mid January (w/c 18th), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
+There will be a ‘training’ workshop for mentors in mid January (w/c 18th January), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
 
 ## How to sign up
 
