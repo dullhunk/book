@@ -1,5 +1,5 @@
 
-Some local employers of Computer Science students in and around Manchester, what some people might call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers.
+This section http://git.io.manc list local employers of Computer Science students in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than be comprehensive.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
@@ -25,10 +25,10 @@ Some local employers of Computer Science students in and around Manchester, what
 * IBM Sale, http://www.ibm.com, M33 7RR
 * LateRooms, http://careers.laterooms.com,   
 * Magma Digital, http://www.magmadigital.co.uk,
-* Mentor Graphics, https://www.mentor.com, 
+* Mentor Graphics, https://www.mentor.com,
 * Micron, http://uk.micron.com,
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
-* RentalCars, http://www.rentalcars.com, M3 3JZ
+* RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
 * Space 48, http://www.space48.com, WA3 6GA
 * Swinton, http://www.swintoncareers.com,
@@ -36,4 +36,4 @@ Some local employers of Computer Science students in and around Manchester, what
 * TopCashBack, http://www.topcashback.co.uk/Jobs,  
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
-If you’re interested in Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital business in the North West of England. It's free to join as a student.
+If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. It's free to join as a student.

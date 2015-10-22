@@ -2,7 +2,7 @@
 
 This guide (http://git.io/vWtMn) is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. This is probably the first CV you've written, think of it as version 0.1 (beta release). There are many chances to debug and improve it. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
-> DISCLAIMER: If you ask three people what they think of your CV, you'll get three different and often contradictory opinions. CV's are a very subjective thing. The advice below is based on experience, common sense and conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/).
+> DISCLAIMER: If you ask three people what they think of your CV, you'll get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on experience, common sense and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
 
 **Table of Contents**
 
@@ -43,11 +43,11 @@ This is usually the second section on the first page, unless you have lots of ex
 
 List your skills, providing evidence and context where you can.
 
-  1. **AWSUM SKILLZ** List your relevant technical skills. You could classify them into (for example) languages, operating sytems, frameworks, front/back-end, hardware, tools and specific software applications. The classification you use will depend on the job you're applying for. A web developer role will require a different emphasis to a DevOps / sysadmin role. Likewise, if you want to design integrated circuits and other hardware, your CV will look very different from a CS student going for [Business Analyst](https://en.wikipedia.org/wiki/Business_analyst) roles.
+  1. **AWSUM SKILLZ** List your relevant technical skills. You could classify them into (for example) programming languages, operating sytems, frameworks, front/back-end, hardware, tools and specific software applications. The classification you use will depend on the job you're applying for. A web developer role will require a different emphasis to a DevOps / sysadmin role. Likewise, if your calling in life is to design integrated circuits, your CV will look very different from a CS student going for [Business Analyst (BA)](https://en.wikipedia.org/wiki/Business_analyst) roles.
   2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them.
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
   4. **PRINCIPLES** Don't forget to mention fundamental principles (the science bit) you have learned as well as specific tools (the engineering & technology bit). Technologies come and go very fast - it is the principles you have learned  on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, design patterns, operating systems, security and networks don't change as quickly as the technology does - so make sure you mention them.
-  5. **META** As a computer science student, you also have demonstrable “meta” skills like the ability to learn things quickly  - either on your own as an [autodidact](https://en.wikipedia.org/wiki/Autodidacticism) or from others. You can also think logically, reason, problem solve, analyse and abstract. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
+  5. **META** As a computer science student, you also have demonstrable “meta” skills like the ability to learn things quickly  - either ([self-taught](https://en.wikipedia.org/wiki/Autodidacticism)) or learning from peers. You can also think logically, reason, problem solve, analyse and abstract. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
 
 
 ## Personal Details (PD)
@@ -97,7 +97,7 @@ Some general points that apply to all sections of your CV
   5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - it is easy to spot and check up on. Some employers have very rigorous background checks, so honesty is the best policy. If one inconsistency is found in your CV, however trivial, you could be rejected.
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying “won prize for best student in year” you could say “won prize for best student in year (out of 200 in total)”
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
-  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using “I, me, My” too much as it can look self-centered. One way of avoiding this is to put the verb first, so instead of saying “I developed a system for improving logistics” you can say “developed a system for improving logistics”. Its OK to have a few “I's” in there,  and it is difficulty to avoid in a personal statement, but too many I's can look bad.
+  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using “*I, me, my*” too much as it is too repetitve and can look self-centered. One way of avoiding this is to put the verb first, so instead of saying “*I developed a system for improving logistics*” you can say “*developed a system for improving logistics*”. Its OK to have a few “I's” in there,  and it is difficult to avoid in a personal statement, but too many I's can look bad.
   9. **SPILLING and GRAMMAR** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document. Proof read it again. Then proof read it again.
   10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. “I am an excellent team worker” or “I am a Java expert”. Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for?
 
@@ -107,7 +107,7 @@ Hobbies reveal some of your personality, which is what employers really care abo
 
   1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a rather dry and factual document. Hobbies can be talking points for the interview, or make you stand out. Hobbies can be an icebreaker if you're fortunate enough to share interests with your interview panel. Don't have any hobbies? Really? There's 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club))
   2. **MEMBER?** If you are involved in activities or societies say what your role is. By itself, what does “member” actually mean - a bit vague. You can be a member without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
-  3. **COMPUTING?** Is computing also your hobby? Don't be ashamed if it is, as it demonstrates your commitment and enthusiasm to the subject beyond just getting a degree.
+  3. **COMPUTING?** Is computing also your hobby? Don't be ashamed if it is. While it's imporant to have a work-life balance, if computing is your hobby (as well as your day job) it shows commitment and enthusiasm to the subject beyond just getting a degree.
 
 ## References (REF)
 
@@ -126,6 +126,6 @@ What to do next:
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * **REJECTION** It is hard work finding a job, most people will make many unsuccessful job applications and interviews before finding something they like. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
 
-Good luck with your applications and interviews. If you need any help contact Mabel, the careers service or myself. I'm happy to give more feedback on improved versions of your CV in the future.
+Good luck with your applications and interviews. If you need any help contact Mabel Yau, the careers service or myself. I'm happy to give more feedback on improved versions of your CV in the future.
 
 --Duncan Hull, October 2015
