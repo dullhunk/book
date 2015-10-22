@@ -28,6 +28,7 @@ This section http://git.io.manc list local employers of Computer Science student
 * Mentor Graphics, https://www.mentor.com,
 * Micron, http://uk.micron.com,
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
+* On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
 * Space 48, http://www.space48.com, WA3 6GA
