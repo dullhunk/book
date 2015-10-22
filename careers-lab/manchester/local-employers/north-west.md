@@ -1,10 +1,11 @@
 
-This section http://git.io.manc list local employers of Computer Science students in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than be comprehensive.
+This section http://git.io/manc list local employers of Computer Science students in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than be comprehensive.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
 * ARM, http://www.arm.com/careers, M2 3BB
+* ARM, http://www.arm.com/careers, S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
 * BBC, http://www.bbc.co.uk, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
