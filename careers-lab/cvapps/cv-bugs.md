@@ -1,8 +1,8 @@
 # Debugging your CV / Résumé
 
-This guide (http://git.io/vWtMn) is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. This is probably the first CV you've written, think of it as version 0.1 (beta release). There are many chances to debug and improve it. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
+This guide (http://git.io/mycv) is based on common bugs we've seen in the School of Computer Science with students CVs (aka Résumés) in the CV Bank at the University of Manchester. If you've had your CV assessed and it is covered in red ink, please don't take it personally. This is probably the first CV you've written, think of it as version 0.1 (beta release). There are many chances to debug and improve it. Find out more at http://www.careers.manchester.ac.uk/applicationsinterviews/cv/ and http://man.ac.uk/6Ef90a
 
-> DISCLAIMER: If you ask three people what they think of your CV, you'll get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on experience, common sense and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
+> DISCLAIMER: If you ask three people what they think of your CV, you'll get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
 
 **Table of Contents**
 
