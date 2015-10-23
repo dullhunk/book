@@ -1,10 +1,6 @@
 
 This section http://git.io/manc lists local employers that employ graduates of Computer Science in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than to be comprehensive.
 
-
-curl -i http://git.io -F "url=https://github.com/dullhunk/book/blob/master/careers-lab/cvapps/cv-bugs.md" -F "code=mycv"
-
-
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
@@ -50,6 +46,6 @@ curl -i http://git.io -F "url=https://github.com/dullhunk/book/blob/master/caree
 * TopCashBack, http://www.topcashback.co.uk/Jobs,
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
-If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. It's free @mcrdig join as a student, and they advertise local vacancies at https://www.manchesterdigital.com/recruitment  
+If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. It's free to join @mcrdig as a student, and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
-*GCHQ have an office in Manchester but they're not telling anyone where it is, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
+*GCHQ have recently opened an office in Manchester but they're not telling anyone where it is, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
