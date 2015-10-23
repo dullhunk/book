@@ -103,7 +103,8 @@ Some general points that apply to all sections of your CV
   10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. “I am an excellent team worker” or “I am a Java expert”. Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for? What was the result?
   11. **RESULTS** As well as describing what you did using active language, it can be good to describe results of your actions. So instead of saying “*developed a system for improving logistics*” you could say “*developed a system for improving logistics which reduced company overheads by 20%*”. This is what the CV and LinkedIn guide at http://man.ac.uk/6Ef90a calls the “CAR Model: Context, Action, Result”.
 
-![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Figure 1. Social Media explained (in donuts)")
+![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social media explained in donuts")
+**Figure 1: Figure 1. Social Media explained (in donuts)**
 
 ## Hobbies and interests (HOB)
 
