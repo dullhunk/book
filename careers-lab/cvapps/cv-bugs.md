@@ -6,7 +6,7 @@ If you have had your CV assessed and it is covered in red ink, please don't take
 
 > DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
 
-While reading this, it is important to remember that the purpose of a CV is to get an interview, not a job.
+While reading this, it is important to remember that the **purpose of a CV is to get an interview, not a job**.
 
 **Table of Contents**
 
@@ -52,7 +52,7 @@ List your skills, providing evidence and context where you can.
   2. **NOT JUST A TECHIE** Remember you have other (soft) skills too. These are just important as your hard skills, so don't forget to mention them.
   3. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also useful to say a little bit about what you've used them for, as its all to easy to list skills you don't actually have.
   4. **PRINCIPLES** Don't forget to mention fundamental principles (the science) you have learned as well as specific tools (the engineering & technology). Technologies come and go very fast - it is the principles you have learned  on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, design patterns, operating systems, security and networks don't change as quickly as the technology does - so make sure you mention them.
-  5. **META** As a computer science student, you also have demonstrable “meta” skills like the ability to learn things quickly  - either ([self-taught](https://en.wikipedia.org/wiki/Autodidacticism)) or learning from peers. You can also think logically, reason, problem solve, analyse and abstract - often to tight deadlines. Again, these are future proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
+  5. **META** As a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly  - either ([self-taught](https://en.wikipedia.org/wiki/Autodidacticism)) or learning from peers. You can also think logically, reason, problem solve, analyse and abstract - often to tight deadlines. Again, these are future-proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
 
 
 ## Personal Details (PD)
