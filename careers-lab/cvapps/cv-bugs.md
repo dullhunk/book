@@ -104,7 +104,8 @@ Some general points that apply to all sections of your CV
   11. **RESULTS** As well as describing what you did using active language, it can be good to describe results of your actions. So instead of saying “*developed a system for improving logistics*” you could say “*developed a system for improving logistics which reduced company overheads by 20%*”. This is what the CV and LinkedIn guide at http://man.ac.uk/6Ef90a calls the “CAR Model: Context, Action, Result”.
 
 ![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social media explained in donuts")
-**Figure 1: Figure 1. Social Media explained (in donuts)**
+
+**Figure 1: Social Media explained (in donuts)**
 
 ## Hobbies and interests (HOB)
 
