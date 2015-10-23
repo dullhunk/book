@@ -90,9 +90,7 @@ The order and structure of your CV is as important as the content
 
 Some general points that apply to all sections of your CV
 
-![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social Media explained in donuts")
-
-  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. If you've not used LinkedIn before, it's a businesss-oriented social networking service for grown ups - where people talk about employment and jobs.
+  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. If you've not used LinkedIn before, it's a businesss-oriented social networking service. Think of it like Facebook or twitter for grown ups, where people talk about employment and business.
   2. **KNOW WHAT I MEAN?** Don't assume the person reading your CV knows what you're talking about. It's a classic mistake to make when writing.
   3. **UNDERSELL** a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer so that they invite you to interview. Don't hide your light under a bushel!
   4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the “Active Language List” described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not.
@@ -102,6 +100,8 @@ Some general points that apply to all sections of your CV
   8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using “*I, me, my*” too much as it gets repetitve and can look self-centered. One way of avoiding this is to put the verb first, so instead of saying “*I developed a system for improving logistics*” you can say “*developed a system for improving logistics*”. Its OK to have a few “I's” in there,  and it is difficult to avoid in a personal statement, but too many I's can look bad.
   9. **SPILLING and GRAMMAR** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document. Proof read it again. Then proof read it again.
   10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. “I am an excellent team worker” or “I am a Java expert”. Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for?
+
+![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social Media explained in donuts")
 
 ## Hobbies and interests (HOB)
 
