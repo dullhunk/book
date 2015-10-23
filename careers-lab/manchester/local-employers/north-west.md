@@ -1,6 +1,10 @@
 
 This section http://git.io/manc lists local employers that employ graduates of Computer Science in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than to be comprehensive.
 
+
+curl -i http://git.io -F "url=https://github.com/dullhunk/book/blob/master/careers-lab/cvapps/cv-bugs.md" -F "code=mycv"
+
+
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
@@ -8,9 +12,11 @@ This section http://git.io/manc lists local employers that employ graduates of C
 * ARM (Sheffield), http://www.arm.com/careers, S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
 * Avecto, http://www.avecto.com, SK8 3SR
+* BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
 * BBC, http://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
+* BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Bentley, http://www.bentley.com,
 * Cantarus, http://www.cantarus.com, M2 4PD
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
@@ -31,6 +37,7 @@ This section http://git.io/manc lists local employers that employ graduates of C
 * Mentor Graphics, https://www.mentor.com, WA14 5GL
 * Micron, http://uk.micron.com, SK8 3GR
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
+* OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
