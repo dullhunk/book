@@ -4,7 +4,9 @@ This guide (http://git.io/mycv) is based on common bugs we've seen in students C
 
 If you have had your CV assessed and it is covered in red ink, please don't take it personally. This is probably one of the first CVs you've written. Think of your CV as version 0.1, alpha or beta release. There are many chances to debug and improve it. Find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
 
-> DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below. **The purpose of a CV is not to get a job, but to get an interview**.
+> DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
+
+While reading this, it is important to remember that the purpose of a CV is to get an interview, not a job.
 
 **Table of Contents**
 
@@ -21,7 +23,7 @@ If you have had your CV assessed and it is covered in red ink, please don't take
 
 ## Education (ED)
 
-For graduates, this should usually be the first section, as it is the most recent and important thing about you, unless you have LOTS of work experience.
+For graduates, education should usually be the first section, as it is the most recent and important thing about you, unless you have LOTS of work experience.
 
   1. **OUTLINE** Give an outline of what you have studied in your degree. For example saying “BSc in Computer Science” is too vague and ambiguous. What have you studied? Include courses that you will be doing in the future, as well as ones you have already done. By the time you get the interview, you'll be able to say more about them. What exactly does YOUR Computer Science degree mean? Add some brief context... Just saying “BSc Computer Science” is not enough, there are thousands of undergraduate courses in computer science and they are all very different - so spell it out in detail.
   2. **TOO MUCH**... but don't list every single module you've done - just summarise the courses that are relevant to the job, the ones you found interesting or excelled at
