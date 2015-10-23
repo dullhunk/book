@@ -46,6 +46,6 @@ This section http://git.io/manc lists local employers that employ graduates of C
 * TopCashBack, http://www.topcashback.co.uk/Jobs,
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
-If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. It's free to join @mcrdig as a student, and they advertise jobs at https://www.manchesterdigital.com/recruitment  
+If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
-*GCHQ have recently opened an office in Manchester but they're not telling anyone where it is, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
+*GCHQ have recently opened an office in Manchester but they are not telling anyone where it is, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
