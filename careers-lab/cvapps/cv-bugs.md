@@ -78,6 +78,7 @@ It is really important to get the formatting of your CV right so that it looks p
 
   space and make it harder to read the document - they distract the reader from what you are saying.
   11. **TABULATE** Tables can be a good way to arrange information, but they usually look better, cleaner and easier to read WITHOUT a border
+  12. **ONE PAGE OR TWO?** Its handy to have both a one page and a two page CV. It is usually much easier to write a two pager than a one pager, but some employers demand a one page.
 
 ## Structure (ST)
 
@@ -90,18 +91,19 @@ The order and structure of your CV is as important as the content
 
 Some general points that apply to all sections of your CV
 
-  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. If you've not used LinkedIn before, it's a businesss-oriented social networking service. Think of it like Facebook or twitter for grown ups, where people talk about employment and business.
+  1. **HYPER LINKING** It is good to have *some* links, preferably clickable URLs, in your PDF. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, LinkedIn, GitHub, BitBucket, Stackoverflow profile, any project URLs, hackathon / competition URLs  (without overlinking). If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url] (https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. If you've not used LinkedIn before, it's a businesss-oriented social networking service. Think of it like Facebook or Twitter for grown ups, where people talk about employment and business. See Figure 1. for details.
   2. **KNOW WHAT I MEAN?** Don't assume the person reading your CV knows what you're talking about. It's a classic mistake to make when writing.
   3. **UNDERSELL** a CV is no place for modesty - it is a professional advert for you - to sell what you have to a prospective employer so that they invite you to interview. Don't hide your light under a bushel!
-  4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the “Active Language List” described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not.
+  4. **ACTIVE LANGAGE** Starting sentences with VERBS can often help, see the “Active Language List” described in http://man.ac.uk/6Ef90a Don't make the reader trawl through long pieces of prose to find out more, bullets are usually easier to scan and digest. Your CV will be assessed in seconds or minutes, the reader won't have time to read your life story - they are just trying to decide if they should interview your or not. You will be able to fill in the details at interview.
   5. **OVERSELL** but don't oversell by exaggerating or being deceptive about your achievements - it is easy to spot and check up on. Some employers have very rigorous background checks, so honesty is the best policy. If one inconsistency is found in your CV, however trivial, you could be rejected.
   6. **QUANTIFY** improve any claims you make by adding numbers. For example, instead of saying “won prize for best student in year” you could say “won prize for best student in year (out of 200 in total)”
   7. **EXPAND** Expand abbreviations where you have space. For example, not everyone reading your CV will know what PASS stands for
-  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using “*I, me, my*” too much as it gets repetitve and can look self-centered. One way of avoiding this is to put the verb first, so instead of saying “*I developed a system for improving logistics*” you can say “*developed a system for improving logistics*”. Its OK to have a few “I's” in there,  and it is difficult to avoid in a personal statement, but too many I's can look bad.
+  8. **ME ME ME ME ME ME ME** Your CV is all about you, but you should be careful to avoid using “*I, me, my*” too much as it gets repetitve and can make you sound like a self-centered egomaniac. One way of avoiding this is to put the verb first, so instead of saying “*I developed a system for improving logistics*” you can say “*developed a system for improving logistics*”. It is OK to have a few “I's” in there,  and it is difficult to avoid in a personal statement, but too many I's can look bad.
   9. **SPILLING and GRAMMAR** Bad spelling and dodgy grammar looks awful. Use a spell checker. Proof read the document. Proof read it again. Then proof read it again.
-  10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. “I am an excellent team worker” or “I am a Java expert”. Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for?
+  10. **PROVE IT** It is very easy to make statements without backing them up with evidence or context. Wherever you can, try to avoid making unsupported claims e.g. “I am an excellent team worker” or “I am a Java expert”. Anyone can SAY this, how can you PROVE it? Don't tell me, show me. When did you work in a team? What did you use Java for? What was the result?
+  11. **RESULTS** As well as describing what you did using active language, it can be good to describe results of your actions. So instead of saying “*developed a system for improving logistics*” you could say “*developed a system for improving logistics which reduced company overheads by 20%*”. This is what the CV and LinkedIn guide at http://man.ac.uk/6Ef90a calls the “CAR Model: Context, Action, Result”.
 
-![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social Media explained in donuts")
+![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Figure 1. Social Media explained (in donuts)")
 
 ## Hobbies and interests (HOB)
 
@@ -122,15 +124,15 @@ The last thing on your CV
 
 What to do next:
 
-* **RELEASE OFTEN** Having [released your CV early, keep releasing it often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, family and personal tutor etc. The more people who see it, the better it will get. You can apply many of the the principles of [agile software development](https://en.wikipedia.org/wiki/Agile_software_development) to your CV.
-* **IMPROVING** See five steps to take next: Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and
-  * First years see http://www.careers.manchester.ac.uk/first/
-  * Middle years see  http://www.careers.manchester.ac.uk/middegree/
-  * Final years see http://www.careers.manchester.ac.uk/final/
+* **RELEASE OFTEN** Having [released your CV early, keep releasing it often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, colleagues, family, personal tutor, pet dog etc. The more people who see it, the better it will get. You can apply many of the the principles of [agile software development](https://en.wikipedia.org/wiki/Agile_software_development) to your CV.
+* **IMPROVING** See five steps to take next: Explore, Connect, Communicate, Reflect and Apply http://www.careers.manchester.ac.uk/myfuture/ and if you are in:
+  * First year of your degree, see http://www.careers.manchester.ac.uk/first/
+  * Middle years of your degree, see  http://www.careers.manchester.ac.uk/middegree/
+  * Final years of your degree, see http://www.careers.manchester.ac.uk/final/
 * **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * **REJECTION** It is hard work finding a job, most people will make many unsuccessful job applications and interviews before finding something they like. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
 
-Good luck with your applications and interviews. If you need any help contact Mabel Yau, the careers service or myself. I'm happy to give more feedback on improved versions of your CV in the future.
+Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), the [http://www.careers.manchester.ac.uk/services/guidance/](careers service) or myself. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---Duncan Hull, October 2015
+--[Duncan Hull](http://www.cs.man.ac.uk~hulld), October 2015
