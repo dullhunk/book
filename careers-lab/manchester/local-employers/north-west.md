@@ -19,7 +19,7 @@ This section http://git.io/manc lists local employers that employ graduates of C
 * Code Computer Love, http://www.codecomputerlove.com, M1 2BE
 * CodeThink, http://www.codethink.co.uk, M1 2JW
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
-* Daresbury Laboratory, http://www.stfc.ac.uk/about-us/where-we-work/daresbury-laboratory/,
+* Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DataCentred, http://www.datacentred.co.uk,
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu,
@@ -46,6 +46,6 @@ This section http://git.io/manc lists local employers that employ graduates of C
 * TopCashBack, http://www.topcashback.co.uk/Jobs,
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
-If you’re interested in more Manchester based employers, another place you can look is https://www.manchesterdigital.com. Manchester Digital is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
+If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
-*GCHQ have recently opened an office in Manchester but they are not telling anyone where it is, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
+*GCHQ have recently opened an office in Manchester but they are not telling anyone where it is. Top secret, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
