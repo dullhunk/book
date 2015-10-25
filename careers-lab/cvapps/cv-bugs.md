@@ -1,6 +1,6 @@
 # Debugging your CV / Résumé
 
-This guide (http://git.io/mycv) is based on common bugs we've seen in students CVs (aka Résumés) submitted to the CV Bank in the School of Computer Science at the University of Manchester.
+This guide (http://git.io/mycv) is based on common bugs we've seen in students CVs (aka Résumés) submitted to the School of Computer Science CV Bank at the University of Manchester.
 
 If you have had your CV assessed and it is covered in red ink, please don't take it personally. This is probably one of the first CVs you've written. Think of your current CV as version 0.1, alpha or beta release. There are many chances to debug and improve it - find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
 
@@ -78,7 +78,7 @@ It is really important to get the formatting of your CV right so that it looks p
   4. **PDF** The Portable Document Format is a more idiot-proof way to distribute documents than Word files, and PDF works on more platforms and devices. Beware of converting Word to PDF, it can be an unpredictable and lossy conversion which messes up fonts, page breaks and other important formatting. Some employers will use software that won't accept PDFs, and will insist on Word. Thankfully they are not too common.
   5. **MICROSOFT / GOOGLE** Word, Google Docs and other word processors are OK, if that is what you are most comfortable with. However, using LaTeX can make your CV stand out because the typography is usually much better. If you did COMP101, remember [Why LaTeX?](http://studentnet.cs.manchester.ac.uk/ugt/COMP10120/labscripts/101lab3.pdf) Despite the limitations of LaTeX, it is a very good tool for making professionally typeset PDFs. There are some good CV templates available from [overleaf.com/gallery/tagged/cv](https://www.overleaf.com/gallery/tagged/cv) and [sharelatex.com/templates/cv-or-resume](https://www.sharelatex.com/templates/cv-or-resume). Plenty of good generic templates are available elsewhere  [google.com/search?q=cv+template](https://www.google.com/search?q=cv+template).
   6. **STYLE** Don't underestimate the importance of style, formatting and typography. Badly formatted CVs will end up in the bin. Formatting can be tedious, labour intensive and time consuming, but it is worth spending the time to get it right. Use a template if it helps, see for example Bryn's CV http://bryn.co.uk/CV.pdf. Bryn is a third year student in Computer Science on placement at Google during 2015/6.
-  7. **AVOID UNDERLINE** Underline was <span style="text-decoration: underline">designed for typewriters</span> and should usually be avoided. Sometimes it is OK to use underline for hyperlinks, as it helps to show that they are clickable URLs. `Fixed width fonts` look pretty horrible too (for example default URLs in LaTeX). Look at any professional document, it is very unlikely that you will find underline or `fixed width fonts` unless it is code ()
+  7. **AVOID UNDERLINE** Underline was <span style="text-decoration: underline">designed for typewriters</span> and should usually be avoided. Sometimes it is OK to use underline for hyperlinks, as it helps to show that they are clickable URLs. `Fixed width fonts` look pretty horrible too (for example default URLs in LaTeX). Look at any professional document, it is very unlikely that you will find underline. `Fixed width fonts` are usually reserved for code, not something you're likely to have on your CV
   8. **PRINT IT** Print out your CV to check what it actually looks like with different printers. Can you read it? Odd things can happen that make your CV look rubbish, so it is worth trying out a few different printers. Does it fit nicely on two pages? Are there any nasty page and line breaks that create ugly [widowed & orphaned text](https://en.wikipedia.org/wiki/Widows_and_orphans)? If you're using a fancy looking font, bear in mind that they may not be available on every device and printer. You might need to investigate [embedding the fonts in the pdf](https://www.google.co.uk/search?q=embed+fonts+pdf) to prevent any [font substitution](https://en.wikipedia.org/wiki/Font_substitution) spoiling your hard work.
   9. **BAD PAGE BREAKS** splitting sections across pages is usually a bad idea and can waste space. If you have to split a section, make sure the title follows it. e.g. “EXPERIENCE (continued)”
   10. **BAD LINE BREAKS** take care that the line breaks occur in sensible places, if necessary, adjust the text so it fits better into the space available. Bad line breaks waste valuable
@@ -112,7 +112,7 @@ Some general points that apply to all sections of your CV
 
 ![social media explained in donuts](http://www.geek.com/wp-content/uploads/2012/02/social_media_donut-590x590.jpg "Social media explained in doughnuts")
 
-**Figure 1: Social Media explained (in donuts)**
+**Figure 1: Social Media explained (in doughnuts)**
 
 ## Hobbies and interests (HOB)
 
