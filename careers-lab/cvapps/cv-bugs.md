@@ -116,7 +116,7 @@ Some general points that apply to all sections of your CV
 
 Hobbies reveal some of your personality, which is what employers really care about
 
-  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a dry and factual document. Hobbies can be talking points for the interview, or make you stand out. They can also break the ice if you are fortunate enough to share interests with your interview panel. Don't have any hobbies? Really? There are 500 different societies to choose from in [Manchester Student's Union](http://manchesterstudentsunion.com) alone (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club))
+  1. **ANYONE FOR QUIDDITCH?** Hobbies aren't just an afterthought - it is an opportunity to stamp your personality on your CV and add a bit of colour to what can be a dry and factual document. Hobbies can be talking points for the interview, or make you stand out. They can also break the ice if you are fortunate enough to share interests with your interview panel. You might not have lots of spare time outside of study, but there is much more to university that just getting a degree. For example, there are ~500 different societies you could get involved in at [Manchester Student's Union](http://manchesterstudentsunion.com) alone (including [Quidditch](https://en.wikipedia.org/wiki/Quidditch) see [quidditch club](http://manchesterstudentsunion.com/groups/quidditch-club))
   2. **MEMBER?** If you are involved in activities or societies you should explain your role in the group. By itself, “member” is very vague, you can be a member without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
   3. **COMPUTING?** Is computing also your hobby? Don't be ashamed if it is. While it is imporant to have a work-life balance, if computing is your hobby (as well as your degree and day job) it shows commitment and enthusiasm to the subject beyond education.
 
@@ -138,8 +138,9 @@ What to do next:
   * Final years of your degree, see http://www.careers.manchester.ac.uk/final/
 * **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
-* **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and interviews before finding something they like. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
+* **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
+* **SUGGESTIONS?** If you have any comments or suggestions on how to improve this guide, you can submit a pull request. The source is written in markdown, and we welcome constructive feedback
 
 Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), the [careers service](http://www.careers.manchester.ac.uk/services/guidance/) or myself. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---[Duncan Hull](http://www.cs.man.ac.uk~hulld), October 2015
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), October 2015
