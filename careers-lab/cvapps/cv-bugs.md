@@ -2,13 +2,13 @@
 
 This guide (http://git.io/mycv) is based on common bugs we've seen in students CVs (aka Résumés) submitted to the School of Computer Science CV Bank at the University of Manchester.
 
-If you have had your CV assessed and it is covered in red ink, please don't take it personally. This is probably one of the first CVs you've written. Think of your current CV as version 0.1, alpha or beta release. There are many chances to debug and improve it - find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
+It is meant as a reference to be read in conjuction with your assessed CV, which might well be covered in red ink by now. Please don't take it personally -  this is probably one of the first CVs you've written. Think of your current CV as version 0.1, alpha or beta release. There are many chances to debug and improve it - find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
 
 > DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
 
 While reading this guide, remember that
-* the **main purpose of a CV is to get an interview, not a job**
-* your CV will be probably be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes
+* the **main purpose of a CV is to get an interview, not a job**.  A CV should catch people's attention, provide talking points for an interview but not give your life story
+* the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity is key
 
 **Table of Contents**
 
