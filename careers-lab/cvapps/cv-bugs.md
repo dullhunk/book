@@ -1,14 +1,12 @@
 # Debugging your CV / Résumé
 
-This guide (http://git.io/mycv) is based on common bugs we've seen in students CVs (aka Résumés) submitted to the School of Computer Science CV Bank at the University of Manchester.
-
-It is meant as a reference to be read in conjuction with your assessed CV, which might well be covered in red ink by now. Please don't take it personally -  this is probably one of the first CVs you've written. Think of your current CV as version 0.1, alpha or beta release. There are many chances to debug and improve it - find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
+This guide (http://git.io/mycv) is based on common bugs we've seen in students CVs (aka Résumés) submitted to the School of Computer Science CV Bank at the University of Manchester. It is meant as a reference to be read in conjuction with your assessed CV, which might well be <span style="color:red">covered in red inkred</span>. Please don't take it personally -  this is probably one of the first CVs you've written. Think of your current CV as version 0.1, alpha or beta release. There are many chances to debug and improve it - find out more at http://man.ac.uk/U1q7VI and http://man.ac.uk/6Ef90a
 
 > DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of whoever is reading it. There are some general rules, which are described below.
 
-While reading this guide, remember that
-* the **main purpose of a CV is to get an interview, not a job**.  A CV should catch people's attention, provide talking points for an interview but not give your life story
-* the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity is key
+While referring to this guide, remember that
+* the **main purpose of a CV is to get an interview, not a job**.  A CV should catch people's attention and  provide talking points for an interview but not give your life story
+* the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
 
 **Table of Contents**
 
@@ -27,7 +25,7 @@ While reading this guide, remember that
 
 For graduates, education should usually be the first section, as it is the most recent and important thing about you, unless you have LOTS of work experience.
 
-  1. **OUTLINE** Give an outline of what you have studied in your degree. For example saying “BSc in Computer Science” is too vague and ambiguous. What have you studied? Include courses that you will be doing in the future, as well as ones you have already done. By the time you get the interview, you'll be able to say more about them. What exactly does YOUR Computer Science degree mean? Add some brief context... Just saying “*BSc Computer Science*” is not enough, there are [thousands of undergraduate courses in computer science in the UK](http://unistats.co.uk/Search/SubjectList/035) and they are all very different - so give *some* of the details.
+  1. **OUTLINE** Give an outline of what you have studied in your degree. For example saying “BSc in Computer Science” is too vague and ambiguous. What have you studied? Include courses that you will be doing in the future, as well as ones you have already done. By the time you get the interview, you'll be able to say more about them. What exactly does YOUR Computer Science degree mean? Add some brief context... Just saying “*BSc Computer Science*” is not enough, there are [thousands of undergraduate courses in computer science in the UK](http://unistats.co.uk/Search/SubjectList/035) and they are all very different - so give *some* of the details including those up to the end of your current year of study
   2. **TOO MUCH**... but don't list every single module you've done - just summarise the courses that are relevant to the job, the ones you found interesting or excelled at
   3. **AVERAGE** Give an overall degree classification e.g “first year average, 65%, 2:1” but don't list every mark for every course. Long lists of marks are usually a waste of space and tedious for the person reading it, unless you want to highlight exceptional performance in particular modules you have studied. Whatever mark you are describing, two significant figures is enough e.g. don't say “*68.71% overall mark*” - just “*68% average mark*” will do
   4. **AIMING HIGHER** If you hope that your degree classification will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
