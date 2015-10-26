@@ -1,12 +1,11 @@
 # Guest lectures in the School of Computer Science
 
-The school hosts a number of guest lectures from our collaborators in industry and academia. There are five main ways that guest lectures can be done:
+The school hosts a number of guest lectures from our collaborators in industry and academia. There are four main ways that guest lectures can be arranged:
 
   1. Scheduled lectures for [COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/), a first year course with 200+ enrolled students. For the academic year 2015/6, these talks take place from 11am to 11.50am in Lecture Theatre 1.1 in the Kilburn building
   2. [School research seminars](http://www.cs.manchester.ac.uk/our-research/seminars/) arranged by Profesor [Robert Stevens](http://www.cs.man.ac.uk/~stevensr/)
-  3. Technical talks arranged as part of a schedule module or course, [speak to the course leader for the relevant course](http://www.cs.manchester.ac.uk/about-us/staff/).
-  4. Drop in sessions
-  5. One-off talks arranged *ad hoc* that are not part of scheduled series of lectures, for example tehnical talks about [Life at Google](https://docs.google.com/presentation/d/1_YQw3gyfOVGB4C0HAM89eREGTJ95GSMwnCv48UWws1s/edit?pli=1), [engineering at twitter](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=188) and [Digital Media the BBC](http://www.cs.manchester.ac.uk/industry/news/full-article/?articleid=432)
+  3. Technical talks arranged as part of a scheduled course, [speak to the course leader for the relevant course](http://www.cs.manchester.ac.uk/about-us/staff/). These tend to be more advanced courses aimed at students later in their degrees or as part of postgraduate study.
+  4. One-off talks arranged *ad hoc* that are not part of scheduled series of lectures, for example [Life at Google](https://docs.google.com/presentation/d/1_YQw3gyfOVGB4C0HAM89eREGTJ95GSMwnCv48UWws1s/edit?pli=1), [engineering at twitter](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=188) and [Digital Media the BBC](http://www.cs.manchester.ac.uk/industry/news/full-article/?articleid=432)
 
 For COMP101, recent guest lectures have included American Express, Apadmi, Professor [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)), Network Rail, NCC Group plc, the BBC,  CodeThink, Code Club, IBM, Morgan Stanley, Manchester Girl Geeks, ThoughtWorks, Web Applications UK, ARM Holdings plc, Imagination Technology and the Hut Group. Some example guest lectures for COMP101 are shown below to give a flavour of the kind of talks that are appropriate
 
