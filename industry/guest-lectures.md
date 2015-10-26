@@ -1,6 +1,6 @@
 # Guest lectures in the School of Computer Science
 
-The school hosts a number of guest lectures from our collaborators in industry and academia. There are four main ways that guest lectures can be arranged:
+The school welcomes external speaks and hosts a number of guest lectures from our collaborators in industry and academia. There are four main ways that guest lectures can be arranged:
 
   1. Scheduled lectures for [COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/), a first year course with 200+ enrolled students. For the academic year 2015/6, these talks take place from 11am to 11.50am in Lecture Theatre 1.1 in the Kilburn building
   2. [School research seminars](http://www.cs.manchester.ac.uk/our-research/seminars/) arranged by Profesor [Robert Stevens](http://www.cs.man.ac.uk/~stevensr/)
