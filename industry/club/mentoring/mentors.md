@@ -10,7 +10,6 @@
 - [Preparing Mentors for the Scheme](#preparing-mentors-for-the-scheme)
 - [How to sign up](#how-to-sign-up)
 
-
 ## Outline of the Mentoring Scheme
 
 We are looking to recruit volunteers from industry to act as mentors to teams of undergraduate students studying [Software Engineering in their second year](https://studentnet.cs.manchester.ac.uk/ugt/COMP23420/syllabus/). This is the only compulsory course in the second year, with around 200 students every year. The aim of the scheme is to increase the industrial relevance of the course unit for our students by giving them access to an industry professional who can discuss (amongst other things):
