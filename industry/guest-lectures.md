@@ -13,7 +13,7 @@ For COMP101, recent guest lectures have included American Express, Apadmi, Profe
 * [Debunking the myths associated with User Experience (delivered by American Express)](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=1797)
 * [The Business of Intellectual Property (delivered by Imagination Technology)](https://dl.dropboxusercontent.com/u/3560709/Business%20of%20IP%20-%20Updated%2018112014.pdf)
 * [How to Break a Hacker's Mind, Web Application Vulnerabilities Exposed (delievered by Morgan Stanley)](http://www.cs.manchester.ac.uk/employability/news/full-article/?articleid=628)
-* [Why PHP is awesome!](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=734)
+* [Why PHP is awesome! (delivered by Magma Digital)](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=734)
 * [50 billion ARM chips (delivered by ARM)](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=790)
 * [Preparing yourself for the challenges of Software Development (delivered by Web Applications UK)](http://www.cs.manchester.ac.uk/industry/news/full-article/?articleid=402)
 * [Computing in the Community (delivered by CodeClub & Manchester Girl Geeks)](http://www.cs.manchester.ac.uk/employability/news/full-article/?articleid=1929)
