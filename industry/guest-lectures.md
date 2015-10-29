@@ -3,7 +3,7 @@
 The school welcomes external speaks and hosts a number of guest lectures from our collaborators in industry and academia. There are four main ways that guest lectures can be arranged:
 
   1. Scheduled lectures for [COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/), a first year course with 200+ enrolled students. For the academic year 2015/6, these talks take place from 11am to 11.50am in Lecture Theatre 1.1 in the Kilburn building
-  2. [School research seminars](http://www.cs.manchester.ac.uk/our-research/seminars/) arranged by Profesor [Robert Stevens](http://www.cs.man.ac.uk/~stevensr/)
+  2. [School research seminars](http://www.cs.manchester.ac.uk/our-research/seminars/?seminarid=past) arranged by Profesor [Robert Stevens](http://www.cs.man.ac.uk/~stevensr/)
   3. Technical talks arranged as part of a scheduled course, [speak to the course leader for the relevant course](http://www.cs.manchester.ac.uk/about-us/staff/). These tend to be more advanced courses aimed at students later in their degrees or as part of postgraduate study.
   4. One-off talks arranged *ad hoc* that are not part of scheduled series of lectures, for example [Life at Google](https://docs.google.com/presentation/d/1_YQw3gyfOVGB4C0HAM89eREGTJ95GSMwnCv48UWws1s/edit?pli=1), [engineering at twitter](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=188) and [Digital Media the BBC](http://www.cs.manchester.ac.uk/industry/news/full-article/?articleid=432)
 
