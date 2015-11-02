@@ -1,5 +1,5 @@
 
-This section http://git.io/manc lists local employers that employ Computer Science students (either before or after graduation) in and around Manchester, what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is a partial list, designed to give you a flavour of local employers rather than to be comprehensive. Rather than give the full address, the postcode for each of the organisations is listed after their web address.
+This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode for each of the organisations is shown.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
