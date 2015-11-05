@@ -1,4 +1,4 @@
-* Drop in sessions in the School of Computer Science *
+# Drop in sessions in the School of Computer Science
 
 At the School of Computer Science, University of Manchester, we schedule regular drop in sessions at peak times through the academic year allowing companies direct access to our students.
 
@@ -8,10 +8,10 @@ We will help support the promotion of your drop in session, using our virtual le
 
 For the session we can provide tables, chairs, web access etc (with prior notice). If you wish to bring specialist equipment we will be happy to discuss your requirements with you. Materials can be sent in advance to us directly if you wish.
 
-* Directions and parking * 
-We are based in the Kilburn Building, a campus map can be found here - http://www.manchester.ac.uk/aboutus/travel/maps/ (we are building 39) and at http://www.cs.manchester.ac.uk/about-us/find-us/
+# Directions and parking
+We are based in the Kilburn Building, http://www.cs.manchester.ac.uk/about-us/find-us/. A full campus map can be found at http://www.manchester.ac.uk/aboutus/travel/maps/ The Kilburn building is number 39 on that map.
 
-If you are travelling by car, the nearest public car par is the [NCP Aquatic Centre](http://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/). At times this can get rather busy, if you struggle to get a space you could try parking at Booth Street car park (located near the Royal College of Music (RNCM)).
+If you are travelling by car, the nearest public car par is the [NCP Aquatic Centre](http://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/). At times this can get  busy, if you struggle to get a space you could try parking at Booth Street car park (located near the Royal College of Music (RNCM)).
 
 If you are travelling by train, the nearest stations are Manchester Piccadilly or Manchester Oxford Road.
 
