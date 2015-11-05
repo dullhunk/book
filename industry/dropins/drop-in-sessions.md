@@ -1,8 +1,8 @@
-# Drop in sessions in the School of Computer Science
+# Drop-in sessions in the School of Computer Science
 
-At the School of Computer Science, University of Manchester, we schedule regular drop in sessions at peak times through the academic year allowing companies direct access to our students.
+At the School of Computer Science, University of Manchester, we schedule regular drop-in sessions at peak times through the academic year allowing companies direct access to our students.
 
-The sessions are small and informal held over a lunch period, usually in a busy area where students are going to and from the labs, lecture theatres and café on the lower first.
+The sessions are small and informal held over a lunch period, usually in a busy area where students are going to and from the labs, lecture theatres and Byte café on the lower first floor. These sessions take place during term time http://www.manchester.ac.uk/discover/key-dates/
 
 We will help support the promotion of your drop in session, using our virtual learning environment and notice boards, plasma screens etc. Any suitable text, posters etc you provide can be used.
 
@@ -11,7 +11,7 @@ For the session we can provide tables, chairs, web access etc (with prior notice
 # Directions and parking
 We are based in the Kilburn Building, http://www.cs.manchester.ac.uk/about-us/find-us/. A full campus map can be found at http://www.manchester.ac.uk/aboutus/travel/maps/ The Kilburn building is number 39 on that map.
 
-If you are travelling by car, the nearest public car par is the [NCP Aquatic Centre](http://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/). At times this can get  busy, if you struggle to get a space you could try parking at Booth Street car park (located near the Royal College of Music (RNCM)).
+If you are travelling by car, the nearest public car par is the [NCP Aquatic Centre](http://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/). At times this can get  busy, if you struggle to get a space you could try parking at Booth Street car park, located near the Royal College of Music (RNCM).
 
 If you are travelling by train, the nearest stations are Manchester Piccadilly or Manchester Oxford Road.
 
