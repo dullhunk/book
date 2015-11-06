@@ -15,4 +15,8 @@ Table 1: Big Tech Companies by revenue, employees and market capatilisation as o
 
 Cracking the coding interview
 
+![Size of companies by market value](https://pbs.twimg.com/media/CTEAb_DWoAAa6wD.jpg)
+
+
+
 For reference, twitter, ibm and microsoft
