@@ -73,7 +73,7 @@ We’ll be very grateful for any additional contact mentors propose to have with
 
 ## Preparing Mentors for the Scheme
 
-There will be a []‘training’ workshop for mentors on Thursday 21st January from 10am to midday](https://cs-mentor-training.eventbrite.co.uk), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
+There will be a [training workshop for mentors on Thursday 21st January from 10am to midday](https://cs-mentor-training.eventbrite.co.uk), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
 
 ## How to sign up
 
