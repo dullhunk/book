@@ -19,4 +19,8 @@ Cracking the coding interview
 
 http://on.ft.com/20xkwaB  (subscription required)
 
+and 
+
+![Relative worth of big technology organisations](https://pbs.twimg.com/media/CTIr4H7WcAAVMNt.png)
+
 For reference, twitter, ibm and microsoft
