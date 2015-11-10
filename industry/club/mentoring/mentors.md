@@ -32,14 +32,14 @@ The mentoring scheme will run twice in each academic year, once in each semester
 
 Within a single semester, we ask mentors to interact with their teams at the following times:
 
-* Week beginning 22nd February (week 4 of teaching), we’ll ask mentors to come into the University to meet with their teams and kickstart the mentoring relationship during this week.  By default, mentors will come to the University for a 2 hour period, during which time they will spend an hour with each of two teams assigned to them.
-* Week beginning 18th April (week 9 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, they can:
+* **Week beginning 22nd February 2016** (week 4 of teaching), we’ll ask mentors to come into the University to meet with their teams and kickstart the mentoring relationship during this week.  By default, mentors will come to the University for a 2 hour period, during which time they will spend an hour with each of two teams assigned to them.
+* **Week beginning 18th April 2016** (week 9 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, they can:
 
   * Arrange a face-to-face meeting with their teams at some other mutually convenient time and place.
   * Arrange to hold an electronic meeting with their teams.
   * Arrange for a colleague from their organisation to meet with their teams in their place.
 
-* Week beginning 2nd May (week 11 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
+* **Week beginning 2nd May 2016** (week 11 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
 
 <!--note that in semester one this date is week 12 - not week eleven-->
 
