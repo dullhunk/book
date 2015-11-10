@@ -33,19 +33,22 @@ The mentoring scheme will run twice in each academic year, once in each semester
 Within a single semester, we ask mentors to interact with their teams at the following times:
 
 * Week beginning 22nd February (week 4 of teaching), we’ll ask mentors to come into the University to meet with their teams and kickstart the mentoring relationship during this week.  By default, mentors will come to the University for a 2 hour period, during which time they will spend an hour with each of two teams assigned to them.
-* Week beginning 11th April (week 8 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, they can:
+* Week beginning 18th April (week 9 of teaching): we’ll ask mentors to come to the University for a second meeting with their teams during this week.  Ideally, mentors will be able to come for a 2 hour visit, and will meet with the same two teams they met in week 4.  However, we recognise that this commitment might be difficult for mentors to make, and therefore we’ll offer a number of other options for this second meeting.  If a mentor cannot visit the university in week 8, they can:
 
   * Arrange a face-to-face meeting with their teams at some other mutually convenient time and place.
   * Arrange to hold an electronic meeting with their teams.
   * Arrange for a colleague from their organisation to meet with their teams in their place.
 
-* Week beginning 9th May (week 12 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
+* Week beginning 2nd May (week 11 of teaching): mentors can optionally attend the end-of-semester assessment showcase sessions, in which teams will present their work from across the semester.
+
+<!--note that in semester one this date is week 12 - not week eleven-->
+
 
 ## What are the benefits to employers of mentoring?
 
 Mentoring could be beneficial to employers in several ways, including advertising their company, building relationships with students, and - importantly - improving the quality of the entire cohort by helping to embed good software practices early on.
 
-An optional showcase session at the end of the seemster will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students for recruitment.
+An optional showcase session at the end of the semester will provide an opportunity for mentors to assess all the teams presenting (other than their own mentees), which will provide contact for employers with a wider group of students for recruitment.
 
 
 ## What Will Mentors Do During the Visits?
@@ -70,8 +73,8 @@ We’ll be very grateful for any additional contact mentors propose to have with
 
 ## Preparing Mentors for the Scheme
 
-There will be a ‘training’ workshop for mentors in mid January (w/c 18th January), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
+There will be a []‘training’ workshop for mentors on Thursday 21st January from 10am to midday](https://cs-mentor-training.eventbrite.co.uk), where we will provide further details about the cohort and course unit, and there will be the opportunity to ask questions and raise any potential issues. We will also ensure that mentors have full access to all the teaching materials that the students receive.
 
 ## How to sign up
 
-If you are interested and would like to know more please contact [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
+If you would like to register your interest as a volunteer for this scheme please fill in the [expression of interest form](https://goo.gl/G463yf) or email [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
