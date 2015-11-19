@@ -20,3 +20,5 @@ For COMP101, recent guest lectures have included American Express, Apadmi, Profe
 * [How to be a brilliant software engineer (delivered by Apadmi)](http://www.cs.manchester.ac.uk/industry/news/full-article/?articleid=2002)
 
 For COMP101, we are always looking for good speakers who can engage large groups of students on interesting topics that they care about and relate to Computer Science. If you would like to propose a guest lecture, please contact [Duncan Hull](http://www.cs.man.ac.uk/~hulld/). There are a limited number of guest lecture slots (around 20) which run through [term-time](http://www.manchester.ac.uk/discover/key-dates/) on Thursdays at 11am starting in November and finishing in early June. Its important that the lectures are much more than just a sales pitch for an organisation, they should have some content that relates to the [(very broad) syllabus of COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/).
+
+Please include a short description of your talk and a short biography of the speaker(s).
