@@ -1,4 +1,4 @@
-# COMPETITIONS and HACKATHONS
+# Competitions and Hackathons
 
 We encourage our students to take place in various competitions, either organised by ourselves or other organisations. Here is a selection of events students have been involved in recently.
 
