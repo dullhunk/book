@@ -2,6 +2,7 @@
 This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode for each of the organisations is shown.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
+* AO, http://www.ao-jobs.com, BL6 4SD
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
 * ARM (Manchester), http://www.arm.com/careers, M2 3BB
@@ -13,6 +14,7 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * BBC, http://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
+* Boo Hoo, https://careers.boohoo.com, M1 2HF
 * Bentley, http://www.bentley.com,
 * Cantarus, http://www.cantarus.com, M2 4PD
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
@@ -44,6 +46,7 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M1 4BT
 * TopCashBack, http://www.topcashback.co.uk/Jobs,
+* Wakelet, https://wakelet.com, 
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
