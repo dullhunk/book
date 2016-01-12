@@ -8,3 +8,4 @@ We encourage all students to take place in competitions and hackathons because t
 * The Facebook Global Hackathon, London & California see [students winning entry AppChef](https://youtu.be/O_f6nL04N-o) and an [account of how they got there](https://medium.com/hacker-daily/winning-the-facebook-global-hackathon-2014-808d1b3219e4#.c9hu5woao).
 * Major League Hackathon(s) - various events around the UK & Europe described at https://mlh.io
 * The ACM Programming Contest https://icpc.baylor.edu
+* Annual [staff vs. students programming contest](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=814)
