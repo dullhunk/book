@@ -9,3 +9,4 @@ We encourage all students to take place in competitions and hackathons because t
 * Major League Hackathon(s) - various events around the UK & Europe described at https://mlh.io
 * The ACM Programming Contest https://icpc.baylor.edu
 * Annual [staff vs. students programming contest](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=814)
+* [Big Chip Awards (Little Chip)](http://bigchipawards.com)
