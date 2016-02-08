@@ -10,3 +10,4 @@ We encourage all students to take part in competitions and hackathons because th
 * The ACM Programming Contest https://icpc.baylor.edu
 * Annual [staff vs. students programming contest](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=814)
 * [Big Chip Awards (Little Chip)](http://bigchipawards.com)
+* #HashCode from Google [https://hashcode.withgoogle.com](ttps://hashcode.withgoogle.com)
