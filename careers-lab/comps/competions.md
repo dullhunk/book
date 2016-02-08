@@ -1,6 +1,6 @@
 # Competitions and Hackathons
 
-We encourage all students to take place in competitions and hackathons because they are a [fun way to learn](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000). Here is a selection of events students have been involved in recently.
+We encourage all students to take part in competitions and hackathons because they are a [fun way to learn](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000). Here is a selection of events students have been involved in recently.
 
 * The GreatUniHack http://greatunihack.co.uk
 * Hack Manchester http://www.hackmanchester.com
