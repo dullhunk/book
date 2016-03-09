@@ -2,7 +2,7 @@
 
 At the School of Computer Science, University of Manchester, we schedule regular drop-in sessions at peak times through the academic year allowing companies direct access to our students.
 
-The sessions are small and informal held over a lunch period, usually in a busy area where students are going to and from the labs, lecture theatres and Byte café on the lower first floor. These sessions take place during term time http://www.manchester.ac.uk/discover/key-dates/
+The sessions are informal and held over a lunch period, in a busy area where students are going to and from the labs, lecture theatres and Byte café on the lower first floor. These sessions take place during term time see [http://www.manchester.ac.uk/discover/key-dates/](http://www.manchester.ac.uk/discover/key-dates/)
 
 We will help support the promotion of your drop in session, using our virtual learning environment and notice boards, plasma screens etc. Any suitable text, posters etc you provide can be used.
 
