@@ -1,6 +1,6 @@
 # A.1.7 Describe how employability skills are developed within the students
 
-We help students to develop employability skills, define as five core skills shown below  [http://www.careers.manchester.ac.uk/myfuture/](http://www.careers.manchester.ac.uk/myfuture/)
+We help students to develop employability skills, define as five core skills shown below  [http://www.careers.manchester.ac.uk/myfuture/](http://www.careers.manchester.ac.uk/myfuture/ asdfasdfa)
 
 1. **Explore** the ability to stretch and self-improve, constantly trying new things to find out strengths and weaknesses
 2. **Connect** networking with employers and alumni to learn about careers
@@ -32,7 +32,7 @@ These employability skills are developed as part of undergraduate degree course,
 ##Extra-curricular
 
 ###careers fairs and drop-in sessions
-* In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like [https://www.siliconmilkroundabout.com/](Silicon Milk Roundabout)
+* In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like [https://www.siliconmilkroundabout.com](Silicon Milk Roundabout)
 * We invite companies in for drop-in sessions which run all through term time
 ### Competitions & Hackathons
 * Extensive series of hackathons and competitions, staff vs. student programming competition, (https://twitter.com/hacksocmcr)[HackSoc] events (via MLH.io), (http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454)[Barclays BBC UniTech Challenge], [http://www.hackmanchester.com/](HackManchester.com), (http://www.studenthack.com)[StudentHack] and the annual (https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)[ACM Programming Competition]
