@@ -27,7 +27,7 @@ These employability skills are developed as part of undergraduate degree course,
 
 ###final year
 * we encourage students to propose their own final year projects, if they don't want to choose a ready-made project from a member of staff
-* some final year projects are industrially co-supervised
+* A signicant number of final year projects are industrially co-supervised or completed with a third-party (e.g. schools based final year projects)
 
 ##Extra-curricular
 
