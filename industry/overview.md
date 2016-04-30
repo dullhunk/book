@@ -35,7 +35,7 @@ These employability skills are developed as part of undergraduate degree course,
 * In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like [siliconmilkroundabout.com](http://www.siliconmilkroundabout.com)
 * We invite companies in for drop-in sessions which run all through term time
 ### Competitions & Hackathons
-* Extensive series of hackathons and competitions, staff vs. student programming competition, [HackSocMCR](https://twitter.com/hacksocmcr) events, via [MLH.io](http://MLH.io), [Barclays BBC UniTech Challenge](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454), [HackManchester.com](http://www.hackmanchester.com), [studenthack.com]([)http://www.studenthack.com) and the annual [ACM Programming Competition](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
+* Extensive series of hackathons and competitions, staff vs. student programming competition, [HackSocMCR](https://twitter.com/hacksocmcr) events, via [MLH.io](http://MLH.io), [Barclays BBC UniTech Challenge](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454), [HackManchester.com](http://www.hackmanchester.com), [studenthack.com](http://www.studenthack.com) and the annual [ACM Programming Competition](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
 
 ### Alumni and networking
 * meet the professionals: alumni events, run twice a year. Speed networking with alumni [your.manchester.ac.uk/current-students/meet-the-professionals](http://your.manchester.ac.uk/current-students/meet-the-professionals)
@@ -51,7 +51,7 @@ These employability skills are developed as part of undergraduate degree course,
 ### Activities bursary
 * We provide a bursary which can be applied for to kickstart activities. this has funded e.g. studychina program, going to WWWDC conference in the USA, attending events in Netherlands (gavin & toby can give you more details if you need them)
 
-Ignore this below... 
+Ignore this below...
 
 Unpaid internships are exploiting young people
 http://www.nus.org.uk/en/news/unpaid-internships-are-exploiting-young-people-/
