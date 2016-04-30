@@ -44,7 +44,7 @@ These employability skills are developed as part of undergraduate degree course,
 * Networking between years: Publish a list of placement students and their destinations (with students permission) so that students can find other students who have applied to similar companies.
 
 ### Volunteering
-* We encourage students to consider voluntary work, e.g. education & activities, schools liason [http://studentnet.cs.manchester.ac.uk/volunteering/](cs.manchester.ac.uk/volunteering/)
+* We encourage students to consider voluntary work, e.g. education & activities, schools liason [cs.manchester.ac.uk/volunteering](http://studentnet.cs.manchester.ac.uk/volunteering)
 
 ### Kilburn internships
 * Offering around 15 summer internship within the school every year, often serves as a students first work experience.
