@@ -13,12 +13,13 @@ These employability skills are developed as part of undergraduate degree course,
 ##Curricular
 
 ###first year
-*COMP101 guest lectures: give an overview of the wide range of employers that recruit computer scientists.
+* COMP101 guest lectures: give an overview of the wide range of employers that recruit computer scientists.
 * Reflections are a part of the first year tutorial program
 * Managing my future program, covers basics of CV writing with peer and self-assessment of CVs. Version 1.0 of a CV is created in the first year and goes through numerous iterations
 
 ###second year
-*Second year kicks off with careers workshop, students who have been on placement give short presentations on their work
+
+* Second year kicks off with careers workshop, students who have been on placement give short presentations on their work
 *All second years study software engineering and are assigned an industrial mentor who advises them on a group team project
 
 ###placement year
@@ -31,24 +32,24 @@ These employability skills are developed as part of undergraduate degree course,
 ##Extra-curricular
 
 ###careers fairs and drop-in sessions
-* In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like Silicon Milk Roundabout
+* In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like [https://www.siliconmilkroundabout.com/](Silicon Milk Roundabout)
 * We invite companies in for drop-in sessions which run all through term time
-### Competitions & Hackathtons
-Extensive series of hackathons and competitions, staff vs. student programming competition, hacksoc events (via MLH.io), Barclays BBC UniTech Challenge, [http://www.hackmanchester.com/](HackManchester.com), StudentHack, ACM Programming Competition
+### Competitions & Hackathons
+* Extensive series of hackathons and competitions, staff vs. student programming competition, (https://twitter.com/hacksocmcr)[HackSoc] events (via MLH.io), (http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454)[Barclays BBC UniTech Challenge], [http://www.hackmanchester.com/](HackManchester.com), (http://www.studenthack.com)[StudentHack] and the annual (https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)[ACM Programming Competition]
 
 ### Alumni and networking
-* meet the professionals: alumni events, run twice a year. Speed networking with alumni
-* informal network on LinkedIn: systematically invite students to join it
-* networking between years (list of placement students published with permission)
+* meet the professionals: alumni events, run twice a year. Speed networking with alumni (http://your.manchester.ac.uk/current-students/meet-the-professionals)[http://your.manchester.ac.uk/current-students/meet-the-professionals]
+* Informal network on LinkedIn: systematically invite students to join it, and encourage studnets to join LinkedIn in the first year [http://www.linkedin.com/groups?gid=3782151](http://www.linkedin.com/groups?gid=3782151)
+* Networking between years: Publish a list of placement students and their destinations (with students permission) so that students can find other students who have applied to similar companies.
 
 ### Volunteering
-We encourage students to consider voluntary work, e.g. outreach activities and the like
+* We encourage students to consider voluntary work, e.g. education & activities, schools liason (http://studentnet.cs.manchester.ac.uk/volunteering/)[http://studentnet.cs.manchester.ac.uk/volunteering/]
 
 ### Kilburn internships
 * Offering around 15 summer internship within the school every year, often serves as a students first work experience.
 
 ### Activities bursary
-Funding available for travel: has funded e.g. studychina program, going to wWWDC conference, attending events in netherlands (gavin & toby can give you more details if you need them)
+* We provide a bursary which can be applied for to kickstart activities. this has funded e.g. studychina program, going to WWWDC conference in the USA, attending events in Netherlands (gavin & toby can give you more details if you need them)
 
 
 
