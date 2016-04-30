@@ -34,8 +34,9 @@ These employability skills are developed as part of undergraduate degree course,
 ###careers fairs and drop-in sessions
 * In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like [siliconmilkroundabout.com](http://www.siliconmilkroundabout.com)
 * We invite companies in for drop-in sessions which run all through term time
+
 ### Competitions, Hackathons & External events
-* Extensive series of hackathons and competitions, staff vs. student programming competition, [HackSocMCR](https://twitter.com/hacksocmcr) events, via [MLH.io](http://MLH.io), [Barclays BBC UniTech Challenge](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454), [HackManchester.com](http://www.hackmanchester.com), [studenthack.com](http://www.studenthack.com) and the annual [ACM Programming Competition](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
+* Extensive series of hackathons and competitions, staff vs. student programming competition, [HackSocMCR](https://twitter.com/hacksocmcr) events, Major League Hacking [MLH.io](http://MLH.io), [Barclays BBC UniTech Challenge](http://www.cs.manchester.ac.uk/about-us/news-and-events/full-article/?articleid=3454), [HackManchester.com](http://www.hackmanchester.com), [studenthack.com](http://www.studenthack.com) and the annual [ACM Programming Competition](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
 * We publicise local tech events the [Monday Mail](http://studentnet.cs.manchester.ac.uk/ugt/mondaymail/) when they are relevant to students, see e.g. [technw.uk/calendar](http://technw.uk/calendar)
 
 ### Alumni and networking
