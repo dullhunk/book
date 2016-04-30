@@ -52,7 +52,7 @@ These employability skills are developed as part of undergraduate degree course,
 ### Activities bursary
 * We provide a bursary which can be applied for to kickstart activities. this has funded e.g. studychina program, going to WWWDC conference in the USA, attending events in Netherlands (gavin & toby can give you more details if you need them)
 
-Ignore this below...
+##Ignore this below...
 
 Unpaid internships are exploiting young people
 http://www.nus.org.uk/en/news/unpaid-internships-are-exploiting-young-people-/
