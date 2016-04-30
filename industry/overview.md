@@ -16,11 +16,14 @@ These employability skills are developed as part of undergraduate degree course,
 *COMP101 guest lectures: give an overview of the wide range of employers that recruit computer scientists.
 * Reflections are a part of the first year tutorial program
 * Managing my future program, covers basics of CV writing with peer and self-assessment of CVs. Version 1.0 of a CV is created in the first year and goes through numerous iterations
+
 ###second year
 *Second year kicks off with careers workshop, students who have been on placement give short presentations on their work
 *All second years study software engineering and are assigned an industrial mentor who advises them on a group team project
+
 ###placement year
 * we encourage all students to consider doing a placement year or a summer internship, whatever their particular degree program
+
 ###final year
 * we encourage students to propose their own final year projects, if they don't want to choose a ready-made project from a member of staff
 * some final year projects are industrially co-supervised
@@ -31,7 +34,7 @@ These employability skills are developed as part of undergraduate degree course,
 * In the school we have two major careers fairs which run in the School, one for larger employers in October followed by a smaller fair in March for local SME's. There are also two centrally organised careers fairs that recruit graduates generally, we publicise these events as and when they happen as well as external events like Silicon Milk Roundabout
 * We invite companies in for drop-in sessions which run all through term time
 ### Competitions & Hackathtons
-Extensive series of hackathons and competitions, staff vs. student programming competition, hacksoc events (via MLH.io), Barclays BBC UniTech Challenge, HackManchester, StudentHack, ACM Programming Competition
+Extensive series of hackathons and competitions, staff vs. student programming competition, hacksoc events (via MLH.io), Barclays BBC UniTech Challenge, [http://www.hackmanchester.com/](HackManchester.com), StudentHack, ACM Programming Competition
 
 ### Alumni and networking
 * meet the professionals: alumni events, run twice a year. Speed networking with alumni
@@ -42,7 +45,7 @@ Extensive series of hackathons and competitions, staff vs. student programming c
 We encourage students to consider voluntary work, e.g. outreach activities and the like
 
 ### Kilburn internships
-
+* Offering around 15 summer internship within the school every year, often serves as a students first work experience.
 
 ### Activities bursary
 Funding available for travel: has funded e.g. studychina program, going to wWWDC conference, attending events in netherlands (gavin & toby can give you more details if you need them)
