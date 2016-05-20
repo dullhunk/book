@@ -1,33 +1,16 @@
 # A.1.7 Describe how employability skills are developed within the students
 
-We help students to develop employability skills, define as five core skills shown below  [careers.manchester.ac.uk/myfuture/](http://www.careers.manchester.ac.uk/myfuture/)
-
-1. **Explore** the ability to stretch and self-improve, constantly trying new things to find out strengths and weaknesses
-2. **Connect** networking with employers and alumni to learn about careers
-3. **Communicate** Learn to write CVs, conduct interviews, deliver presentations and how to communicate in a professional manner, both in person and online.
-4. **Reflect** thinking about what has been learnt & the skills that are developed
-5. **Apply** having the courage to apply for jobs and for other opportunities to learn about themselves or careers; learning to deal with setbacks and rejection
-
-These employability skills are developed as part of undergraduate degree course, with support from the careers service and augmented by an extensive program of extra curricular activities throughout the year
+We help students to develop employability skills, defined as five core skills  [careers.manchester.ac.uk/myfuture/](http://www.careers.manchester.ac.uk/myfuture/)
 
 ##Curricular
 
-###first year
-* COMP101 guest lectures: give an overview of the wide range of employers that recruit computer scientists.
-* Reflections are a part of the first year tutorial program
-* Managing my future program, covers basics of CV writing with peer and self-assessment of CVs. Version 1.0 of a CV is created in the first year and goes through numerous iterations
+* **First year** the module COMP101 includes a series of 20 [http://www.cs.manchester.ac.uk/industry/guest-lectures/](guest lectures) given by external employers to give an overview of the wide range of careers available to computer scientists. As part of the course, students write reflections on their group work. Towards the end of the first year, the Managing My Future (MMF) program, covers basics of CV writing with peer and self-assessment of CVs. This CV is continuously updated through the degree.
 
-###second year
+* **Second year** starts  with careers a workshop, students who have been on placement give short presentations on their work to kick start the placement application process for students. As part of COMP234 (Software Engineering), all second years are assigned an industrial mentor twice during the year, once at the beginning of the project at the University and a second time (often on site with the employer) to gain insight into the realities of modern software engineering
 
-* Second year kicks off with careers workshop, students who have been on placement give short presentations on their work
-*All second years study software engineering and are assigned an industrial mentor who advises them on a group team project
+* **placement year** we encourage all students to consider doing a placement year or a summer internship, whatever their particular degree program. Currently between one quarter and one third of second year students secure year long placements
 
-###placement year
-* we encourage all students to consider doing a placement year or a summer internship, whatever their particular degree program
-
-###final year
-* we encourage students to propose their own final year projects, if they don't want to choose a ready-made project from a member of staff
-* A signicant number of final year projects are industrially co-supervised or completed with a third-party (e.g. schools based final year projects)
+* **final year** we encourage students to propose their own final year projects, if they don't want to choose a ready-made project proposed by an academic member of staff.  A significant number of final year projects are industrially co-supervised or completed with a third-party (e.g. schools based final year projects)
 
 ##Extra-curricular
 
