@@ -144,4 +144,4 @@ What to do next:
 
 Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), the [careers service](http://www.careers.manchester.ac.uk/services/guidance/) or myself. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---[Duncan Hull](http://www.cs.man.ac.uk/~hulld), April 2016
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2016
