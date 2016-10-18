@@ -10,30 +10,31 @@ So, for example, instead of saying e.g. In my second year software engineering m
 
 # Verbs for describing engineering
 
-added (e.g. new features)
-analysed (e.g. the requirements)
-automated (e.g. automated tests and builds)
-built
-configured
-debugged
-developed
-designed
-deployed
-engineered
-enhanced
-ensured (e.g. quality)
-experimented (with a new API for example)
-fixed
-hacked (overloaded term, be careful!)
-integrated
-proposed (e.g. a new application)
-prototyped
-
-refactored
-reviewed (e.g. code review)
-tested
-understood (e.g. code comprehension)
-
-modified / modded
-documented
-implemented
+* added (e.g. new features)
+* analysed (e.g. the requirements)
+* architected
+* automated (e.g. automated tests and builds)
+* built
+* configured
+* debugged
+* developed
+* designed
+* deployed
+* documented
+* engineered
+* enhanced
+* ensured (e.g. quality)
+* experimented (with a new API for example)
+* fixed
+* hacked (overloaded term, be careful!)
+* implemented (e.g. an alogorithm)
+* integrated
+* modified (e.g. stendhal)
+* modded (a game)
+* navigated (e.g. a complex codebase)
+* proposed (e.g. a new application)
+* prototyped
+* refactored
+* reviewed (e.g. code review)
+* tested
+* understood (e.g. code comprehension)
