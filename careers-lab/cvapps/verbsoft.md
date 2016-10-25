@@ -19,6 +19,7 @@ You might find these useful:
 * added (e.g. new features)
 * analysed (e.g. the requirements)
 * architected
+* assigned (e.g. bugs to team members)
 * augmented
 * automated (e.g. automated tests and builds)
 * awarded (e.g. at a hackathon or competition)
@@ -36,6 +37,7 @@ You might find these useful:
 * engineered
 * enhanced
 * ensured (e.g. quality)
+* estimated (e.g. how long it would take, remember that [cost estimation is hard](http://softwareengineering.stackexchange.com/questions/60994/why-is-software-schedule-estimation-so-hard) and therefore a valuable skill)
 * experimented (e.g. with a new API for example)
 * fixed (a bug or bugs)
 * gathered (requirements)
@@ -50,6 +52,7 @@ You might find these useful:
 * modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
 * patched
+* prioritised (e.g. which bugs/features are most important)
 * proposed (e.g. a new application)
 * prototyped
 * pulled (e.g. git pull)
