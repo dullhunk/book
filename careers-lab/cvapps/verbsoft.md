@@ -34,7 +34,7 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * ensured (e.g. quality)
 * experimented (e.g. with a new API for example)
 * fixed (a bug or bugs)
-* hacked ([https://en.wikipedia.org/wiki/Hacking](overloaded term), be careful!)
+* hacked (an [overloaded term](https://en.wikipedia.org/wiki/Hacking), be careful!)
 * implemented (e.g. an alogorithm)
 * installed
 * integrated
