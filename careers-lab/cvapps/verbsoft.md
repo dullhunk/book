@@ -4,11 +4,11 @@ This section (http://git.io/verbsfirst) describes a simple but effective techniq
 
 A good way to emphasize what you've done, rather than what you know is to start the description of it with a verb. So, for example, instead of saying e.g.
 
-* “In my second year software engineering module I used Java, Eclipse and JUnit to test and build an open source software project”
+* “In my second year software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org))”
 
 you could say:
 
-* “Built and tested an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal (stendhalgame.org) using Eclipse, Java, JUnit and ... etc”
+* “Built and tested an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org)) using Eclipse, Java, JUnit and ... etc”
 
 This also avoids the problem of using "I, me, My" too much which can sounds self-centred and egotistical. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a)  has a list of  verbs you can use on page 10 for emphasising different skills. The verbs listed below are particularly useful for describing your software engineering and problem solving skills:
 
