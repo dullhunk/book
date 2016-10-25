@@ -24,13 +24,13 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * awarded (e.g. at a hackathon or competition)
 * branched (e.g. git branch)
 * built
-* committed (e.g. git -commit)
 * cloned (e.g. git clone)
+* committed (e.g. git -commit)
 * configured
 * debugged (e.g. in [brownfield software development](https://en.wikipedia.org/wiki/Brownfield_(software_development)))
 * developed
 * designed (e.g. in [greenfield software development](https://en.wikipedia.org/wiki/Greenfield_project))
-* devised 
+* devised
 * deployed
 * documented
 * engineered
