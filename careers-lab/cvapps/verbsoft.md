@@ -14,6 +14,8 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 
 # Verbs for describing software engineering
 
+You might find these useful:
+
 * added (e.g. new features)
 * analysed (e.g. the requirements)
 * architected
