@@ -27,9 +27,9 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * committed (e.g. git -commit)
 * cloned (e.g. git clone)
 * configured
-* debugged
+* debugged (e.g. in [brownfield software development](https://en.wikipedia.org/wiki/Brownfield_(software_development)))
 * developed
-* devised
+* devised (e.g. in [greenfield software development](https://en.wikipedia.org/wiki/Greenfield_project))
 * designed (in every sense of the word)
 * deployed
 * documented
