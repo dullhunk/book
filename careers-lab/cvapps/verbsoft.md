@@ -19,6 +19,7 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * added (e.g. new features)
 * analysed (e.g. the requirements)
 * architected
+* augmented
 * automated (e.g. automated tests and builds)
 * awarded (e.g. at a hackathon or competition)
 * built
@@ -36,6 +37,7 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * fixed (a bug or bugs)
 * hacked (an [overloaded term](https://en.wikipedia.org/wiki/Hacking), be careful!)
 * implemented (e.g. an alogorithm)
+* improved (but remember to quantify)
 * installed
 * integrated
 * modified (e.g. stendhal)
