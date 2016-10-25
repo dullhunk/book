@@ -29,8 +29,8 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * configured
 * debugged (e.g. in [brownfield software development](https://en.wikipedia.org/wiki/Brownfield_(software_development)))
 * developed
-* devised (e.g. in [greenfield software development](https://en.wikipedia.org/wiki/Greenfield_project))
-* designed (in every sense of the word)
+* designed (e.g. in [greenfield software development](https://en.wikipedia.org/wiki/Greenfield_project))
+* devised 
 * deployed
 * documented
 * engineered
@@ -44,7 +44,7 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * installed
 * integrated
 * interfaced
-* merged
+* merged (e.g. git merge)
 * modified (e.g. stendhal)
 * modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
