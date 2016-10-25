@@ -22,7 +22,10 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * augmented
 * automated (e.g. automated tests and builds)
 * awarded (e.g. at a hackathon or competition)
+* branched (e.g. git branch)
 * built
+* committed (e.g. git -commit)
+* cloned (e.g. git clone)
 * configured
 * debugged
 * developed
@@ -40,12 +43,16 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * improved (but remember to quantify)
 * installed
 * integrated
+* interfaced
 * merged
 * modified (e.g. stendhal)
 * modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
+* patched
 * proposed (e.g. a new application)
 * prototyped
+* pulled (e.g. git pull)
+* pushed (e.g. git push)
 * rebased (e.g. https://www.atlassian.com/git/tutorials/rewriting-history/)
 * refactored
 * reviewed (e.g. code review)
