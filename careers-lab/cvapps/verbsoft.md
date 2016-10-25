@@ -38,6 +38,7 @@ You might find these useful:
 * ensured (e.g. quality)
 * experimented (e.g. with a new API for example)
 * fixed (a bug or bugs)
+* gathered (requirements)
 * hacked (an [overloaded term](https://en.wikipedia.org/wiki/Hacking), be careful!)
 * implemented (e.g. an alogorithm)
 * improved (but remember to quantify)
@@ -55,6 +56,8 @@ You might find these useful:
 * pushed (e.g. git push)
 * rebased (e.g. https://www.atlassian.com/git/tutorials/rewriting-history/)
 * refactored
+* repurposed
+* reused
 * reviewed (e.g. code review)
 * rewrote
 * solved
