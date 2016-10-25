@@ -18,6 +18,7 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Bentley, http://www.bentley.com,
 * Cantarus, http://www.cantarus.com, M2 4PD
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
+* Coop Digital, https://jobs.coop.co.uk M60 0AG
 * Code Computer Love, http://www.codecomputerlove.com, M1 2BE
 * CodeThink, http://www.codethink.co.uk, M1 2JW
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
@@ -46,7 +47,7 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M1 4BT
 * TopCashBack, http://www.topcashback.co.uk/Jobs,
-* Wakelet, https://wakelet.com, 
+* Wakelet, https://wakelet.com,
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
