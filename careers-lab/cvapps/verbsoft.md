@@ -1,6 +1,6 @@
 # Verbs for emphasising what you've done
 
-Many employers have told us that they don't just want to know what graduates **know**, but what they have actually **done**.
+This section http://git.io/verbsfirst describes a handy technique for emphasizing what you have done. Many employers have told us that they don't just want to know what graduates **know**, but what they have actually **done**.
 
 A good way to emphasize what you've done, rather than what you know is to start the description of it with a verb.
 
@@ -20,11 +20,12 @@ The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](htt
 * analysed (e.g. the requirements)
 * architected
 * automated (e.g. automated tests and builds)
+* awarded (e.g. at a hackathon or competition)
 * built
 * configured
 * debugged
 * developed
-* designed
+* designed (in every sense of the word)
 * deployed
 * documented
 * engineered
@@ -34,9 +35,10 @@ The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](htt
 * fixed (a bug or bugs)
 * hacked (overloaded term, be careful!)
 * implemented (e.g. an alogorithm)
+* installed
 * integrated
 * modified (e.g. stendhal)
-* modded (e.g. a game)
+* modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
 * proposed (e.g. a new application)
 * prototyped
@@ -45,3 +47,5 @@ The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](htt
 * solved
 * tested
 * understood (e.g. code comprehension)
+* verified
+* validated
