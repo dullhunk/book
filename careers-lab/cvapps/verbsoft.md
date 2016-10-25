@@ -40,13 +40,16 @@ This also avoids the problem of using "I, me, My" too much which can sounds self
 * improved (but remember to quantify)
 * installed
 * integrated
+* merged
 * modified (e.g. stendhal)
 * modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
 * proposed (e.g. a new application)
 * prototyped
+* rebased (e.g. https://www.atlassian.com/git/tutorials/rewriting-history/)
 * refactored
 * reviewed (e.g. code review)
+* rewrote
 * solved
 * tested
 * understood (e.g. code comprehension)
