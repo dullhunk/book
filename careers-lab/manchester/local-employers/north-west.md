@@ -18,9 +18,9 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Bentley, http://www.bentley.com,
 * Cantarus, http://www.cantarus.com, M2 4PD
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
-* Coop Digital, https://jobs.coop.co.uk M60 0AG
 * Code Computer Love, http://www.codecomputerlove.com, M1 2BE
 * CodeThink, http://www.codethink.co.uk, M1 2JW
+* Coop Digital, https://jobs.coop.co.uk M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DataCentred, http://www.datacentred.co.uk,

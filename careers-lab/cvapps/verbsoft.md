@@ -57,12 +57,14 @@ You might find these useful:
 * prototyped
 * pulled (e.g. git pull)
 * pushed (e.g. git push)
+* queried (e.g. database)
 * rebased (e.g. https://www.atlassian.com/git/tutorials/rewriting-history/)
 * refactored
 * repurposed
 * reused
 * reviewed (e.g. code review)
 * rewrote
+* secured
 * solved
 * tested
 * understood (e.g. code comprehension)
