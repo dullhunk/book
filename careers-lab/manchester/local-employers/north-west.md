@@ -33,6 +33,7 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * IBM (Sale), http://www.ibm.com, M33 7RR
 * LateRooms, http://careers.laterooms.com, M4 4FB
 * Magma Digital, http://www.magmadigital.co.uk, M1 6DE
+* MediaBurst, https://www.mediaburst.co.uk, M1 1FR
 * Mentor Graphics, https://www.mentor.com, WA14 5GL
 * Micron, http://uk.micron.com, SK8 3GR
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
