@@ -2,7 +2,7 @@
 Employers in Manchester that recruit Computer Scientists
 ========================================================
 
-This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list.
+This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list, but will give you a quick flavour of local employers.
 
 You don't **have** to move to London to find a good employer, there is plenty on offer here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a focal point for many of these employers [techw.uk](http://technw.uk)
 
@@ -51,7 +51,7 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
-* Scraper Wiki, https://scraperwiki.com, L3 5RF
+* Sensible Code, http://sensiblecode.io, WA3 3JD
 * SKY technology hub, https://jobs.sky.com, LS10 1QE
 * Space 48, http://www.space48.com, WA3 6GA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
@@ -61,7 +61,7 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * Ultra Electronics, https://www.ultra-electronics.com, M23 9SS
 * Wakelet, https://wakelet.com, M20 3BN
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
-* Zuhlke Engineering, https://www.zuehlke.com,
+* Zuhlke Engineering, https://www.zuehlke.com, M1
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
