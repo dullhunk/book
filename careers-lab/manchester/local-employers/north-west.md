@@ -32,7 +32,7 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu, M15 6AY
-* Department of Work & Pensions, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
+* DWP, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
