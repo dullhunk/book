@@ -2,9 +2,9 @@
 Employers in Manchester that recruit Computer Scientists
 ========================================================
 
-This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode for each of the organisations is shown.
+This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode is shown.
 
-You don't have to move to London to find a good employer, there is plenty on offer here in the North West if you'd like to stick around after you graduate. The Tech North West calendar, provides a focal point for many of these employers http://technw.uk
+You don't **have** to move to London to find a good employer, there is plenty on offer here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a focal point for many of these employers [techw.uk](http://technw.uk)
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
@@ -20,17 +20,19 @@ You don't have to move to London to find a good employer, there is plenty on off
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Boo Hoo, https://careers.boohoo.com, M1 2HF
-* Bentley, http://www.bentley.com,
+* Bentley, http://www.bentley.com, WA3 6ZH
+* Cake Solutions, http://www.cakesolutions.net, SK5 6DA
 * Cantarus, http://www.cantarus.com, M2 4PD
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
 * Code Computer Love, http://www.codecomputerlove.com, M1 2BE
 * CodeThink, http://www.codethink.co.uk, M1 2JW
-* Coop Digital, https://jobs.coop.co.uk M60 0AG
+* The Co-operative Group, https://jobs.coop.co.uk M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
-* Digital Bridge, http://digitalbridge.eu,
+* Digital Bridge, http://digitalbridge.eu, M15 6AY
+* Department of Work & Pensions, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
