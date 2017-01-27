@@ -39,6 +39,8 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA
 * IBM (Manchester), http://www.ibm.com, M3 2EG
 * IBM (Sale), http://www.ibm.com, M33 7RR
+* Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
+* Keto Software, http://www.ketosoftware.com, M50 2EQ
 * LateRooms, http://careers.laterooms.com, M4 4FB
 * Magma Digital, http://www.magmadigital.co.uk, M1 6DE
 * MediaBurst, https://www.mediaburst.co.uk, M1 1FR
@@ -50,7 +52,7 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
 * Scraper Wiki, https://scraperwiki.com, L3 5RF
-* SKY, http://www.workforsky.com/starting-out/graduate-opportunities/software-engineering-academy,
+* SKY technology hub, https://jobs.sky.com, LS10 1QE
 * Space 48, http://www.space48.com, WA3 6GA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
@@ -59,6 +61,7 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * Ultra Electronics, https://www.ultra-electronics.com, M23 9SS
 * Wakelet, https://wakelet.com, M20 3BN
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
+* Zuhlke Engineering, https://www.zuehlke.com,
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
