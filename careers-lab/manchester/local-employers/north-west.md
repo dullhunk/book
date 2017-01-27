@@ -2,7 +2,7 @@
 Employers in Manchester that recruit Computer Scientists
 ========================================================
 
-This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode is shown.
+This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) (or [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/)). It is by no means a comprehensive list. Instead of listing the full address, the postcode is shown.
 
 You don't **have** to move to London to find a good employer, there is plenty on offer here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a focal point for many of these employers [techw.uk](http://technw.uk)
 
