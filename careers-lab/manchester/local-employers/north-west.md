@@ -1,5 +1,10 @@
 
+Employers in Manchester that recruit Computer Scientists
+========================================================
+
 This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list, designed to give you a quick flavour of the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) rather than to be comprehensive. Instead of listing the full address, the postcode for each of the organisations is shown.
+
+You don't have to move to London to find a good employer, there is plenty on offer here in the North West if you'd like to stick around after you graduate. The Tech North West calendar, provides a focal point for many of these employers http://technw.uk
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
@@ -23,11 +28,12 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Coop Digital, https://jobs.coop.co.uk M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
-* DataCentred, http://www.datacentred.co.uk,
+* DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu,
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
+* HUMAN, https://human.software, M1 6HS
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA
 * IBM (Manchester), http://www.ibm.com, M3 2EG
 * IBM (Sale), http://www.ibm.com, M33 7RR
@@ -47,8 +53,9 @@ This section http://git.io/manc lists organisations in and around Manchester tha
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M1 4BT
-* TopCashBack, http://www.topcashback.co.uk/Jobs,
-* Wakelet, https://wakelet.com,
+* TopCashBack, http://www.topcashback.co.uk/Jobs, BL6 5UE
+* Ultra Electronics, https://www.ultra-electronics.com, M23 9SS
+* Wakelet, https://wakelet.com, M20 3BN
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
