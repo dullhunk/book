@@ -63,6 +63,6 @@ You don't **have** to move to London to find a good employer, there is plenty on
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
 * Zuhlke Engineering, https://www.zuehlke.com, M2 3AW
 
-If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
+If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) https://www.manchesterdigital.com. MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at https://www.manchesterdigital.com/recruitment  
 
 *GCHQ have recently opened an office in Manchester but they are not telling anyone where it is. Top secret, see http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799
