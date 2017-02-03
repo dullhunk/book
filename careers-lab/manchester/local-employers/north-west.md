@@ -4,7 +4,7 @@ Employers in Manchester that recruit Computer Scientists
 
 This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list, but will give you a quick flavour of local employers.
 
-You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a focal point for many of these employers [techw.uk](http://technw.uk) if you want to find out more.
+You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of these employers [techw.uk](http://technw.uk) if you want to find out more.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
@@ -13,6 +13,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * ARM (Manchester), http://www.arm.com/careers, M2 3BB
 * ARM (Sheffield), http://www.arm.com/careers, S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
+* Autdesk, https://www.autodesk,co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
 * BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
