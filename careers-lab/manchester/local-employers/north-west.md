@@ -44,6 +44,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
 * LateRooms, http://careers.laterooms.com, M4 4FB
 * Magma Digital, http://www.magmadigital.co.uk, M1 6DE
+* Matillion, https://www.matillion.com, WA16 8GS
 * MediaBurst, https://www.mediaburst.co.uk, M1 1FR
 * Mentor Graphics, https://www.mentor.com, WA14 5GL
 * Micron, http://uk.micron.com, SK8 3GR
