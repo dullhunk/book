@@ -10,14 +10,13 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * AO, http://www.ao-jobs.com, BL6 4SD
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
-* ARM (Manchester), http://www.arm.com/careers, M2 3BB
-* ARM (Sheffield), http://www.arm.com/careers, S1 4EB
+* ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
-* Autdesk, https://www.autodesk.co.uk, S1 2EL
+* Autdesk, http://www.autodesk.co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
 * BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
-* BBC, http://www.bbc.co.uk/careers/trainee-schemes-and-apprenticeships, M50 2LH
+* BBC, http://careerssearch.bbc.co.uk, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Boo Hoo, https://careers.boohoo.com, M1 2HF
@@ -38,8 +37,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA
-* IBM (Manchester), http://www.ibm.com, M3 2EG
-* IBM (Sale), http://www.ibm.com, M33 7RR
+* IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
 * LateRooms, http://careers.laterooms.com, M4 4FB
@@ -51,6 +49,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
+* Open Shadow, https://www.openshadow.com, M50 2ST
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
 * Sensible Code, http://sensiblecode.io, WA3 3JD
