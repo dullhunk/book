@@ -13,7 +13,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * ARM (Manchester), http://www.arm.com/careers, M2 3BB
 * ARM (Sheffield), http://www.arm.com/careers, S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
-* Autdesk, https://www.autodesk,co.uk, S1 2EL
+* Autdesk, https://www.autodesk.co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
 * BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
