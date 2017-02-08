@@ -18,6 +18,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
 * BBC, http://careerssearch.bbc.co.uk, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
+* Biorelate, http://www.biorelate.com, M15 6JJ
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Boo Hoo, https://careers.boohoo.com, M1 2HF
 * Bentley, http://www.bentley.com, WA3 6ZH
@@ -33,6 +34,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu, M15 6AY
 * DWP, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
+* Exgence Ltd, http://exgence.mycindr.com, M13 9NT
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
