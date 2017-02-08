@@ -29,6 +29,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * CodeThink, http://www.codethink.co.uk, M1 2JW
 * The Co-operative Group, https://jobs.coop.co.uk M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
+* DeepCognito, http://www.deepcognito.com, M1 1AN
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
@@ -52,6 +53,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * Open Shadow, https://www.openshadow.com, M50 2ST
+* Purple AI, http://purple.ai, OL9 7LD
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sage, http://www.sage.com, M5 3ED
 * Sensible Code, http://sensiblecode.io, WA3 3JD
