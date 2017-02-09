@@ -2,7 +2,7 @@
 Employers in Manchester that recruit Computer Scientists
 ========================================================
 
-This section http://git.io/manc lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list, but will give you a quick flavour of local employers.
+This section (Shortcut url http://git.io/manc) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list, but will give you a quick flavour of local employers.
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of these employers [techw.uk](http://technw.uk) if you want to find out more.
 
@@ -19,6 +19,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BBC, http://careerssearch.bbc.co.uk, M50 2LH
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * Biorelate, http://www.biorelate.com, M15 6JJ
+* BJSS, http://www.bjss.com, M1 3DZ
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Boo Hoo, https://careers.boohoo.com, M1 2HF
 * Bentley, http://www.bentley.com, WA3 6ZH
