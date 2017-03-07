@@ -12,7 +12,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * AppSense, http://www.appsense.com, WA4 4HS
 * ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
-* Autdesk, http://www.autodesk.co.uk, S1 2EL
+* Autodesk, http://www.autodesk.co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
 * BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
@@ -22,6 +22,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BJSS, http://www.bjss.com, M1 3DZ
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
 * Boo Hoo, https://careers.boohoo.com, M1 2HF
+* Bosch, http://www.bosch-career.com, SK3 0XG
 * Bentley, http://www.bentley.com, WA3 6ZH
 * Cake Solutions, http://www.cakesolutions.net, SK5 6DA
 * Cantarus, http://www.cantarus.com, M2 4PD
@@ -32,6 +33,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
 * DeepCognito, http://www.deepcognito.com, M1 1AN
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
+* DAI, http://dai.co.uk, SK3 0WZ
 * DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu, M15 6AY
@@ -49,18 +51,24 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Matillion, https://www.matillion.com, WA16 8GS
 * MediaBurst, https://www.mediaburst.co.uk, M1 1FR
 * Mentor Graphics, https://www.mentor.com, WA14 5GL
+* Metafused, https://www.metafused.com, M1 5AN
 * Micron, http://uk.micron.com, SK8 3GR
+* MoneySupermarket, http://www.moneysupermarketjobs.com, CH5 3UZ
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * Open Shadow, https://www.openshadow.com, M50 2ST
 * Purple AI, http://purple.ai, OL9 7LD
+* Red Embedded Consulting Ltd, http://www.redembedded.com, BD17 7DU
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
+* Sabisu, http://www.sabisu.co, M33 3SJ
 * Sage, http://www.sage.com, M5 3ED
 * Sensible Code, http://sensiblecode.io, WA3 3JD
+* Shout App, http://shout-app.com, M13 9PL
 * SKY technology hub, https://jobs.sky.com, LS10 1QE
 * Space 48, http://www.space48.com, WA3 6GA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
+* Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M1 4BT
 * TopCashBack, http://www.topcashback.co.uk/jobs, BL6 5UE
