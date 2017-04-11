@@ -38,6 +38,6 @@ Once you've read the above, here's what you could do next:
 * **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
 * **SUGGESTIONS?** If you have any comments or suggestions on how to improve this guide, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and we welcome constructive feedback
 
-Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), the [careers service](http://www.careers.manchester.ac.uk/services/guidance/) or myself. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
+Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), your personal tutor or myself. The [careers service](http://www.careers.manchester.ac.uk/services/guidance/) also provide good generic advice. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
 --[Duncan Hull](http://www.cs.man.ac.uk/~hulld), April 2017
