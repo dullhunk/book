@@ -10,52 +10,17 @@ While referring to this guide, remember that
 
 **Table of Contents**
 
-- [Education (ED)](#education-ed)
-- [Experience (EX) and Projects](#experience-ex-and-projects)
-- [Skills (SK)](#skills-sk)
-- [Formatting (FM)](#formatting-fm)
-- [Structure (ST)](#structure-st)
-- [General (GEN)](#general-gen)
-- [Hobbies and interests (HOB)](#hobbies-and-interests-hob)
-- [Personal Details & References (REF)](#references-ref)
+- [Education] (http://git.io/mycved)
+- [Experience & Projects](http://git.io/mycvex)
+- [Skills](http://git.io/mycvsk)
+- [Formatting](#formatting-fm)
+- [Structure](#structure-st)
+- [General](#general-gen)
+- [Hobbies & interests](#hobbies-and-interests-hob)
+- [Personal details & References (REF)](#references-ref)
 - [Next steps](#next-steps)
 
-## Education (ED)
-
-For graduates, education should usually be the first section, as it is probably the most important (and recent) thing about you, unless you have significant work experience or activities outside of your degree:
-
-  1. **OUTLINE** Give an outline of what you have studied in your degree. For example saying “BSc in Computer Science” is too vague and ambiguous. What have you studied? Include courses that you will be doing in the future, as well as ones you have already done. By the time you get the interview, you'll be able to say more about them. What exactly does YOUR Computer Science degree mean? Add some brief context... Just saying “*BSc Computer Science*” is not enough, there are around [9000 students graduating with computer science degrees in the UK every year](https://web.archive.org/web/20160210155934/https://cphcuk.files.wordpress.com/2016/01/computinggraduateemployabilitysharingpractice.pdf) and each course is different - so give *some* of the details including those up to the end of your current year of study
-  2. **TOO MUCH**... but don't list every single module you've done - just summarise the courses that are relevant to the job, the ones you found interesting or excelled at. Also, can you summarise what a BSc in Computer Science (or your specific degree programme) actually is in one or two sentences?
-  3. **AVERAGE** Give an overall degree classification e.g “first year average, 65%, 2:1” but don't list every mark for every course. Long lists of marks are usually a waste of space and tedious for the reader, unless you want to highlight exceptional performance in particular modules you have studied. Whatever mark you are describing, two significant figures is enough e.g. don't say “*68.71% overall mark*” - just “*68% average mark*” will do
-  4. **AIMING HIGHER** If you hope that your degree classification will improve, state what your achieved grade and expected grades are - they might be different (e.g. expected grade: first class)
-  5. **SUMMARISE** Instead of listing EVERY secondary / high school qualification, summarise them briefly e.g. “13 GCSE's A*-A including Maths and English”. These exams were important when you were 16, but are much less relevant now so don't waste space with a detailed description
-  6. **DATES** The description of your degree should include a start date and (expected) end date (year). Don't include the day, and only include months where they are relevant (e.g. summer jobs)
-  7. **FIRST YEAR TEAM PROJECT** Mention the **name** of the project, what it did and what your role was e.g. *Mancshacks: built an accommodation finder for students in Manchester that worked both on mobile and web platforms, co-ordinated and organised a team of 6 students meeting once a week over a 6 month period, see http://www.mancshacks.com*. No-one outside the Kilburn building will understand what you mean if you say “first year team project”. What skills did you gain while doing it (not just tech skills)? What role did you play in the team? Spell it out for the reader so they don't have make their own inferences.
-
-## Experience (EX) and Projects
-
-This is usually the second section on the first page, unless you have lots of experience. If you don't have much experience to talk about, you can emphasise project work, both inside and outside of education.
-
-  1. **DETAILS** Make sure the duration, company name and location of any experience you have is described. If you have lots of experience and projects, choose the ones that are most relevant to the job you are applying for
-  2. **VOLUNTEER?** Include voluntary work (as well as paid work), e.g. Teacher, PASS leader, Student Ambassador, etc
-  3. **EXPLAIN** Saying “first year team project” won't mean much to people outside the Kilburn building.
-  4. **TINKERING** Include projects you've worked in your own time, have you ever built anything in your spare time? What about that Raspberry Pi / Arduino home automation project? If you've contributed to any open source software projects, you should DEFINITELY mention them. It doesn't have to be just code, it could be testing, bug reports, documentation, asking/answering questions (e.g. on [stackoverflow](http://careers.stackoverflow.com/why-stack) etc)
-  5. **NO EXPERIENCE** Don't have any experience? Voluntary work is a good way to pick some experience up. It is never too late to volunteer http://manchester.ac.uk/volunteers or become a student ambassador http://studentnet.cs.manchester.ac.uk/volunteering/ Volunteering doesn't have to involve computing either, anything that demonstrates soft skills is worth mentioning
-  6. **NON-TECH JOBS** Include non-technical positions you have held. They demonstrate your wider set of skills beyond being a computer scientist.  
-
-## Skills (SK)
-
-List your skills, providing evidence and context where you can.
-
-  1. **AWSUM SKILLZ** List your relevant technical skills. You could classify them into (for example) programming languages, operating systems, frameworks, front/back-end, hardware, tools and specific software applications. The classification you use will depend on the job you're applying for. A [software engineer](https://en.wikipedia.org/wiki/Software_engineer) or [web developer](https://en.wikipedia.org/wiki/Web_developer) role will require a different emphasis to a [DevOps](https://en.wikipedia.org/wiki/DevOps) / [sysadmin](https://en.wikipedia.org/wiki/System_administrator) role. Likewise, if your calling in life is to design integrated circuits, your CV will look very different from a Computer Science student going for [Business Analyst (BA)](https://en.wikipedia.org/wiki/Business_analyst), [Data Scientist](https://en.wikipedia.org/wiki/Data_science), [Technical Analyst](https://www.glassdoor.co.uk/Salaries/technical-analyst-salary-SRCH_KO0,17.htm), [User Experience Design (UXD)](https://en.wikipedia.org/wiki/User_experience_design) or [Project Management](https://en.wikipedia.org/wiki/Project_manager) roles.
-  2. **POPULAR LANGUAGES** Did you mention all of the popular languages you have used? See, for example, the [The 2016 Top Programming Languages](http://spectrum.ieee.org/computing/software/the-2016-top-programming-languages) and the [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
-  3. **COMP234** If you're doing [COMP23420 Software Engineering](https://studentnet.cs.manchester.ac.uk/ugt/COMP23420/syllabus/) you could mention for example that your second year project involves building a multi-user, multi-threaded, client-server application with 6000 Java classes, 1800 JUnit test cases and over 10 years of commit history. As part of your project you are using tools like [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)), [Git](https://en.wikipedia.org/wiki/Git), [Apache Ant](https://en.wikipedia.org/wiki/Apache_Ant), [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)), [Gerrit](https://en.wikipedia.org/wiki/Gerrit_(software)) and [SonarQube](https://en.wikipedia.org/wiki/SonarQube) to help you manage issue tracking, code quality, build automation, test automation and version control.
-  4. **MORE THAN A TECHIE** Remember you have [soft skills](https://en.wikipedia.org/wiki/Soft_skills) as well as your technical skills. These are just important as your hard skills, so don't forget to mention them. Negotiation, leadership, conflict resolution, communication, presenting, writing & mentoring etc -  all important.
-  5. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also essential to say a bit about what you've used them for, as its all to easy to list skills you don't actually have.
-  6. **PRINCIPLES: SCIENCE & ENGINEERING** Don't forget to mention fundamental principles (the science) you have learned as well as specific tools (the engineering & technology). Technologies come and go very fast - it is the principles you have learned  on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, design patterns, operating systems, security and networks don't change as quickly as the technology does - so make sure you mention them. As Computer Science students, you are both and engineer AND a scientist, that's two degrees for the price of one!
-  7. **META** As a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly  - either [self-taught](https://en.wikipedia.org/wiki/Autodidacticism) or learning from peers. You can also think logically, reason, problem solve, analyse and abstract - often to tight deadlines. Again, these are future-proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
-
-## Formatting (FM)
+## Formatting
 
 It is really important to get the formatting of your CV right so that it looks professional. It can take a long time to get the look right, because every pixel matters and you are highly constrained by space (one or two pages). Don't under estimate the importance (and time needed) to get the style looking clean and professional:
 
