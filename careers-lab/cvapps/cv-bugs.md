@@ -33,7 +33,7 @@ Once you've read the above, here's what you could do next:
   * First year of your degree, see [careers.manchester.ac.uk/first/](http://www.careers.manchester.ac.uk/first/)
   * Middle years of your degree, see  [careers.manchester.ac.uk/middegree/](http://www.careers.manchester.ac.uk/middegree/)
   * Final years of your degree, see [careers.manchester.ac.uk/final/](http://www.careers.manchester.ac.uk/final/)
-* **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
+* **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service [man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
 * **SUGGESTIONS?** If you have any comments or suggestions on how to improve this guide, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and we welcome constructive feedback
