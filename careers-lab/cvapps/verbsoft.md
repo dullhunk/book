@@ -12,9 +12,9 @@ you could say:
 
 This also avoids the problem of using “*I, me, my*” too much which can sound self-centred and egotistical. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) has a list of  generic verbs you can use on page 10 for emphasising different skills. The verbs listed below are particularly useful for describing your software engineering and problem solving skills:
 
-# Verbs for describing software engineering and computer science
+# Verbs for describing software engineering
 
-You might find these useful:
+You might find these verbs useful for describing your engineering skills:
 
 * added (e.g. new features)
 * analysed (e.g. the requirements)
