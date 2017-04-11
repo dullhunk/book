@@ -7,7 +7,7 @@ This guide [git.io/mycv](http://git.io/mycv) is written to help you debug your C
 While referring to this guide, remember that
 * the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
 * the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
-* Bullets are good way to do this, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
+* Bullets are good way to do be brief, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
 ## Contents of your CV
 
@@ -38,6 +38,6 @@ Once you've read the above, here's what you could do next:
 * **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
 * **SUGGESTIONS?** If you have any comments or suggestions on how to improve this guide, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and we welcome constructive feedback
 
-Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), your personal tutor or myself. The [careers service](http://www.careers.manchester.ac.uk/services/guidance/) also provide good generic advice. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
+Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), your personal tutor or myself. The [careers service](http://www.careers.manchester.ac.uk/services/guidance/) also provide good non-technical generic advice. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
 --[Duncan Hull](http://www.cs.man.ac.uk/~hulld), April 2017
