@@ -29,10 +29,10 @@ Your CV will probably have the following sections:
 Once you've read the above, here's what you could do next:
 
 * **RELEASE OFTEN** Having [released your CV early, keep releasing it often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) ''*given enough eyeballs, all bugs are shallow*''. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, colleagues, family, personal tutor, pet dog etc. The more people who see it, the better it will get. You can apply many of the the principles of [agile software development](https://en.wikipedia.org/wiki/Agile_software_development) to your CV.
-* **IMPROVING** See five steps to take next: 1) Explore, 2) Connect, 3) Communicate, 4) Reflect and 5) Apply http://www.careers.manchester.ac.uk/myfuture/ and if you are in:
+* **IMPROVING** See five steps to take next: 1) Explore, 2) Connect, 3) Communicate, 4) Reflect and 5) Apply [careers.manchester.ac.uk/myfuture](http://www.careers.manchester.ac.uk/myfuture/) and if you are in:
   * First year of your degree, see [careers.manchester.ac.uk/first/](http://www.careers.manchester.ac.uk/first/)
   * Middle years of your degree, see  [careers.manchester.ac.uk/middegree/](http://www.careers.manchester.ac.uk/middegree/)
-  * Final years of your degree, see [http://www.careers.manchester.ac.uk/final/](http://www.careers.manchester.ac.uk/final/)
+  * Final years of your degree, see [careers.manchester.ac.uk/final/](http://www.careers.manchester.ac.uk/final/)
 * **RE-CHECK** Have another look at the CV and LinkedIn guide from the careers service http://man.ac.uk/6Ef90a there is good advice mentioned there that is not in this guide
 * **UPLOAD** Upload an updated version to the CV bank once you've changed it https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank
 * **REJECTION** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them.
