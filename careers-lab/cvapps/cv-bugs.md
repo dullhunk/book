@@ -12,14 +12,16 @@ While referring to this guide, remember that
 
 Your CV will probably have the following sections:
 
-- [Education] see (http://git.io/mycved)
-- [Experience & Projects] see (http://git.io/mycvex)
-- [Skills] see (http://git.io/mycvsk)
-- [Formatting] see (http://git.io/mycvfm)
-- [Structure] see (http://git.io/mycvst)
-- [General] see (http://git.io/mycvgn)
-- [Hobbies & interests] see (http://git.io/mycvhb)
-- [Personal details & references] see (http://git.io/mycvpd)
+| Section               | Comments             |
+| -------------         | --------------------:|
+| Education             | http://git.io/mycved |
+| Experience & Projects | http://git.io/mycvex |
+| Skills                | http://git.io/mycvsk |
+| Formatting            | http://git.io/mycvfm |
+| Structure             | http://git.io/mycvst |
+| General               | http://git.io/mycvgn |
+| Hobbies & interest    | http://git.io/mycvhb |
+| Personal details      | http://git.io/mycvpd |
 
 ## Next steps
 
