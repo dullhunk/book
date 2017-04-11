@@ -13,7 +13,7 @@ While referring to this guide, remember that
 
 Your CV will probably have the following sections:
 
-| Section of your CV                 | Details on improving            |
+| Section of your CV                 | How to improve it            |
 | -------------                      | --------------------:|
 | Education (ED)                     | [git.io/mycved](http://git.io/mycved) |
 | Experience & projects (EX)         | [git.io/mycvex](http://git.io/mycvex) |
