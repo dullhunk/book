@@ -12,16 +12,16 @@ While referring to this guide, remember that
 
 Your CV will probably have the following sections:
 
-| Section                | Comments             |
-| -------------          | --------------------:|
-| Education              | [git.io/mycved](http://git.io/mycved) |
-| Experience & Projects  | [git.io/mycvex](http://git.io/mycvex) |
-| Skills                 | [git.io/mycvsk](http://git.io/mycvsk) |
-| Formatting & style     | [git.io/mycvfm](http://git.io/mycvfm) |
-| Structure              | [git.io/mycvst](http://git.io/mycvst) |
-| General points         | [git.io/mycvgn](http://git.io/mycvgn) |
-| Hobbies & interests    | [git.io/mycvhb](http://git.io/mycvhb) |
-| Personal details       | [git.io/mycvpd](http://git.io/mycvpd) |
+| Section of your CV            | Details on improving            |
+| -------------                 | --------------------:|
+| Education                     | [git.io/mycved](http://git.io/mycved) |
+| Experience & projects         | [git.io/mycvex](http://git.io/mycvex) |
+| Skills                        | [git.io/mycvsk](http://git.io/mycvsk) |
+| Formatting & style            | [git.io/mycvfm](http://git.io/mycvfm) |
+| Structure                     | [git.io/mycvst](http://git.io/mycvst) |
+| General points                | [git.io/mycvgn](http://git.io/mycvgn) |
+| Hobbies & interests           | [git.io/mycvhb](http://git.io/mycvhb) |
+| Personal details & references | [git.io/mycvpd](http://git.io/mycvpd) |
 
 ## Next steps
 
