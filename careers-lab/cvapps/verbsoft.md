@@ -42,7 +42,7 @@ You might find these useful:
 * fixed (a bug or bugs)
 * gathered (requirements)
 * hacked (an [overloaded term](https://en.wikipedia.org/wiki/Hacking), be careful!)
-* implemented (e.g. an alogorithm)
+* implemented (e.g. an algorithm)
 * improved (but remember to quantify)
 * installed
 * integrated
