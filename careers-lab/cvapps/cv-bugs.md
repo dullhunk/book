@@ -17,9 +17,9 @@ Your CV will probably have the following sections:
 | Education              | [git.io/mycved](http://git.io/mycved) |
 | Experience & Projects  | [git.io/mycvex](http://git.io/mycvex) |
 | Skills                 | [git.io/mycvsk](http://git.io/mycvsk) |
-| Formatting             | [git.io/mycvfm](http://git.io/mycvfm) |
+| Formatting & style     | [git.io/mycvfm](http://git.io/mycvfm) |
 | Structure              | [git.io/mycvst](http://git.io/mycvst) |
-| General                | [git.io/mycvgn](http://git.io/mycvgn) |
+| General points         | [git.io/mycvgn](http://git.io/mycvgn) |
 | Hobbies & interests    | [git.io/mycvhb](http://git.io/mycvhb) |
 | Personal details       | [git.io/mycvpd](http://git.io/mycvpd) |
 
@@ -39,4 +39,4 @@ Once you've read the above, here's what you could do next:
 
 Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), the [careers service](http://www.careers.manchester.ac.uk/services/guidance/) or myself. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2016
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), April 2017
