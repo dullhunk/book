@@ -7,21 +7,22 @@ This guide [git.io/mycv](http://git.io/mycv) is written to help you debug your C
 While referring to this guide, remember that
 * the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
 * the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
+* Bullets are good way to do this, rather than lengthy sections of prose
 
 ## Contents of your CV
 
 Your CV will probably have the following sections:
 
-| Section of your CV            | Details on improving            |
-| -------------                 | --------------------:|
-| Education                     | [git.io/mycved](http://git.io/mycved) |
-| Experience & projects         | [git.io/mycvex](http://git.io/mycvex) |
-| Skills                        | [git.io/mycvsk](http://git.io/mycvsk) |
-| Formatting & style            | [git.io/mycvfm](http://git.io/mycvfm) |
-| Structure                     | [git.io/mycvst](http://git.io/mycvst) |
-| General points                | [git.io/mycvgn](http://git.io/mycvgn) |
-| Hobbies & interests           | [git.io/mycvhb](http://git.io/mycvhb) |
-| Personal details & references | [git.io/mycvpd](http://git.io/mycvpd) |
+| Section of your CV                 | Details on improving            |
+| -------------                      | --------------------:|
+| Education (ED)                     | [git.io/mycved](http://git.io/mycved) |
+| Experience & projects (EX)         | [git.io/mycvex](http://git.io/mycvex) |
+| Skills (SK)                        | [git.io/mycvsk](http://git.io/mycvsk) |
+| Formatting & style (FM)            | [git.io/mycvfm](http://git.io/mycvfm) |
+| Structure (ST)                     | [git.io/mycvst](http://git.io/mycvst) |
+| General points (GN)                | [git.io/mycvgn](http://git.io/mycvgn) |
+| Hobbies & interests (HB)           | [git.io/mycvhb](http://git.io/mycvhb) |
+| Personal details & references (PD) | [git.io/mycvpd](http://git.io/mycvpd) |
 
 ## Next steps
 
