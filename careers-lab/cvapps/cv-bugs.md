@@ -13,12 +13,11 @@ While referring to this guide, remember that
 - [Education (ED)](#education-ed)
 - [Experience (EX) and Projects](#experience-ex-and-projects)
 - [Skills (SK)](#skills-sk)
-- [Personal Details (PD)](#personal-details-pd)
 - [Formatting (FM)](#formatting-fm)
 - [Structure (ST)](#structure-st)
 - [General (GEN)](#general-gen)
 - [Hobbies and interests (HOB)](#hobbies-and-interests-hob)
-- [References (REF)](#references-ref)
+- [Personal Details & References (REF)](#references-ref)
 - [Next steps](#next-steps)
 
 ## Education (ED)
@@ -55,17 +54,6 @@ List your skills, providing evidence and context where you can.
   5. **EXPERT OR BEGINNER?** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also essential to say a bit about what you've used them for, as its all to easy to list skills you don't actually have.
   6. **PRINCIPLES: SCIENCE & ENGINEERING** Don't forget to mention fundamental principles (the science) you have learned as well as specific tools (the engineering & technology). Technologies come and go very fast - it is the principles you have learned  on your degree that will set you up for your career for many years to come. Fundamental concepts in Computer Science like architecture, OOP, algorithms, design patterns, operating systems, security and networks don't change as quickly as the technology does - so make sure you mention them. As Computer Science students, you are both and engineer AND a scientist, that's two degrees for the price of one!
   7. **META** As a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly  - either [self-taught](https://en.wikipedia.org/wiki/Autodidacticism) or learning from peers. You can also think logically, reason, problem solve, analyse and abstract - often to tight deadlines. Again, these are future-proof skills that will last longer than whatever technology is fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in specific technical skills.
-
-## Personal Details (PD)
-
-How to get in touch
-
-  1. **ADDRESS** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page of your CV.
-  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just “ALAN TURING” not “CURRICULUM VITAE ALAN TURING”.
-  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - your age should not a factor in your job applications. Also, publishing your birth date *could* make you more vulnerable to identity theft, see the [dangers of revealing your date of birth](http://security.stackexchange.com/questions/95029/how-dangerous-is-it-to-reveal-your-date-of-birth-and-why) for example.
-  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. What you look like should not be a factor in your job application (though some recruiters find it helps them to remember your face, especially if they have to deal with a high volume of CVs)
-  5. **MARRIAGE & GENDER** Your marital status & gender should not be relevant to your job application either
-  6. **MYDOMAIN.COM** The email address me@mydomain.com says more than just how to contact you, it shows that you know how to setup an email server and a web server. Make sure you mention your personal domain and email if you have one. It can give a better impression than a generic me@hotmail.com or me@gmail.com.
 
 ## Formatting (FM)
 
@@ -123,12 +111,18 @@ Hobbies reveal some of your personality, which is what employers really care abo
   2. **MEMBER?** If you are involved in activities or societies you should explain your role in the group. By itself, “member” is very vague, you can be a member of a society without doing anything. Were you a treasurer? Partipant? Organiser? Leader? Publicist? Secretary? Hacker? Hanger-on? Beer-drinker? Rabble rouser? Advocate? Trouble-maker? See ACTIVE LANGUAGE.
   3. **COMPUTING?** Is computing also your hobby? Don't be ashamed if it is. While it is important to have a work-life balance, if computing is your hobby (as well as your degree and day job) it shows commitment and enthusiasm to the subject beyond education. This is a good thing. In Computer Science, everyday is [geek pride day](https://en.wikipedia.org/wiki/Geek_Pride_Day)!
 
-## References (REF)
+## Personal Details (PD) and REFERENCES
 
-The last thing on your CV
+How to get in touch, much of this information can go at the end of your CV.
 
-  1. **ON REQUEST** Usually you can just say “references available on request” rather than listing all your referees. If you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them. Also by saying “on request” you know when the references will be taken up (because you'll be notified) so you have more control over the process.
-  2. **ASK YOUR REFEREES** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
+  1. **ADDRESS** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page of your CV.
+  2. **THIS IS A CV (WELL DUH!)** Don't include the title RESUME or CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be YOUR NAME big, bold and simple. E.g. just “ALAN TURING” not “CURRICULUM VITAE ALAN TURING”.
+  3. **DATE OF BIRTH** You don't need to include your date of birth on your CV - your age should not a factor in your job applications. Also, publishing your birth date *could* make you more vulnerable to identity theft, see the [dangers of revealing your date of birth](http://security.stackexchange.com/questions/95029/how-dangerous-is-it-to-reveal-your-date-of-birth-and-why) for example.
+  4. **MUGSHOT?** It is unusual to put a photo of yourself on your CV. What you look like should not be a factor in your job application (though some recruiters find it helps them to remember your face, especially if they have to deal with a high volume of CVs)
+  5. **MARRIAGE & GENDER** Your marital status & gender should not be relevant to your job application either
+  6. **MYDOMAIN.COM** The email address me@mydomain.com says more than just how to contact you, it shows that you know how to setup an email server and a web server. Make sure you mention your personal domain and email if you have one. It can give a better impression than a generic me@hotmail.com or me@gmail.com.
+  7. **ON REQUEST** Usually you can just say “references available on request” rather than listing all your referees. If you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them. Also by saying “on request” you know when the references will be taken up (because you'll be notified) so you have more control over the process.
+  8. **ASK YOUR REFEREES** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
 
 ## Next steps
 
