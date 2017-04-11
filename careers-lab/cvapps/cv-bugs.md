@@ -7,7 +7,7 @@ This guide [git.io/mycv](http://git.io/mycv) is written to help you debug your C
 While referring to this guide, remember that
 * the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
 * the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
-* Bullets are good way to do this, with the verbs first [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
+* Bullets are good way to do this, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
 ## Contents of your CV
 
