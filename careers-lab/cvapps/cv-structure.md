@@ -1,6 +1,6 @@
 # Structure
 
-This section (http://git.io/mycvst) is part of (http://git.io/mycv)
+This section [git.io/mycvst](http://git.io/mycvst) is part of [git.io/mycv](http://git.io/mycv)
 
 ## Structuring
 

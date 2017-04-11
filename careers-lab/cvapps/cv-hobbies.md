@@ -1,6 +1,6 @@
 ## Hobbies and interests (HOB)
 
-This section (http://git.io/mycvhb) is part of (http://git.io/mycv)
+This section [git.io/mycvhb](http://git.io/mycvhb) is part of [git.io/mycv](http://git.io/mycv)
 
 Hobbies reveal some of your personality, which is often what employers are really trying to find out.
 

@@ -1,6 +1,6 @@
 # Describing your skills
 
-This section (http://git.io/mycvsk) is part of (http://git.io/mycv)
+This section [git.io/mycvsk](http://git.io/mycvsk) is part of [git.io/mycv](http://git.io/mycv)
 
 ## Skills
 

@@ -1,6 +1,6 @@
 # Describing your educational background
 
-This section (http://git.io/mycved) part of (http://git.io/mycv).
+This section [git.io/mycved](http://git.io/mycved) part of [git.io/mycv](http://git.io/mycv).
 
 ## Education (ED)
 

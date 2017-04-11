@@ -1,6 +1,6 @@
 # Formatting and Typography
 
-This section (http://git.io/mycvfm) is part of (http://git.io/mycv)
+This section [git.io/mycvfm](http://git.io/mycvfm) is part of [git.io/mycv](http://git.io/mycv)
 
 ## Do it in style
 

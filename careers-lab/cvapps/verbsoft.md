@@ -1,6 +1,6 @@
 # Verbs for emphasising what you've done
 
-This section (http://git.io/verbsfirst) is part of the debugging your CV guide at http://git.io/mycv .
+This section [git.io/verbsfirst](http://git.io/verbsfirst) is part of the debugging your CV guide at [git.io/mycv](http://git.io/mycv) .
 
 A simple but effective technique for emphasising what you have done, rather than just what you know is to start the description of it with a verb. Many employers (members of [our industry club](http://www.cs.manchester.ac.uk/industry/club/)) have told us that they don't just want to know what graduates **know**, but what graduates have actually **done**. So, for example, instead of saying e.g.
 

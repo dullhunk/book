@@ -1,6 +1,6 @@
 # Describing your experience and projects
 
-This section (http://git.io/mycvex) is part of (http://git.io/mycv)
+This section [git.io/mycvex](http://git.io/mycvex) is part of [git.io/mycv](http://git.io/mycv)
 
 ## Experience & Projects
 

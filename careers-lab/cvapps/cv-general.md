@@ -1,6 +1,6 @@
 ## General
 
-This section (http://git.io/mycvgn) is part of (http://git.io/mycv)
+This section [git.io/mycvgn](http://git.io/mycvgn) is part of [git.io/mycv](http://git.io/mycv)
 
 Some general points that apply to all sections of your CV
 
