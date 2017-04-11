@@ -1,5 +1,5 @@
 
-## Personal Details (PD) and REFERENCES
+## Personal Details and References 
 
 How to get in touch, much of this information can go at the end of your CV.
 
