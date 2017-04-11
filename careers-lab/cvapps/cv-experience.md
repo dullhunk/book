@@ -1,10 +1,10 @@
 # Describing your experience and projects
 
-This section (http://git.io/mycved) is part of (http://git.io/mycv)
+This section (http://git.io/mycvex) is part of (http://git.io/mycv)
 
 ## Experience & Projects
 
-This is usually the second section on the first page, unless you have lots of experience. If you don't have much experience to talk about, you can emphasise project work, both inside and outside of education including voluntary work 
+This is usually the second section on the first page, unless you have lots of experience. If you don't have much experience to talk about, you can emphasise project work, both inside and outside of education including voluntary work
 
   1. **DETAILS** Make sure the duration, company name and location of any experience you have is described. If you have lots of experience and projects, choose the ones that are most relevant to the job you are applying for
   2. **VOLUNTEER?** Include voluntary work (as well as paid work), e.g. Teacher, PASS leader, Student Ambassador, etc
