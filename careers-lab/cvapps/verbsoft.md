@@ -48,6 +48,7 @@ You might find these useful:
 * integrated
 * interfaced
 * merged (e.g. git merge)
+* migrated (e.g. upgrading a system)
 * modified (e.g. stendhal)
 * modded (e.g. in gaming terminology)
 * navigated (e.g. a complex codebase)
@@ -68,5 +69,6 @@ You might find these useful:
 * solved
 * tested
 * understood (e.g. code comprehension)
+* upgraded
 * verified
 * validated
