@@ -9,7 +9,7 @@ While referring to this guide, remember that:
 2. the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
 3. Bullet points are good way to be brief, leading with key verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
-## Areas of your CV
+## Improving specific areas of your CV
 
 The links below take you to specific instructions on how to improve particular areas of your CV:
 
