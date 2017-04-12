@@ -11,7 +11,7 @@ While referring to this guide, remember that
 
 ## Contents of your CV
 
-Your CV will probably have the following sections:
+The links below take you to specific instruction on how to improve particular sections of your CV as well as some general advice:
 
 | Section of your CV                 | How to improve it            |
 | -------------                      | --------------------:|
