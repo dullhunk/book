@@ -4,10 +4,10 @@ This guide [git.io/mycv](http://git.io/mycv) is written to help you debug your [
 
 > DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are a very subjective thing. The advice below is based on common sense, experience and ongoing conversations with members of our [industry club](http://www.cs.manchester.ac.uk/industry/club/). What makes a good CV will depend on the personal preferences and prejudices of the reader. There are some general rules, which are described below.
 
-While referring to this guide, remember that
-* the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
-* the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
-* Bullets are good way to be brief, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
+While referring to this guide, remember that:
+1. the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
+2. the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
+3. Bullets are good way to be brief, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
 ## Contents of your CV
 
