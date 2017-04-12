@@ -7,11 +7,11 @@ This guide [git.io/mycv](http://git.io/mycv) is written to help you debug your [
 While referring to this guide, remember that:
 1. the **main purpose of your CV is to get an interview, not a job**. Your CV should catch attention and provide talking points for an interview but not give your whole life story
 2. the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
-3. Bullets are good way to be brief, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
+3. Bullet points are good way to be brief, leading with the verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
-## Contents of your CV
+## Areas of your CV
 
-The links below take you to specific instruction on how to improve particular areas of your CV:
+The links below take you to specific instructions on how to improve particular areas of your CV:
 
 | Area of your CV                    | How to improve it            |
 | -------------                      | --------------------:|
