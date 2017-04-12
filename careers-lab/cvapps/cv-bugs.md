@@ -11,9 +11,9 @@ While referring to this guide, remember that
 
 ## Contents of your CV
 
-The links below take you to specific instruction on how to improve particular sections of your CV as well as some general advice:
+The links below take you to specific instruction on how to improve particular areas of your CV:
 
-| Section of your CV                 | How to improve it            |
+| Area of your CV                    | How to improve it            |
 | -------------                      | --------------------:|
 | Education (ED)                     | [git.io/mycved](http://git.io/mycved) |
 | Experience & projects (EX)         | [git.io/mycvex](http://git.io/mycvex) |
