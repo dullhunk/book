@@ -1,4 +1,4 @@
-#General
+# General
 
 This section [git.io/mycvgn](http://git.io/mycvgn) is part of [git.io/mycv](http://git.io/mycv)
 
