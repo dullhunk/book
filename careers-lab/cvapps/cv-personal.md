@@ -1,7 +1,9 @@
 
-## Personal Details and References
+# Personal Details and References
 
 This section [git.io/mycvpd](http://git.io/mycvpd) is part of [git.io/mycv](http://git.io/mycv)
+
+## Personalising it
 
 How to get in touch, much of this information can go at the end of your CV.
 

@@ -13,7 +13,7 @@ While referring to this guide, remember that:
 
 ## Improving specific areas of your CV
 
-The links below take you to specific instructions on how to improve particular areas of your CV:
+The links below take you to specific instructions on how to improve and debug particular areas of your CV:
 
 | Area of your CV                    | How to improve it            |
 | -------------                      | --------------------:|

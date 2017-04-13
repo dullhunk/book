@@ -2,7 +2,7 @@
 
 This section [git.io/mycvex](http://git.io/mycvex) is part of [git.io/mycv](http://git.io/mycv)
 
-## Experience & Projects
+## Experiencing it
 
 This is usually the second section on the first page, unless you have lots of experience. If you don't have much experience to talk about, you can emphasise project work, both inside and outside of education including voluntary work
 

@@ -1,7 +1,8 @@
-## General
+#General
 
 This section [git.io/mycvgn](http://git.io/mycvgn) is part of [git.io/mycv](http://git.io/mycv)
 
+## Refining it
 Some general points that apply to all sections of your CV
 
 1. **LINK IT** It is good to have *some* clickable links in your CV that also work on paper, you won't know if the person reading it will be reading the PDF on-screen or a printed version. Spell out the URL (so it works in print) and also make the link in the PDF clickable to cover both scenarios. Link to anything you have that adds context to what you're saying e.g. company websites, your personal website, any project URLs, hackathon / competition URLs . If you have a LinkedIn profile, make sure you [customise and shorten your LinkedIn url](https://www.google.co.uk/search?q=custom+linkedin+url) it will look much better than the default alphanumeric string used to identify you. If you've not used LinkedIn before, it is a business-oriented social networking service (see Figure. 1 for details). Think of it like Facebook or Twitter for grown ups, where people talk about employment and business. See Figure 1. for details. Joking aside, recruiters and Human Resource departments do use LinkedIn to fill job vacancies.
