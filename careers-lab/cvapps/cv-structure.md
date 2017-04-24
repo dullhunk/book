@@ -2,7 +2,7 @@
 
 This section [git.io/mycvst](http://git.io/mycvst) is part of [git.io/mycv](http://git.io/mycv)
 
-## Structuring
+## Structuring it
 
 The order and structure of your CV is as important as the content and styling
 
