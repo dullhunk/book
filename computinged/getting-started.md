@@ -1,6 +1,6 @@
 # Getting started on your computing education projects
 
-> DISCLAIMER: This is a draught version, some sections are still in note form and imcomplete
+> DISCLAIMER: This is a draught version, some sections are still in note form and incomplete
 
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
@@ -73,9 +73,9 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 
 ## Education generally
 
-Classroom management and behaviour management, We don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
+Classroom management and behaviour management, we don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
 
-* See [https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know](The 9 things every teacher should know) by Dylan Wiliam, Emeritus Professor of Education at the University of London is a good place to start
+* See [The 9 things every teacher should know](https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know) by [Dylan Wiliam](https://en.wikipedia.org/wiki/Dylan_Wiliam), Emeritus Professor of Education at the University of London is a good place to start
 
 If you are interested in primary school, take a look at [Code Club](https://www.codeclub.org.uk), [barefootcas.org.uk]( https://barefootcas.org.uk) and [QuickStart Computing](https://community.computingatschool.org.uk/resources/3042)
 
