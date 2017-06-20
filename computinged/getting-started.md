@@ -35,12 +35,12 @@ You really need to look at these:
 http://community.computingatschool.org.uk/resources/4382 also Bebras
 
 * Education, and computing education, is frequently discussed in the mainstream media see e.g. http://www.bbc.co.uk/news/education and e.g.
-* Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
-* Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
-* Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), BBC News
-* Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
-* James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
-* Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
+    * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
+    * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
+    * Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), BBC News
+    * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
+    * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
+    * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
 
 ## SHINY NEW TOOLS!
 
