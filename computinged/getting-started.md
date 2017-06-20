@@ -14,7 +14,7 @@ Like many research projects, your final year education project is open-ended. Un
 
 1. **DEVELOPMENT FOR STUDENTS** Creating an artefact or artefacts (e.g. software, hardware, lesson plans & resources) to help students understand different aspects of computer science
 2. **DEVELOPMENT FOR TEACHERS** Creating an artefact or artefacts that helps teachers to teach and assess computer Science including what they have understood or misunderstood
-3. **RESEARCH** Evaluating different pedagogical methodologies for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the [ research in computer science education in schools published in 2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at Kings College London & Neil Brown at the University of Kent
+3. **RESEARCH** Evaluating different pedagogical methodologies for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the [ new research in computer science education 2015-2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at Kings College London & Neil Brown at the University of Kent
 
 These categories are not exclusive, so you might do one or several of these together using the same tool.
 
@@ -29,7 +29,7 @@ You really need to look at these:
 * **CAS Tenderfoot** is a Google-funded project that trains [Key Stage 3](https://en.wikipedia.org/wiki/Key_Stage_3) teachers. Their training notes have loads of good ideas for teaching everything from finite state machines to going beyond simple algorithms, see
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
-* **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See BBC Bite Size, http://www.bbc.co.uk/education/subjects/z34k7ty and Cambridge GCSE Computing https://www.cambridgegcsecomputing.org
+* **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See [http://www.bbc.co.uk/education/subjects/z34k7ty](BBC Bite Size) and [Cambridge GCSE Computing](https://www.cambridgegcsecomputing.org)
 * An overview of the Computer Science curriculum in secondary schools http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf
 * **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching
 http://community.computingatschool.org.uk/resources/4382 also Bebras
