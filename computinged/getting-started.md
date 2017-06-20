@@ -43,17 +43,23 @@ Taking hardware into the classroom that students have never seen before is a goo
 
 teaching resources from raspberry pi https://www.raspberrypi.org/resources/teach/
 physical computing https://www.raspberrypi.org/blog/announcing-our-new-online-training-series/
-microbits http://microbit.org/
+microbits http://microbit.org, CodeBugs
 https://www.lego.com/en-gb/mindstorms
 [Oculus Rift](https://www.oculus.com)
 
+You can also use hardware and software outside of computing lessons
+
+* Music [http://sonic-pi.net](Sonic Pi] is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
+* Internet of Things, sensor networks,
+* Physics of sound with Audacity http://www.audacityteam.org
+* Chemistry buildi
+
 ## Computing without computers
-Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all. Some good examples:
+Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
 * [Computer Science unplugged](http://csunplugged.org) from Tim Bell at the University of Canterbury in New Zealand is a Google funded project
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
 * A key part of Computer Science education is computational thinking https://en.wikipedia.org/wiki/Computational_thinking. For your projects, think about how you can encourage computational thinking in your classrooms
-
 
 ## Education generally
 
