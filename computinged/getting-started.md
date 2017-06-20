@@ -1,6 +1,6 @@
 # Getting started on your computing education projects
 
-If you're starting a final year project, here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document
+If you are starting a [final year project in computer science eduation](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using [http://git.io/computinged](git.io/computinged)
 
 ## Joining in
 If you haven't already, join [computingatschool.org.uk](Computing At School (CAS)). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://community.computingatschool.org.uk/sign_up](community.computingatschool.org.uk/sign_up)
@@ -30,7 +30,7 @@ You really need to look at these:
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
 * GCSE Computing. Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See BBC Bite Size, http://www.bbc.co.uk/education/subjects/z34k7ty and Cambridge GCSE Computing https://www.cambridgegcsecomputing.org
-
+* An overview of the Computer Science curriculum in secondary schools http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf
 * [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality
 http://community.computingatschool.org.uk/resources/4382 also Bebras
 
