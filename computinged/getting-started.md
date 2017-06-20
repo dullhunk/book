@@ -1,5 +1,7 @@
 # Getting started on your computing education projects
 
+> DISCLAIMER: This is a draught version, some sections are still in note form and imcomplete
+
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
@@ -14,7 +16,7 @@ Like many research projects, your final year education project is open-ended. Un
 
 1. **DEVELOPMENT FOR STUDENTS** Creating an artefact or artefacts (e.g. software, hardware, lesson plans & resources) to help students understand different aspects of computer science
 2. **DEVELOPMENT FOR TEACHERS** Creating an artefact or artefacts that helps teachers to teach and assess computer Science including what they have understood or misunderstood
-3. **RESEARCH** Evaluating different pedagogical methodologies for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the [ new research in computer science education 2015-2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at Kings College London & Neil Brown at the University of Kent
+3. **RESEARCH** Evaluating different pedagogical methods for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the [ new research in computer science education 2015-2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at Kings College London & Neil Brown at the University of Kent
 
 These categories are not exclusive, so you might do one or several of these together using the same tool.
 
