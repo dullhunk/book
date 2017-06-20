@@ -3,7 +3,7 @@
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
-If you haven't already, join [computingatschool.org.uk](Computing At School (CAS)). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://ccomputingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
+If you haven't already, join [http://www.computingatschool.org.uk](Computing At School (CAS)). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://ccomputingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
 
 It is useful if you don't already have it, to get DBS cleared because this can take several weeks to get the documents. When you are DBS cleared, schools can be confident that it is safe for them to let you work with children and young people (e.g. you are not a criminal). One of the easiest ways to do this is [sign up as a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/ambassadors)
 
@@ -64,8 +64,8 @@ If you are interested in primary school, take a look at [Code Club](https://www.
 Even if you are working with secondary school students, it can be beneficial to visit a primary school (for example, one that feeds into your secondary school) to get the bigger picture on computing in education as a whole.
 
 ## Further reading
-* The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published December 2016) gives a good overview of the state of computing in the UK. E.g. how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
-* Many of the ideas above have been around a while, see the book by Seymour Papert (1980) Mindstorms: children, computers, and powerful ideas http://dl.acm.org/citation.cfm?id=1095592 (free pdf)
+* The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. It answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
+* Many of the ideas above have been around a while, see the book by Seymour Papert (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  (free pdf)
 
 
 Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor of writes a blog
