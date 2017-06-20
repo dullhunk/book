@@ -44,7 +44,7 @@ http://community.computingatschool.org.uk/resources/4382 also Bebras
     * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
     * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
 
-## SHINY NEW TOOLS!
+## Shiny new tools!
 
 Taking hardware into the classroom that students have never seen before is a good way to spark interest. If you have time before the project, you can experiment with new hardware that you could use in the classroom. We have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
@@ -75,7 +75,7 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 
 Classroom management and behaviour management, We don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
 
-* [https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know](The 9 things every teacher should know) by Dylan Wiliam, Emeritus Professor of Education at the University of London
+* See [https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know](The 9 things every teacher should know) by Dylan Wiliam, Emeritus Professor of Education at the University of London is a good place to start
 
 If you are interested in primary school, take a look at [Code Club](https://www.codeclub.org.uk), [barefootcas.org.uk]( https://barefootcas.org.uk) and [QuickStart Computing](https://community.computingatschool.org.uk/resources/3042)
 
@@ -83,12 +83,12 @@ Even if you are working with secondary school students, it can be beneficial to 
 
 ## Further reading
 * The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. It answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
-* Many of the ideas above have been around a while, see the book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  (free pdf)
+* Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
-Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com/](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). His book ...
+* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com/](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). His book ...
 
-past reports from final year students (search for projects supervised by "Duncan Hull")
+* past reports from final year students (search for projects supervised by "Duncan Hull") -- needs link
 
 
 --[Duncan Hull](http://www.cs.man.ac.uk/~hulld), June 2017
