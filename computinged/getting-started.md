@@ -3,7 +3,7 @@
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
-If you haven't already, join [http://www.computingatschool.org.uk](Computing At School (CAS)). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://ccomputingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
+If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://ccomputingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
 
 It is useful if you don't already have it, to get DBS cleared because this can take several weeks to get the documents. When you are DBS cleared, schools can be confident that it is safe for them to let you work with children and young people (e.g. you are not a criminal). One of the easiest ways to do this is [sign up as a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/ambassadors)
 
@@ -13,8 +13,8 @@ It is useful if you don't already have it, to get DBS cleared because this can t
 Like many research projects, your final year education project is open-ended. Unlike lectures and exams, you have much more scope for driving the project in a direction you want, with help and guidance from your academic supervisors, the teachers in your school and the students and pupils you are working with. In previous years, undergraduate student projects have typically been one of the following kinds:
 
 1. **DEVELOPMENT FOR STUDENTS** Creating an artefact or artefacts (e.g. software, hardware, lesson plans & resources) to help students understand different aspects of computer science
-2. ** DEVELOPMENT FOR TEACHERS ** Creating an artefact or artefacts that helps teachers to teach and assess computer Science including what they have understood or misunderstood
-3. ** RESEARCH Evaluating different pedagogical methodologies for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the latest research in computer science education in schools via Sue Sentance at Kings College London & Neil Brown at the University of Kent http://community.computingatschool.org.uk/files/8842/original.pptx
+2. **DEVELOPMENT FOR TEACHERS** Creating an artefact or artefacts that helps teachers to teach and assess computer Science including what they have understood or misunderstood
+3. **RESEARCH** Evaluating different pedagogical methodologies for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch](https://scratch.mit.edu) and [Blockly](https://developers.google.com/blockly)) See the [http://community.computingatschool.org.uk/files/8842/original.pptx](latest research in computer science education in schools) via Sue Sentance at Kings College London & Neil Brown at the University of Kent
 
 These categories are not exclusive, so you might do one or several of these together using the same tool.
 
@@ -34,7 +34,12 @@ You really need to look at these:
 * [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality
 http://community.computingatschool.org.uk/resources/4382 also Bebras
 
-* Education, and computing education, is frequently discussed in the mainstream media see e.g. http://www.bbc.co.uk/news/education and e.g. [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796)
+* Education, and computing education, is frequently discussed in the mainstream media see e.g. http://www.bbc.co.uk/news/education and e.g.
+* Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796)
+* Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927)
+* Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511)
+* Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929)
+* James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education)
 
 ## SHINY NEW TOOLS!
 
@@ -47,13 +52,13 @@ teaching resources from raspberry pi https://www.raspberrypi.org/resources/teach
 * https://www.lego.com/en-gb/mindstorms
 * [Oculus Rift](https://www.oculus.com)
 
-You can also use hardware and software outside of computing lessons, in music, physics and geography etc
+You can also demonstrate the breadth of computing by building cross-curricular links via music, physics and geography etc
 
 * Music [http://sonic-pi.net](Sonic Pi) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
 
 * Physics of sound with Audacity http://www.audacityteam.org and of course, Rockets too
 
-* Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
+* Geography:  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
 
 
 ## Computing without computers
