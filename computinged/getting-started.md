@@ -4,6 +4,9 @@
 
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
+> “Our top priority was, is and always will be education, education, education” ... can you guess which Prime Minster said this?
+
+
 ## Joining in
 If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up)
 
@@ -87,8 +90,6 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 
 ## Education, education, education
-
-“Our top priority was, is and always will be education, education, education” ... so said, [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair) back [in 2001](https://www.theguardian.com/politics/2001/may/23/labour.tonyblair).
 
 Classroom management and behaviour management, we don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
 
