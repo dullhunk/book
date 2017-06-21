@@ -34,16 +34,19 @@ You really need to look at these:
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
 * **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See [http://www.bbc.co.uk/education/subjects/z34k7ty](BBC Bite Size) and [Cambridge GCSE Computing](https://www.cambridgegcsecomputing.org)
-* An overview of the Computer Science curriculum in secondary schools http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf
+* [An overview of the Computer Science curriculum in secondary schools](http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf)
 * **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching [Project Quantum: tests worth teaching to](
 http://community.computingatschool.org.uk/resources/4382) also [Bebras challenges](http://challenge.bebras.uk/)
 
+* **Raspberry Pi** Lots of good teaching resources from raspberry pi https://www.raspberrypi.org/resources/teach/
+
 * **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool ) on YouTube has lots of useful stuff
 
-* Education, and computing education, is frequently discussed in the mainstream media see e.g. [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education) and e.g.
+* Education, and computing education, is frequently discussed in the mainstream media, for example [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education) and below:
     * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
     * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
     * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
+    * Sophie Curtis (2014) [Google sponsors Code Club teacher training programme](http://www.telegraph.co.uk/technology/google/10623652/Google-sponsors-Code-Club-teacher-training-programme.html), Daily Telegraph
     * Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), BBC News
     * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
     * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
@@ -52,7 +55,7 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 
 Taking hardware into the classroom that students have never seen before is a good way to spark interest. If you have time before the project, you can experiment with new hardware that you could use in the classroom. We have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
-teaching resources from raspberry pi https://www.raspberrypi.org/resources/teach/
+
 
 * physical computing https://www.raspberrypi.org/blog/announcing-our-new-online-training-series/,  Internet of Things, sensor networks,
 * microbits http://microbit.org, CodeBugs
