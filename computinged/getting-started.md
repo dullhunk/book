@@ -62,15 +62,15 @@ Taking hardware into the classroom that students may never seen before is a good
 * [CodeBugs](http://www.codebug.org.uk) wearable technology
 * [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK by the BBC
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
-* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) ang Augmented Reality (AR) will be complety new to many school students
+* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be complety new to many school students
 
 
-## Computing without computers: Unplugged & cross-curricular
+## Unplugging: Computing without computers and cross-curricular links
 Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
 * [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project providing “engaging games and puzzles that use cards, string, crayons and lots of running around.”
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](https://teachinglondoncomputing.files.wordpress.com/2014/02/booklet-cwc-feb2014.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London (QMUL) and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
-* A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what that means and how you can encourage students to think computationally
+* A key part of Computer Science education is [computational thinking (CT)](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what CT means and how you can encourage students to think computationally
 
 You can also demonstrate the breadth of computing by building cross-curricular links via art, music, physics, chemistry and geography etc
 
@@ -84,7 +84,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
 
-* **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
+* **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/ looking at data see [urbandataschool.com](https://www.urbandataschool.com)
 
 
 ## Education, education, education
