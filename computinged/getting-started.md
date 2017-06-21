@@ -2,8 +2,6 @@
 
 > DISCLAIMER: This is a draught version, some sections are still in note form and incomplete
 
-Using Learning Sciences Research to Improve Computing Teaching
-
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
@@ -70,7 +68,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
 
-* **Biology** teach students about the analysis of DNA and proteins using algorithms, aka Bioinformatics, see [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242)
+* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [yourgenome.org](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242). The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
 * **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
 
@@ -90,7 +88,7 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 
 Classroom management and behaviour management, we don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
 
-* See [The 9 things every teacher should know](https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know) by [Dylan Wiliam](https://en.wikipedia.org/wiki/Dylan_Wiliam), Emeritus Professor of Education at the University of London is a good place to start
+* See [Nine things every teacher should know](https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know) by [Dylan Wiliam](https://en.wikipedia.org/wiki/Dylan_Wiliam), Emeritus Professor of Education at the University of London is a good place to start
 
 If you are interested in primary school, take a look at [Code Club](https://www.codeclub.org.uk), [barefootcas.org.uk]( https://barefootcas.org.uk) and [QuickStart Computing](https://community.computingatschool.org.uk/resources/3042)
 
@@ -101,7 +99,7 @@ Even if you are working with secondary school students, it can be beneficial to 
 * Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
-* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). His book ...
+* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
 
 * past reports from final year students (search for projects supervised by "Duncan Hull") -- needs link
 
