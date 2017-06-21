@@ -1,8 +1,10 @@
-# Getting started on your computing education projects
+# Getting started with computing education projects
 
 > DISCLAIMER: This is a draught version, some sections are still in note form and incomplete
 
-If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help you make a flying start in September and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
+Using Learning Sciences Research to Improve Computing Teaching
+
+If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
 If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://www.computingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
@@ -24,17 +26,19 @@ These categories are not exclusive, so you might do one or several of these toge
 
 You really need to look at these:
 
-* Subscribe to [Hello World magazine](https://helloworld.raspberrypi.org/helloworld). Electronic copies  are free, but as an educator you can also sign up to have a glossy printed copy of the magazine sent to your postal address. The [https://www.raspberrypi.org/magpi/](MagPi magazine) from the Raspberry Pi Foundation is similar,  though covers broader themes education alongside the frequently updated [Raspberry Pi blog](https://www.raspberrypi.org/blog/)
+* Subscribe to [Hello World magazine](https://helloworld.raspberrypi.org/helloworld). Electronic copies  are free, but as an educator you can also sign up to have a glossy printed copy of the magazine sent to your postal address. The [MagPi magazine](http://magpi.cc) from the Raspberry Pi Foundation is similar,  though covers broader themes education alongside the frequently updated [Raspberry Pi blog](https://www.raspberrypi.org/blog/)
 
-* You must read [Shut down or restart?](https://royalsociety.org/topics-policy/projects/computing-in-schools/report/) was a landmark report published by the Royal Society (the UK's national academy of science).  led by Professor [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) here in the School of Computer Science in 2012. Its a good overview of some of the problems facing computing education, that is part of the wider [Computing education at the Royal Society](https://royalsociety.org/topics-policy/projects/computing-education/) activity. In september of 2017, Steve will also publish a major survey of computing education in schools https://royalsociety.org/news/2016/10/launch-computing-education-schools-survey/
+* You must read [Shut down or restart?](https://royalsociety.org/topics-policy/projects/computing-in-schools/report/) was a landmark report published by the Royal Society (the UK's national academy of science).  led by Professor [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) here in the School of Computer Science in 2012. Its a good overview of some of the problems facing computing education, that is part of the wider [Computing education at the Royal Society](https://royalsociety.org/topics-policy/projects/computing-education/) activity. In September of 2017, the Royal Society will also publish [a major survey of computing education in schools](https://royalsociety.org/news/2016/10/launch-computing-education-schools-survey/)
 
 * **CAS Tenderfoot** is a Google-funded project that trains [Key Stage 3](https://en.wikipedia.org/wiki/Key_Stage_3) teachers. Their training notes have loads of good ideas for teaching everything from finite state machines to going beyond simple algorithms, see
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
 * **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See [http://www.bbc.co.uk/education/subjects/z34k7ty](BBC Bite Size) and [Cambridge GCSE Computing](https://www.cambridgegcsecomputing.org)
 * An overview of the Computer Science curriculum in secondary schools http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf
-* **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching
-http://community.computingatschool.org.uk/resources/4382 also Bebras
+* **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching [Project Quantum: tests worth teaching to](
+http://community.computingatschool.org.uk/resources/4382) also [Bebras challenges](http://challenge.bebras.uk/)
+
+* **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool) on YouTube has lots of useful stuff 
 
 * Education, and computing education, is frequently discussed in the mainstream media see e.g. http://www.bbc.co.uk/news/education and e.g.
     * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
