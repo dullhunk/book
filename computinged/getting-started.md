@@ -7,7 +7,7 @@ Using Learning Sciences Research to Improve Computing Teaching
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 ## Joining in
-If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [http://www.computingatschool.org.uk/sign_up](computingatschool.org.uk/sign_up)
+If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up)
 
 It is useful if you don't already have it, to get DBS cleared because this can take several weeks to get the documents. When you are DBS cleared, schools can be confident that it is safe for them to let you work with children and young people (e.g. you are not a criminal). One of the easiest ways to do this is [sign up as a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/ambassadors)
 
