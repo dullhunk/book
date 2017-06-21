@@ -51,15 +51,15 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 
 ## Novel and unusual hardware
 
-Taking hardware into the classroom that students may never seen before is a good way to spark interest. If you have time before the project, you can experiment with new hardware that you could use in the classroom. We have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
+Taking hardware into the classroom that students may never seen before is a good way to spark interest. Try experimenting with new hardware that you could use in the classroom, we have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
 
-* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series)
-* Internet of Things, sensor networks,
-* [CodeBugs](http://www.codebug.org.uk)
-* [Microbits](http://microbit.org)
-* [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms)
-* [Oculus Rift](https://www.oculus.com)
+* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) beyond your desk and phone
+* Internet of Things, sensor networks etc embedded systems
+* [CodeBugs](http://www.codebug.org.uk) wearable technology
+* [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK
+* [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
+* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality  will be complety new to many school students
 
 
 ## Computing without computers: Unplugged & cross-curricular
@@ -69,7 +69,7 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
 * A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what that means and how you can encourage students to think computationally
 
-You can also demonstrate the breadth of computing by building cross-curricular links via music, physics and geography etc
+You can also demonstrate the breadth of computing by building cross-curricular links via art, music, physics, chemistry and geography etc
 
 * **Music** [Sonic Pi](http://sonic-pi.net) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/) It started on the Raspberry Pi plaform, but now works on Windows and Macs too
 
