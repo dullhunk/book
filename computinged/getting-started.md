@@ -1,10 +1,10 @@
 # Getting started with computing education projects
 
-> DISCLAIMER: This is a draught version, some sections are still in note form and incomplete
-
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
-> “Our top priority was, is and always will be education, education, education” ... can you guess which Prime Minster said this?
+> “Our top priority was, is and always will be education, education, education”
+
+... can you guess which Prime Minster said this?
 
 
 ## Joining in
