@@ -32,7 +32,7 @@ You really need to look at these:
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
 * **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See [BBC Bite Size](http://www.bbc.co.uk/education/subjects/z34k7ty) and [Cambridge GCSE Computing](https://www.cambridgegcsecomputing.org)
-* [An overview of the Computer Science curriculum in secondary schools](http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf)
+* Read [An overview of the Computer Science curriculum in secondary schools](http://www.computingatschool.org.uk/data/uploads/ComputingCurric.pdf) published in 2012
 * **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching [Project Quantum: tests worth teaching to](
 http://community.computingatschool.org.uk/resources/4382) also [Bebras challenges](http://challenge.bebras.uk/)
 
@@ -65,8 +65,8 @@ Taking hardware into the classroom that students may never seen before is a good
 ## Computing without computers: Unplugged & cross-curricular
 Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
-* [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project
-* See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
+* [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project providing “engaging games and puzzles that use cards, string, crayons and lots of running around.”
+* See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London (QMUL) and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
 * A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what that means and how you can encourage students to think computationally
 
 You can also demonstrate the breadth of computing by building cross-curricular links via art, music, physics, chemistry and geography etc
@@ -77,7 +77,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
 
-* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [yourgenome.org](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242). The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
+* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [yourgenome.org](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
 * **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
 
