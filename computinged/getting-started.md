@@ -56,13 +56,12 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 
 Taking hardware into the classroom that students may never seen before is a good way to spark interest. Try experimenting with new hardware that you could use in the classroom, we have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
-
-* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
-* Internet of Things, sensor networks etc embedded systems
 * [CodeBugs](http://www.codebug.org.uk) wearable technology
 * [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK by the BBC
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
-* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be complety new to many school students
+* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
+* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
+* Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
 
 
 ## Unplugging: Computing without computers and cross-curricular links
