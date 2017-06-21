@@ -44,13 +44,13 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 * **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool ) on YouTube has lots of useful stuff
 
 * Education, and computing education, is frequently discussed in the mainstream media, such as  [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education), some more specific examples below:
-    * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
-    * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
-    * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
-    * Sophie Curtis (2014) [Google sponsors Code Club teacher training programme](http://www.telegraph.co.uk/technology/google/10623652/Google-sponsors-Code-Club-teacher-training-programme.html), Daily Telegraph
-    * Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), BBC News
-    * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
-    * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
+    * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), *BBC News*
+    * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), *BBC News*
+    * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), *BBC News*
+    * Sophie Curtis (2014) [Google sponsors Code Club teacher training programme](http://www.telegraph.co.uk/technology/google/10623652/Google-sponsors-Code-Club-teacher-training-programme.html), *Daily Telegraph*
+    * Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), *BBC News*
+    * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), *BBC News*
+    * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), *The Guardian*
 
 ## Novel and unusual hardware
 
