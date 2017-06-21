@@ -16,7 +16,7 @@ Like many research projects, your final year education project is open-ended. Un
 
 1. **DEVELOPMENT FOR STUDENTS** Creating an artefact or artefacts (e.g. software, hardware, lesson plans & resources) to help students understand different aspects of computer science
 2. **DEVELOPMENT FOR TEACHERS** Creating an artefact or artefacts that helps teachers to teach and assess computer Science including what they have understood or misunderstood
-3. **RESEARCH** Evaluating different pedagogical methods for teaching a given topic. For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch from MIT](https://scratch.mit.edu) and [Blockly from Google](https://developers.google.com/blockly)) See the [ new research in computer science education 2015-2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at King's College London & Neil Brown at the University of Kent
+3. **RESEARCH ON PEDAGOGY** Evaluating different methods for teaching, known as [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). For example, you might want to find out which kind of language is best for students learning about loops. Are text-based languages (like Python or Java) better or worse than block based languages (Like [Scratch from MIT](https://scratch.mit.edu) and [Blockly from Google](https://developers.google.com/blockly)) See the [ new research in computer science education 2015-2017](http://community.computingatschool.org.uk/files/8842/original.pptx) via Sue Sentance at King's College London & Neil Brown at the University of Kent
 
 These categories are not exclusive, so you might do one or several of these together using the same tool.
 
@@ -49,15 +49,16 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
     * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
     * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
 
-## Shiny new tools!
+## Novel and unusual hardware
 
-Taking hardware into the classroom that students have never seen before is a good way to spark interest. If you have time before the project, you can experiment with new hardware that you could use in the classroom. We have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
+Taking hardware into the classroom that students may never seen before is a good way to spark interest. If you have time before the project, you can experiment with new hardware that you could use in the classroom. We have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
 
-
-* physical computing https://www.raspberrypi.org/blog/announcing-our-new-online-training-series/,  Internet of Things, sensor networks,
-* microbits http://microbit.org, CodeBugs
-* https://www.lego.com/en-gb/mindstorms
+* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series)
+* Internet of Things, sensor networks,
+* [CodeBugs](http://www.codebug.org.uk)
+* [Microbits](http://microbit.org)
+* [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms)
 * [Oculus Rift](https://www.oculus.com)
 
 
