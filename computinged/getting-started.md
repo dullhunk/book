@@ -7,7 +7,7 @@ If you are starting a [final year undergraduate project in computer science educ
 ## Joining in
 If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up)
 
-It is important to get [DBS cleared](https://www.gov.uk/disclosure-barring-service-check/overview) and this can take several weeks to get the documents. When you are DBS cleared, schools can be more confident that it is safe for them to let you work with children and young people (e.g. you are not a criminal). One of the easiest ways to do this is [sign up as a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/ambassadors)
+It is important to get [DBS cleared](https://www.gov.uk/disclosure-barring-service-check/overview) which can take time, the earlier you apply the better, then you won't be waiting around at the beginning of term for your clearance before you can get stuck into your project. When you are DBS cleared, schools can be more confident that it is safe for them to let you work with children and young people (e.g. you are not a criminal). One of the easiest ways to do this is [sign up as a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/ambassadors)
 
 
 ## Planning and thinking about your project in advance
