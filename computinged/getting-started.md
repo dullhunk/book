@@ -30,7 +30,7 @@ You really need to look at these:
 
 * You must read [Shut down or restart?](https://royalsociety.org/topics-policy/projects/computing-in-schools/report/) was a landmark report published by the Royal Society (the UK's national academy of science).  led by Professor [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) here in the School of Computer Science in 2012. Its a good overview of some of the problems facing computing education, that is part of the wider [Computing education at the Royal Society](https://royalsociety.org/topics-policy/projects/computing-education/) activity. The Royal Society will also publish [another major survey of computing education in schools in September 2017](https://royalsociety.org/news/2016/10/launch-computing-education-schools-survey/)
 
-* **CAS Tenderfoot** is a Google-funded project that trains [Key Stage 3](https://en.wikipedia.org/wiki/Key_Stage_3) teachers. Their training notes have loads of good ideas for teaching everything from finite state machines to going beyond simple algorithms, see
+* **CAS Tenderfoot** is a Google-funded project that trains [Key Stage 3](https://en.wikipedia.org/wiki/Key_Stage_3) teachers. Their training notes have loads of good ideas for teaching everything from finite state machines and graphy theory, to going beyond simple algorithms, see
 [CAS Tenderfoot](https://www.computingatschool.org.uk/custom_pages/148-tft-available)
 
 * **GCSE Computing** Even if you're not teaching GCSE Computer Science, it is useful to be able to understand what GCSE computing is all about as some of your students may be opting to take it in the future. See [BBC Bite Size](http://www.bbc.co.uk/education/subjects/z34k7ty) and [Cambridge GCSE Computing](https://www.cambridgegcsecomputing.org)
@@ -42,7 +42,7 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 
 * **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool ) on YouTube has lots of useful stuff
 
-* Education, and computing education, is frequently discussed in the mainstream media, for example [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education) and below:
+* Education, and computing education, is frequently discussed in the mainstream media, such as  [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education), some more specific examples below:
     * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
     * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
     * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
@@ -68,12 +68,16 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Art** using computer generated imagery
 
-* **Physics** of sound with Audacity http://www.audacityteam.org and of course, Rockets too
+* **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
+
+* **Biology** teach students about the analysis of DNA and proteins using algorithms, aka Bioinformatics, see [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242)
+
+* **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
 
 * **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
 
 
-## Computing without computers
+## Computing without computers: Unplugged
 Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
 * [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project
