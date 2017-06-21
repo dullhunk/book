@@ -64,7 +64,7 @@ Taking hardware into the classroom that students have never seen before is a goo
 
 You can also demonstrate the breadth of computing by building cross-curricular links via music, physics and geography etc
 
-* **Music** [http://sonic-pi.net](Sonic Pi) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
+* **Music** [Sonic Pi](http://sonic-pi.net) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/) It started on the Raspberry Pi plaform, but now works on Windows and Macs too
 
 * **Art** using computer generated imagery
 
@@ -76,11 +76,13 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 ## Computing without computers
 Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
-* [Computer Science unplugged](http://csunplugged.org) from Tim Bell at the University of Canterbury in New Zealand is a Google funded project
+* [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
-* A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about how you can encourage computational thinking in your classrooms
+* A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what that means and how you can encourage students to think computationally
 
-## Education generally
+## Education, education, education
+
+“Our top priority was, is and always will be education, education, education” ... so said, [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair) back [in 2001](https://www.theguardian.com/politics/2001/may/23/labour.tonyblair). 
 
 Classroom management and behaviour management, we don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
 
