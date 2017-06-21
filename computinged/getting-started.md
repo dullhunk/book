@@ -38,15 +38,15 @@ You really need to look at these:
 * **Project Quantum** [Project Quantum](https://diagnosticquestions.com/Quantum) provides a lots of high-quality diagnostic questions you can use to assess learning during your teaching [Project Quantum: tests worth teaching to](
 http://community.computingatschool.org.uk/resources/4382) also [Bebras challenges](http://challenge.bebras.uk/)
 
-* **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool) on YouTube has lots of useful stuff 
+* **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool ) on YouTube has lots of useful stuff
 
-* Education, and computing education, is frequently discussed in the mainstream media see e.g. http://www.bbc.co.uk/news/education and e.g.
+* Education, and computing education, is frequently discussed in the mainstream media see e.g. [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education) and e.g.
     * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), BBC News
+    * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
     * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), BBC News
     * Rory Cellan-Jones (2014) [A computing revolution in schools](http://www.bbc.co.uk/news/technology-29010511), BBC News
     * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), BBC News
     * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), The Guardian
-    * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), BBC News
 
 ## Shiny new tools!
 
@@ -61,11 +61,13 @@ teaching resources from raspberry pi https://www.raspberrypi.org/resources/teach
 
 You can also demonstrate the breadth of computing by building cross-curricular links via music, physics and geography etc
 
-* Music [http://sonic-pi.net](Sonic Pi) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
+* **Music** [http://sonic-pi.net](Sonic Pi) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
 
-* Physics of sound with Audacity http://www.audacityteam.org and of course, Rockets too
+* **Art** using computer generated imagery
 
-* Geography:  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
+* **Physics** of sound with Audacity http://www.audacityteam.org and of course, Rockets too
+
+* **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/
 
 
 ## Computing without computers
@@ -73,7 +75,7 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 
 * [Computer Science unplugged](http://csunplugged.org) from Tim Bell at the University of Canterbury in New Zealand is a Google funded project
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
-* A key part of Computer Science education is computational thinking https://en.wikipedia.org/wiki/Computational_thinking. For your projects, think about how you can encourage computational thinking in your classrooms
+* A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about how you can encourage computational thinking in your classrooms
 
 ## Education generally
 
@@ -90,7 +92,7 @@ Even if you are working with secondary school students, it can be beneficial to 
 * Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
-* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com/](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). His book ...
+* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). His book ...
 
 * past reports from final year students (search for projects supervised by "Duncan Hull") -- needs link
 
