@@ -1,5 +1,7 @@
 # Getting started with computing education projects
 
+![Computing at School](https://www.computingatschool.org.uk/www_theme/assets/images/logo_alt.png "Computing at School")
+
 > DISCLAIMER: This is a draught version, some sections are still in note form and incomplete
 
 If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
@@ -54,19 +56,19 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 Taking hardware into the classroom that students may never seen before is a good way to spark interest. Try experimenting with new hardware that you could use in the classroom, we have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
 
-* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) beyond your desk and phone
+* [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
 * Internet of Things, sensor networks etc embedded systems
 * [CodeBugs](http://www.codebug.org.uk) wearable technology
-* [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK
+* [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK by the BBC
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
-* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality  will be complety new to many school students
+* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) ang Augmented Reality (AR) will be complety new to many school students
 
 
 ## Computing without computers: Unplugged & cross-curricular
 Fancy hardware and gadgets are great ways to engage children, but you don't always need it. You can inspire people's imagination about computer science without using a computer at all, or by using computers in different settings Some good examples:
 
 * [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project providing “engaging games and puzzles that use cards, string, crayons and lots of running around.”
-* See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](http://www.eecs.qmul.ac.uk/~pc/research/education/puzzles/reading/cwcch13.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London (QMUL) and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
+* See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](https://teachinglondoncomputing.files.wordpress.com/2014/02/booklet-cwc-feb2014.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London (QMUL) and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
 * A key part of Computer Science education is [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what that means and how you can encourage students to think computationally
 
 You can also demonstrate the breadth of computing by building cross-curricular links via art, music, physics, chemistry and geography etc
