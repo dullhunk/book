@@ -54,7 +54,7 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
     * Judith Burns (2012) [School ICT to be replaced by computer science programme](http://www.bbc.co.uk/news/education-16493929), *BBC News*
     * James Robinson (2011) [Eric Schmidt, chairman of Google, condemns British education system](https://www.theguardian.com/technology/2011/aug/26/eric-schmidt-chairman-google-education), *The Guardian*
 
-## Novel and unusual hardware
+## Using novel and unusual hardware
 
 Taking hardware into the classroom that students may never seen before is a good way to spark interest. Try experimenting with new hardware that you could use in the classroom, we have lots of kit you can use in the [hardware library](http://studentnet.cs.manchester.ac.uk/ugt/hardware/?view=ug) like:
 
@@ -80,13 +80,13 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Art** using computer generated imagery, you could borrow ideas from the second year course (Computer Graphics and Image Processing: COMP27112)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP27112] or the third year(Advanced Computer Graphics Course: COMP37111)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP37111]
 
-* **English** what better way to teach literacy and english language than [creating a Shakespearean Insult Generator with Python](http://teachwithict.weebly.com/shakespearean-insult-generator.html)?
+* **English** what better way to teach literacy and english language than [creating a Shakespearean Insult Generator with Python](http://teachwithict.weebly.com/shakespearean-insult-generator.html)? There are lots of possibilities in this space
 
 * **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
 
 * **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [their genomes](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
-* **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
+* **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers, for examples see the (scratchmaths.org)[http://www.scratchmaths.org]
 
 * **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/ looking at data see [urbandataschool.com](https://www.urbandataschool.com)
 
