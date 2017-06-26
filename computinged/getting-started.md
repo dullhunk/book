@@ -63,7 +63,7 @@ Taking hardware into the classroom that students may never seen before is a good
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
 * [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
-* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google (aiyprojects.withgoogle.com)[https://aiyprojects.withgoogle.com], e.g. the (Voice Kit)[https://aiyprojects.withgoogle.com/voice/]
+* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com](https://aiyprojects.withgoogle.com), e.g. the [Voice Kit](https://aiyprojects.withgoogle.com/voice/)
 * Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
 
 
@@ -86,7 +86,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [their genomes](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
-* **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers, for examples see the (scratchmaths.org)[http://www.scratchmaths.org]
+* **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers, for examples see the [scratchmaths.org](http://www.scratchmaths.org)
 
 * **Geography**  Weather station https://www.raspberrypi.org/learning/weather-station-guide and https://www.raspberrypi.org/education/weather-station/ looking at data see [urbandataschool.com](https://www.urbandataschool.com)
 
