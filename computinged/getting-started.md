@@ -63,7 +63,7 @@ Taking hardware into the classroom that students may never seen before is a good
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
 * [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
-* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google (aiyprojects.withgoogle.com][https://aiyprojects.withgoogle.com], e.g. the (Voice Kit)[https://aiyprojects.withgoogle.com/voice/]
+* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google (aiyprojects.withgoogle.com)[https://aiyprojects.withgoogle.com], e.g. the (Voice Kit)[https://aiyprojects.withgoogle.com/voice/]
 * Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
 
 
