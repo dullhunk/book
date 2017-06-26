@@ -63,7 +63,7 @@ Taking hardware into the classroom that students may never seen before is a good
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
 * [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
-* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com](https://aiyprojects.withgoogle.com), e.g. the [Voice Kit](https://aiyprojects.withgoogle.com/voice/)
+* [Artificial Intelligence](https://aiyprojects.withgoogle.com) Many people will familiar with Alexa from Amazon, Siri from Apple and “*OK Google*” see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com/voice](https://aiyprojects.withgoogle.com/voice/)
 * Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
 
 
@@ -108,7 +108,7 @@ Even if you are working with secondary school students, it can be beneficial to 
 
 * Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique known as [MediaComputation.org](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
 
-* past reports from final year students (search for projects supervised by "Duncan Hull") -- needs link
+* Look at past reports from final year students (search for projects supervised by "Duncan Hull") on the [Selected recommended final year project reports](https://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-project.php?view=ug)
 
 
 --[Duncan Hull](http://www.cs.man.ac.uk/~hulld), June 2017
