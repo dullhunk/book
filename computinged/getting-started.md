@@ -4,11 +4,10 @@ If you are starting a [final year undergraduate project in computer science educ
 
 > “Our top priority was, is and always will be education, education, education”
 
-... can you guess which Prime Minster said this?
-
+... can you work out which political leader said this and when?
 
 ## Joining in
-If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up)
+If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up). The University of Manchester is a CAS Regional Hub, so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol
 
 ![Computing at School](https://www.computingatschool.org.uk/www_theme/assets/images/logo_alt.png)
 
@@ -64,6 +63,7 @@ Taking hardware into the classroom that students may never seen before is a good
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
 * [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
+* Artificial Intelligence. Many people will familiar with Alexa, Siri and OK, Google e.g. see AIY projects (DIY Artificial Intelligence) from Google (aiyprojects.withgoogle.com][https://aiyprojects.withgoogle.com], e.g. the (Voice Kit)[https://aiyprojects.withgoogle.com/voice/]
 * Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
 
 
@@ -78,11 +78,13 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Music** [Sonic Pi](http://sonic-pi.net) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/) It started on the Raspberry Pi plaform, but now works on Windows and Macs too
 
-* **Art** using computer generated imagery
+* **Art** using computer generated imagery, you could borrow ideas from the second year course (Computer Graphics and Image Processing: COMP27112)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP27112] or the third year(Advanced Computer Graphics Course: COMP37111)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP37111]
+
+* **English** what better way to teach literacy and english language than [creating a Shakespearean Insult Generator with Python](http://teachwithict.weebly.com/shakespearean-insult-generator.html)?
 
 * **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
 
-* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [yourgenome.org](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
+* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [their genomes](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
 * **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers
 
@@ -104,7 +106,7 @@ Even if you are working with secondary school students, it can be beneficial to 
 * Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
-* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique of [Media Computation](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
+* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique known as [MediaComputation.org](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
 
 * past reports from final year students (search for projects supervised by "Duncan Hull") -- needs link
 
