@@ -7,7 +7,7 @@ If you are starting a [final year undergraduate project in computer science educ
 ... can you work out which political leader said this and when?
 
 ## Joining in
-If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up). The University of Manchester is a CAS Regional Hub, so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol
+If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up). The University of Manchester is a [CAS Regional Hub](https://twitter.com/cas_manchester), so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol Murray.
 
 ![Computing at School](https://www.computingatschool.org.uk/www_theme/assets/images/logo_alt.png)
 
@@ -64,7 +64,7 @@ Taking hardware into the classroom that students may never seen before is a good
 * [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
 * [Artificial Intelligence](https://aiyprojects.withgoogle.com) Many people will familiar with Alexa from Amazon, Siri from Apple and “*OK Google*” see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com/voice](https://aiyprojects.withgoogle.com/voice/)
-* Internet of Things (IoT), wireless sensor networks and other embedded or distributed systems
+* [Internet of Things (IoT](https://en.wikipedia.org/wiki/Internet_of_things), wireless sensor networks and other embedded or distributed systems
 
 
 ## Unplugging: Computing without computers and cross-curricular links
@@ -84,7 +84,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Physics** Teach waves and sound with [Audacity](http://www.audacityteam.org), Acceleration with cars and sensors see [racefortheline.com](http://www.racefortheline.com) or the electromagnetic spectrum using [Infra red cameras](https://www.raspberrypi.org/products/pi-noir-camera-v2/)
 
-* **Biology / Chemistry** teach students about the analysis of Genes, DNA and proteins in [their genomes](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
+* **Biology & Chemistry** teach students about the analysis of Genes, DNA and proteins in [their genomes](http://www.yourgenome.org) using algorithms, aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). See [Teaching Bioinformatics at the Secondary School Level](https://doi.org/10.1371/journal.pcbi.1002242) and [Ten Simple Rules for Teaching Bioinformatics at the High School Level](https://dx.doi.org/10.1371/journal.pcbi.1002243) and. The [yourgenome function finder](http://www.yourgenome.org/activities/function-finders) is a good way of demonstrating how DNA sequences code for proteins
 
 * **Maths** Lots of scope for supporting and augmenting teaching mathematics using computers, for examples see the [scratchmaths.org](http://www.scratchmaths.org)
 
