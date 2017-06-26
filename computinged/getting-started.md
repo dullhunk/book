@@ -78,7 +78,7 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 * **Music** [Sonic Pi](http://sonic-pi.net) is a live coding music sythesiser and see [Getting Started With Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/) It started on the Raspberry Pi plaform, but now works on Windows and Macs too
 
-* **Art** using computer generated imagery, you could borrow ideas from the second year course (Computer Graphics and Image Processing: COMP27112)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP27112] or the third year(Advanced Computer Graphics Course: COMP37111)[http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP37111]
+* **Art** using computer generated imagery, you could borrow ideas from the second year course [Computer Graphics and Image Processing: COMP27112](http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP27112) or the third year [Advanced Computer Graphics Course: COMP37111](http://studentnet.cs.manchester.ac.uk/syllabus/?code=COMP37111)
 
 * **English** what better way to teach literacy and english language than [creating a Shakespearean Insult Generator with Python](http://teachwithict.weebly.com/shakespearean-insult-generator.html)? There are lots of possibilities in this space
 
