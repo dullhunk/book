@@ -102,7 +102,7 @@ If you are interested in primary school, take a look at [Code Club](https://www.
 Even if you are working with secondary school students, it can be beneficial to visit a primary school (for example, one that feeds into your secondary school) to get the bigger picture on education as a whole.
 
 ## Further reading
-* The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. It answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
+* The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. Read the (executive summary)[http://milesberry.net/2016/12/the-roehampton-annual-computing-education-report-2015/] to get a flavour, it answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
 * Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
