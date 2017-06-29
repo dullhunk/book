@@ -9,6 +9,7 @@ We are replacing moodle with a new web application to advertise jobs vacancies t
 3. Each job vacancy will have a unique URL that can be linked to e.g. [jobs.cs.manchester.ac.uk/some-identifier](http://jobs.cs.manchester.ac.uk/some-identifier)
 4. Students will be able to subscribe / unsubscribe to notifications (initially email) of new vacancies (making use of the newsagent API)
 5. The application will work on mobile (e.g. tablet and smartphone, both macOS and Android), alongside a conventional desktop version
+6. Code should be documented to allow maintenance after development
 
 ### Administrator interface
 
@@ -30,3 +31,8 @@ We are replacing moodle with a new web application to advertise jobs vacancies t
 ### Project Milestones
 
 TBC
+
+* Start development on own web server
+* Working prototype of admin interface
+* Working prototype of student interface
+* Migrate to kilburn server
