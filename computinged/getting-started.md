@@ -1,6 +1,6 @@
 # Getting started with computing education projects
 
-If you are starting a [final year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
+If you are starting your [third year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
 > “Our top priority was, is and always will be education, education, education”
 
@@ -93,22 +93,23 @@ You can also demonstrate the breadth of computing by building cross-curricular l
 
 ## Education, education, education
 
-Classroom management and behaviour management, we don't provide any training on how to become a teacher because but.. pgce, one of the best way to learn is to do it and get feedback from experts (teachers in schools)
+We don't provide any formal training on how to become a teacher because that is a qualification and skill in its own right, known in the UK as a [Postgraduate Certificate in Education (PGCE)](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education). The teacher is responsible for behaviour management and classroom management, because this is what they are expert on. We expect teachers to do manage the classroom, so that you can concentrate on your subject and how you teach it. However, if you'd like to learn more.
 
 * See [Nine things every teacher should know](https://www.tes.com/us/news/breaking-views/9-things-every-teacher-should-know) by [Dylan Wiliam](https://en.wikipedia.org/wiki/Dylan_Wiliam), Emeritus Professor of Education at the University of London is a good place to start
+* As of 2017, The British Computer Society (BCS) are offering teaching scholarships worth £27,500 (tax free) http://academy.bcs.org/content/apply-bcs-teaching-scholarship if you are thinking of teaching as a career after graduation
 
-If you are interested in primary school, take a look at [Code Club](https://www.codeclub.org.uk), [barefootcas.org.uk]( https://barefootcas.org.uk) and [QuickStart Computing](https://community.computingatschool.org.uk/resources/3042)
+Even if you are working primarily with secondary school students, it can be beneficial to visit a primary school (for example, one that feeds into your secondary school) to get the bigger picture on education as a whole.
 
-Even if you are working with secondary school students, it can be beneficial to visit a primary school (for example, one that feeds into your secondary school) to get the bigger picture on education as a whole.
+For primary specific resources take a look at [Code Club](https://www.codeclub.org.uk), [barefootcas.org.uk]( https://barefootcas.org.uk) and [QuickStart Computing](https://community.computingatschool.org.uk/resources/3042)
 
 ## Further reading
 * The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. Read the [executive summary](http://milesberry.net/2016/12/the-roehampton-annual-computing-education-report-2015/) to get a flavour, it answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
 * Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
 
 
-* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). His technique known as [MediaComputation.org](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
+* Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). The technique he calls [MediaComputation.org](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
 
-* Look at past reports from final year students (search for projects supervised by "Duncan Hull") on the [Selected recommended final year project reports](https://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-project.php?view=ug)
+* Look at past reports from third year students (search for projects supervised by "Duncan Hull") on the [Selected recommended third year project reports](https://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-project.php?view=ug)
 
 
 --[Duncan Hull](http://www.cs.man.ac.uk/~hulld), June 2017
