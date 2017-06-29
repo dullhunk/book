@@ -102,7 +102,7 @@ Even if you are working primarily with secondary school students, it can be bene
 
 ## Further reading
 * The [Roehampton Annual Computing Education Report](https://drive.google.com/file/d/0B1xf_L-jCIzYZmZDbFAzb3BPUEk/view) (published annually in December) gives a good overview of the state of computing in the UK. Read the [executive summary](http://milesberry.net/2016/12/the-roehampton-annual-computing-education-report-2015/) to get a flavour, it answers basic questions like how many people are taking GCSE Computing compared to other subjects? How is participation in Computer Science across different ages, genders and geographical regions?
-* Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  
+* Many of the ideas above have been around a while, see the classic book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) (1980) [Mindstorms: children, computers, and powerful ideas](http://dl.acm.org/citation.cfm?id=1095592)  Basic Books, Inc. New York, NY, USA (230 pages), free pdf via ACM.org
 
 
 * Professor [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) is Professor at the Georgia Institute of Technology and writes a blog at [computinged.wordpress.com](https://computinged.wordpress.com). The technique he calls [MediaComputation.org](http://coweb.cc.gatech.edu/mediaComp-teach) introduces  computing using themes of manipulating media (images, sound and video). See Using Learning Sciences Research to Improve Computing Teaching (CAS) and his book
