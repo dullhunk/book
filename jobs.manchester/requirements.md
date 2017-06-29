@@ -19,7 +19,7 @@ We are replacing moodle with a new web application to advertise jobs vacancies t
     * Salary (if stated)
     * Location (e.g. London, Manchester etc)
     * Closing date (for applications)
-    * Type of jobs
+    * Type of vacancy
 2. Several types of vacancy
     * Year long placement
     * Summer job
@@ -30,9 +30,11 @@ We are replacing moodle with a new web application to advertise jobs vacancies t
 
 ### Project Milestones
 
-TBC
+The main project milestones include:
 
 * Start development on own web server
 * Working prototype of admin interface
 * Working prototype of student interface
 * Migrate to kilburn server
+
+--Duncan Hull and Mabel Yau, June 2017
