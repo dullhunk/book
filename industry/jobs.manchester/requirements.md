@@ -10,7 +10,7 @@ We are replacing moodle with a new web application to advertise jobs vacancies t
 4. Students will be able to subscribe / unsubscribe to notifications (initially email) of new vacancies (making use of the newsagent API)
 5. The application will work on mobile (e.g. tablet and smartphone, both macOS and Android), alongside a conventional desktop version
 
-#### Administrator interface
+### Administrator interface
 
 1. Jobs entered to capture the following information.
     * Job title and description (to allow links and attachments mostly pdf/jpg )
