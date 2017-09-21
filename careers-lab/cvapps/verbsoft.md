@@ -4,13 +4,13 @@ This section [git.io/verbsfirst](http://git.io/verbsfirst) is part of the debugg
 
 A simple but effective technique for emphasising what you have done, rather than just what you know is to start the description of it with a verb. Many employers (members of [our industry club](http://www.cs.manchester.ac.uk/industry/club/)) have told us that they don't just want to know what graduates **know**, but what graduates have actually **done**. So, for example, instead of saying e.g.
 
-* “*In my second year software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org))*”
+* “*In my second year COMP23311 software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org))*”
 
 you could say:
 
 * “*Built and tested an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org)) using Eclipse, Java, JUnit and ... etc*”
 
-This also avoids the problem of using “*I, me, my*” too much which can sound self-centred and egotistical. Your CV is all about and it is OK to have a few “I's” in there, but too many personal pronouns can give the wrong impression. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) has a handy list of generic verbs (negotiated, collaborated, planned etc) you can use for emphasising different skills. They are listed in the “Active Language” section on page 10.
+It gets to the point much quicker and avoids the problem of using “*I, me, my*” too much which can sound self-centred and egotistical. Your CV is all about and it is OK to have a few “I's” in there, but too many personal pronouns can give the wrong impression. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) has a handy list of generic verbs (negotiated, collaborated, planned etc) you can use for emphasising different skills. They are listed in the “Active Language” section on page 10.
 
 The extra verbs listed below are particularly useful for describing your software engineering and problem solving skills:
 
