@@ -7,7 +7,7 @@ If you are starting your [third year undergraduate project in computer science e
 ... can you work out which political leader said this and when?
 
 ## Joining in
-If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [computingatschool.org.uk/sign_up](http://www.computingatschool.org.uk/sign_up). The University of Manchester is a [CAS Regional Hub](https://twitter.com/cas_manchester), so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol Murray.
+If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [community.computingatschool.org.uk/door](http://community.computingatschool.org.uk/door). The University of Manchester is a [CAS Regional Hub](https://twitter.com/cas_manchester), so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol Murray.
 
 ![Computing at School](https://www.computingatschool.org.uk/www_theme/assets/images/logo_alt.png)
 
