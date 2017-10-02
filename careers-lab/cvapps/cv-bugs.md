@@ -1,4 +1,4 @@
-# Debugging your CV / Résumé: [git.io/mycv](http://git.io/mycv)
+# Debugging your CV: [git.io/mycv](http://git.io/mycv)
 
 This guide is written to help you debug your [Curriculum Vitae 🇪🇺 🇬🇧(CV)](https://en.wikipedia.org/wiki/Curriculum_vitae), based on common bugs 🐛 we've seen in students CVs (aka [Résumés 🇺🇸](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9))  submitted to the [School of Computer Science CV Bank](https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank) at the University of Manchester.
 
