@@ -1,6 +1,6 @@
-# Debugging your CV: [git.io/mycv](http://git.io/mycv)
+# Debugging your CV
 
-This guide is written to help you debug your [Curriculum Vitae 🇪🇺 🇬🇧(CV)](https://en.wikipedia.org/wiki/Curriculum_vitae), based on common bugs 🐛 we've seen in students CVs (aka [Résumés 🇺🇸](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9))  submitted to the [School of Computer Science CV Bank](https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank) at the University of Manchester.
+This guide ([git.io/mycv](http://git.io/mycv)) is written to help you debug your [Curriculum Vitae 🇪🇺 🇬🇧(CV)](https://en.wikipedia.org/wiki/Curriculum_vitae), based on common bugs 🐛 we've seen in students CVs (aka [Résumés 🇺🇸](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9))  submitted to the [School of Computer Science CV Bank](https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank) at the University of Manchester.
 
 Wherever criticism of your CV comes from, don't take it personally -  it is probably one of the first you have written. Think of your current CV as version 0.1, [alpha or beta release](https://en.wikipedia.org/wiki/Software_release_life_cycle). There are many chances to debug and improve your CV during your study but *before* potential employers read it. The aim of this guide is to help you improve your CV, whatever stage you are at. Employers often tell us that Computer Science graduates lack written communication skills, with CV's being the prime example. This guide is designed to be used in conjunction with similar resources from the careers service, [CV first steps](http://man.ac.uk/U1q7VI) and [CV and LinkedIn guide](http://man.ac.uk/6Ef90a).
 
