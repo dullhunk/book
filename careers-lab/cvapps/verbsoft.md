@@ -10,13 +10,13 @@ you could say:
 
 * “*Built and tested an open source Massively Multiplayer Online Role-Playing Game (MMORPG) called Stendhal ([stendhalgame.org](http://www.stendhalgame.org)) using Eclipse, Java, JUnit and ... etc*”
 
-It gets to the point much quicker and avoids the problem of using “*I, me, my*” too much which can sound self-centred and egotistical. Your CV is all about and it is OK to have a few “I's” in there, but too many personal pronouns can give the wrong impression. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) has a handy list of generic verbs (negotiated, collaborated, planned etc) you can use for emphasising different skills. They are listed in the “Active Language” section on page 10.
+It gets to the point much quicker and avoids the problem of using “*I, me, my*” too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few “I's” in there, but too many personal pronouns can give the wrong impression. The CV and LinkedIn guide from the Careers Service [http://man.ac.uk/6Ef90a](http://man.ac.uk/6Ef90a) has a handy list of generic verbs (negotiated, collaborated, planned etc) you can use for emphasising different skills. They are listed in the “Active Language” section on page 10.
 
 The extra verbs listed below are particularly useful for describing your software engineering and problem solving skills:
 
-# Verbs for describing software engineering
+# Engineering verbs
 
-You might find these verbs useful for describing your engineering skills:
+You might find these verbs useful for describing your engineering skills, software and hardware:
 
 * added (e.g. new features)
 * analysed (e.g. the requirements)
