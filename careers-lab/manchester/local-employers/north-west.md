@@ -71,7 +71,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M1 4BT
-* TopCashBack, http://www.topcashback.co.uk/jobs, BL6 5UE
+* TopCashBack, http://www.topcashback.co.uk, BL6 5UE
+* TPP, https://www.tpp-uk.com, LS18 5PX
+* UKFast, https://www.ukfast.co.uk/, M15 5QJ
 * Ultra Electronics, https://www.ultra-electronics.com, M23 9SS
 * Wakelet, https://wakelet.com, M20 3BN
 * Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD

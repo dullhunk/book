@@ -61,9 +61,9 @@ Taking hardware into the classroom that students may never seen before is a good
 * [CodeBugs](http://www.codebug.org.uk) wearable technology
 * [Micro:bits](http://microbit.org) an embedded system distributed to all schools in the UK by the BBC
 * [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms) and many other cheaper robotics kits
-* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completey new to many school students
+* [Oculus Rift](https://www.oculus.com) and [Google Cardboard](https://vr.google.com/cardboard/) Virtual Reality (VR) and [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) will be completely new to many school students
 * [Physical computing](https://www.raspberrypi.org/blog/announcing-our-new-online-training-series) going beyond your desk and phone
-* [Artificial Intelligence](https://aiyprojects.withgoogle.com) Many people will familiar with Alexa from Amazon, Siri from Apple and “*OK Google*” see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com/voice](https://aiyprojects.withgoogle.com/voice/)
+* [Artificial Intelligence](https://aiyprojects.withgoogle.com) Many people will familiar with Alexa from Amazon, Siri from Apple and “*OK Google*” see AIY projects (DIY Artificial Intelligence) from Google [aiyprojects.withgoogle.com/voice](https://aiyprojects.withgoogle.com/voice/) available from [pimoroni.com/aiy](https://pimoroni.com/aiy)
 * [Internet of Things (IoT](https://en.wikipedia.org/wiki/Internet_of_things), wireless sensor networks and other embedded or distributed systems
 
 
