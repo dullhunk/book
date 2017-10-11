@@ -66,6 +66,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Sensible Code, http://sensiblecode.io, WA3 3JD
 * Shout App, http://shout-app.com, M13 9PL
 * SKY technology hub, https://jobs.sky.com, LS10 1QE
+* Softcat, https://www.softcat.com/contact-us/softcat-manchester, M12 6JH
 * Space 48, http://www.space48.com, WA3 6GA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
 * Team Netsol, https://teamnetsol.com, M4 5BA
