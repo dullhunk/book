@@ -63,11 +63,13 @@ You might find these verbs useful for describing your engineering skills, softwa
 * queried (e.g. database)
 * rebased (e.g. https://www.atlassian.com/git/tutorials/rewriting-history/)
 * refactored
+* released
 * repurposed
 * reused
 * reviewed (e.g. code review)
 * rewrote
 * secured
+* shipped
 * solved
 * tested
 * understood (e.g. code comprehension)
