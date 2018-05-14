@@ -69,7 +69,7 @@ You might find these verbs useful for describing your engineering skills, softwa
 * reviewed (e.g. code review)
 * rewrote
 * secured
-* shipped
+* shipped (e.g. released as part of a product or service)
 * solved
 * tested
 * understood (e.g. code comprehension)
