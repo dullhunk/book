@@ -72,6 +72,7 @@ Fancy hardware and gadgets are great ways to engage children, but you don't alwa
 
 * [Computer Science unplugged (csunplugged.org)](http://csunplugged.org) from [Tim Bell](http://www.cosc.canterbury.ac.nz/tim.bell/) at the University of Canterbury in New Zealand is a Google funded project providing “engaging games and puzzles that use cards, string, crayons and lots of running around.”
 * See [Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms](https://teachinglondoncomputing.files.wordpress.com/2014/02/booklet-cwc-feb2014.pdf) by [Paul Curzon](http://www.eecs.qmul.ac.uk/~pc/) at Queen Mary University of London (QMUL) and his accompanying Computer Science for Fun website and magazine at [cs4fn.org](http://www.cs4fn.org)
+* The [https://code.org/curriculum/unplugged](code.org/curriculum/unplugged) curriculum
 * A key part of Computer Science education is [computational thinking (CT)](https://en.wikipedia.org/wiki/Computational_thinking). For your projects, think about what CT means and how you can encourage students to think computationally
 
 You can also demonstrate the breadth of computing by building cross-curricular links via art, music, physics, chemistry and geography etc
