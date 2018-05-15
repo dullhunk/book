@@ -1,6 +1,6 @@
 # Getting started with computing education projects
 
-test change
+another test challenge
 
 If you are starting your [third year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
 
