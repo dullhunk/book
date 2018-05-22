@@ -42,7 +42,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
-* The Hut Group, http://www.thehutgroup.com, CW9 7RA
+* The Hut Group, http://www.thehutgroup.com, CW9 7RA (but relocating to manchester)
 * IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
@@ -60,7 +60,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * Open Shadow, https://www.openshadow.com, M50 2ST
 * Purple AI, http://purple.ai, OL9 7LD
-* Raytheon, https://www.raytheon.com/uk/, M1
+* Raytheon, https://www.raytheon.com/uk, M1
 * Red Embedded Consulting Ltd, http://www.redembedded.com, BD17 7DU
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sabisu, http://www.sabisu.co, M33 3SJ
