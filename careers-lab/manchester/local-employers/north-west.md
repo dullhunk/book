@@ -35,7 +35,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * DeepCognito, http://www.deepcognito.com, M1 1AN
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DAI, http://dai.co.uk, SK3 0WZ
-* DataCentred, http://www.datacentred.co.uk, M50 2GY
+#* DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu, M15 6AY
 * DWP, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
@@ -55,7 +55,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Metafused, https://www.metafused.com, M1 5AN
 * Micron, http://uk.micron.com, SK8 3GR
 * MindTrace, http://mindtrace.ai, M3 3BQ
-* MoneySupermarket, http://www.moneysupermarketjobs.com, CH5 3UZ
+* MoneySupermarket, http://www.moneysupermarketjobs.com, M2 2BY
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
