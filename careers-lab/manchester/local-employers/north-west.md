@@ -18,7 +18,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
 * BBC, http://careerssearch.bbc.co.uk, M50 2LH
 * Bet365, https://www.bet365careers.com, M2
-* Bibliotheca, http://www.bibliotheca.com, SK8 7BS
+// * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * Biorelate, http://www.biorelate.com, M15 6JJ
 * BJSS, http://www.bjss.com, M1 3DZ
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
@@ -33,6 +33,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Co-operative Group, https://jobs.coop.co.uk M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
 * DeepCognito, http://www.deepcognito.com, M1 1AN
+* Cubic Motion, https://www.cubicmotion.com, M15 6AZ
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DAI, http://dai.co.uk, SK3 0WZ
 * Degree53, https://www.degree53.com, M40 5BJ
