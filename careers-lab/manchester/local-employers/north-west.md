@@ -17,6 +17,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
 * BBC, http://careerssearch.bbc.co.uk, M50 2LH
+* Bet365, https://www.bet365careers.com, M2
 * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * Biorelate, http://www.biorelate.com, M15 6JJ
 * BJSS, http://www.bjss.com, M1 3DZ
@@ -53,12 +54,14 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Mentor Graphics, https://www.mentor.com, WA14 5GL
 * Metafused, https://www.metafused.com, M1 5AN
 * Micron, http://uk.micron.com, SK8 3GR
+* MindTrace, http://mindtrace.ai, M3 3BQ
 * MoneySupermarket, http://www.moneysupermarketjobs.com, CH5 3UZ
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * Open Shadow, https://www.openshadow.com, M50 2ST
 * Purple AI, http://purple.ai, OL9 7LD
+* Raythoeon, https://www.raytheon.com/uk/, M1
 * Red Embedded Consulting Ltd, http://www.redembedded.com, BD17 7DU
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sabisu, http://www.sabisu.co, M33 3SJ
