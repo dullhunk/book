@@ -18,7 +18,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Barclays, http://jobs.barclays.co.uk, WA16 9EU
 * BBC, http://careerssearch.bbc.co.uk, M50 2LH
 * Bet365, https://www.bet365careers.com, M2
-// * Bibliotheca, http://www.bibliotheca.com, SK8 7BS
 * Biorelate, http://www.biorelate.com, M15 6JJ
 * BJSS, http://www.bjss.com, M1 3DZ
 * BNY Mellon, https://www.bnymellon.com, M3 3HF
