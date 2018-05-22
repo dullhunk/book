@@ -29,10 +29,10 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
 * Code Computer Love, http://www.codecomputerlove.com, M1 2BE
 * CodeThink, http://www.codethink.co.uk, M1 2JW
-* The Co-operative Group, https://jobs.coop.co.uk M60 0AG
+* The Co-operative Group, https://jobs.coop.co.uk, M60 0AG
 * Couchbase, http://www.couchbase.com/careers, M1 1JB
-* DeepCognito, http://www.deepcognito.com, M1 1AN
 * Cubic Motion, https://www.cubicmotion.com, M15 6AZ
+* DeepCognito, http://www.deepcognito.com, M1 1AN
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DAI, http://dai.co.uk, SK3 0WZ
 * Degree53, https://www.degree53.com, M40 5BJ
