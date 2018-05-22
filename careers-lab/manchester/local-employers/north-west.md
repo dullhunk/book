@@ -35,7 +35,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * DeepCognito, http://www.deepcognito.com, M1 1AN
 * Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
 * DAI, http://dai.co.uk, SK3 0WZ
-#* DataCentred, http://www.datacentred.co.uk, M50 2GY
+//* DataCentred, http://www.datacentred.co.uk, M50 2GY
 * Degree53, https://www.degree53.com, M40 5BJ
 * Digital Bridge, http://digitalbridge.eu, M15 6AY
 * DWP, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
