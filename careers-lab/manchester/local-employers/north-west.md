@@ -60,16 +60,17 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
 * Open Shadow, https://www.openshadow.com, M50 2ST
 * Purple AI, http://purple.ai, OL9 7LD
-* Raythoeon, https://www.raytheon.com/uk/, M1
+* Raytheon, https://www.raytheon.com/uk/, M1
 * Red Embedded Consulting Ltd, http://www.redembedded.com, BD17 7DU
 * RentalCars, http://careers.rentalcars.com, M3 3JZ
 * Sabisu, http://www.sabisu.co, M33 3SJ
 * Sage, http://www.sage.com, M5 3ED
+* Sainsbury's, http://www.sainsburys.work, M4 3AL
 * Sensible Code, http://sensiblecode.io, WA3 3JD
 * Shout App, http://shout-app.com, M13 9PL
 * SKY technology hub, https://jobs.sky.com, LS10 1QE
 * Softcat, https://www.softcat.com/contact-us/softcat-manchester, M12 6JH
-* Space 48, http://www.space48.com, WA3 6GA
+* Space 48, http://www.space48.com, M2 7HA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
 * Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
