@@ -73,7 +73,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
 * Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
-* ThoughtWorks, https://www.thoughtworks.com, M1 4BT
+* ThoughtWorks, https://www.thoughtworks.com, M4 4BF
 * TopCashBack, http://www.topcashback.co.uk, BL6 5UE
 * TPP, https://www.tpp-uk.com, LS18 5PX
 * UKFast, https://www.ukfast.co.uk/, M15 5QJ
