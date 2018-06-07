@@ -11,6 +11,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
 * ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
+* Aucoda, http://www.aucoda.com/, M1 5NG
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
 * Autodesk, http://www.autodesk.co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
@@ -87,4 +88,4 @@ If you are interested in more Manchester based employers, another place you can 
 
 If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
 
-*GCHQ have recently opened an office in Manchester but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
+*GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
