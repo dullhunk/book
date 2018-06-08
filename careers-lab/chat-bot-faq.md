@@ -33,8 +33,11 @@ What if I don't like the location?
 
 How do I negotiate my salary offer
 
-
 I don't know what I want to do, how to I decide
+
+Which employers sponsor Tier 2 visas
+
+As an overseas student (outside EU),  can I work in the UK after I graduate
 
 
 I don't know what I'm good at
