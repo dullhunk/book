@@ -11,7 +11,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * AppSense, http://www.appsense.com, WA4 4HS
 * ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
-* Aucoda, http://www.aucoda.com/, M1 5NG
+* Aucoda, http://www.aucoda.com, M1 5NG
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
 * Autodesk, http://www.autodesk.co.uk, S1 2EL
 * Avecto, http://www.avecto.com, SK8 3SR
@@ -46,6 +46,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA (but relocating to manchester)
 * IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
+* Jaguar Land Rover, http://www.jaguarlandrovercareers.com, M1 4ET
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
 * LateRooms, http://careers.laterooms.com, M4 4FB
 * Magma Digital, http://www.magmadigital.co.uk, M1 6DE
@@ -56,6 +57,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Micron, http://uk.micron.com, SK8 3GR
 * MindTrace, http://mindtrace.ai, M3 3BQ
 * MoneySupermarket, http://www.moneysupermarketjobs.com, M2 2BY
+* Novacoast, https://www.novacoast.com, M1 4HN
 * NCC Group plc, https://www.nccgroup.trust, M1 7EF
 * OCLC, https://www.oclc.org, S1 4LW
 * On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
