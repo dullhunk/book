@@ -9,7 +9,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
-* AppSense, http://www.appsense.com, WA4 4HS
 * ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
 * Aucoda, http://www.aucoda.com, M1 5NG
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
@@ -46,6 +45,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA (but relocating to manchester)
 * IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
+* Ivanti, https://www.ivanti.com, WA4 4HS
 * Jaguar Land Rover, http://www.jaguarlandrovercareers.com, M1 4ET
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
 * LateRooms, http://careers.laterooms.com, M4 4FB
