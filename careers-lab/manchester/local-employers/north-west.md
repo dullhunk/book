@@ -4,7 +4,7 @@ Employers in Manchester that recruit Computer Scientists
 
 This section (Shortcut url http://git.io/manc) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse) / [Digital Powerhouse](http://technorthhq.com/digital-powerhouse/). This is by no means a comprehensive list, but will give you a quick flavour of local employers. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
 
-You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It's often argued that [Manchester oftens a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
+You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It's often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
@@ -45,9 +45,10 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Hut Group, http://www.thehutgroup.com, CW9 7RA (but relocating to manchester)
 * IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
-* Ivanti, https://www.ivanti.com, WA4 4HS
+* Ivanti, https://www.ivanti.com, WA4 4BU
 * Jaguar Land Rover, http://www.jaguarlandrovercareers.com, M1 4ET
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
+* The Landing, http://www.thelanding.org.uk, M50 2ST (lots of startups under one roof)
 * LateRooms, http://careers.laterooms.com, M4 4FB
 * Magma Digital, http://www.magmadigital.co.uk, M1 6DE
 * Matillion, https://www.matillion.com, WA16 8GS
