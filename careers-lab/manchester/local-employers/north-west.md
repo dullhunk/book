@@ -72,6 +72,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Sainsbury's, http://www.sainsburys.work, M4 3AL
 * Sensible Code, http://sensiblecode.io, WA3 3JD
 * Shout App, http://shout-app.com, M13 9PL
+* SIS, https://www.sis.tv, M50 2ST
 * SKY technology hub, https://jobs.sky.com, LS10 1QE
 * Softcat, https://www.softcat.com/contact-us/softcat-manchester, M12 6JH
 * Space 48, http://www.space48.com, M2 7HA
