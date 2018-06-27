@@ -46,6 +46,7 @@ http://community.computingatschool.org.uk/resources/4382) also [Bebras challenge
 * **CAS TV** The [CAS TV channel](https://www.youtube.com/user/computingatschool ) on YouTube has lots of useful stuff
 
 * Education, and computing education, is frequently discussed in the mainstream media, such as  [bbc.co.uk/news/education](http://www.bbc.co.uk/news/education), some more specific examples below:
+    * Rory Cellan-Jones (2018) [Digital skills gap opens up in English schools](https://www.bbc.co.uk/news/technology-44518612) *BBC News*
     * Rory Cellan-Jones (2017) [Computing in schools - alarm bells over England's classes](http://www.bbc.co.uk/news/technology-40322796), *BBC News*
     * Rory Cellan-Jones (2016) [Computing GCSE 'leaves girls and poorer students behind'](http://www.bbc.co.uk/news/technology-38364076), *BBC News*
     * Jane Wakefield (2015) [BBC gives children mini-computers in Make it Digital scheme](http://www.bbc.co.uk/news/technology-31834927), *BBC News*
