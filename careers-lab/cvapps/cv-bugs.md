@@ -42,4 +42,4 @@ Once you've read the above, here's what you could do next:
 
 Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), your personal tutor or myself. The [careers service](http://www.careers.manchester.ac.uk/services/guidance/) also provide good non-technical generic advice. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2017
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2018
