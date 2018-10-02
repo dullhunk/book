@@ -10,7 +10,7 @@ List your skills, providing evidence and context where you can.
 2. **POPULARISE IT** Did you mention **all** of the [popular languages](https://www.google.com/search?q=langpop) you have used? See, for example, the [The 2017 Top Programming Languages](https://spectrum.ieee.org/computing/software/the-2017-top-programming-languages) and the [PYPL PopularitY of Programming  Language](http://pypl.github.io/PYPL.html) Lots of students forget to mention SQL on their CV
 4. **SOFTEN IT** Remember you have [soft skills](https://en.wikipedia.org/wiki/Soft_skills) as well as your technical skills. These are just important as your hard skills, so don't forget to mention them. Negotiation, leadership, conflict resolution, communication, presenting, writing & mentoring etc -  all important, see examples at [git.io/verbsfirst](http://git.io/verbsfirst)
 5. **CLASSIFY IT** It can sometimes be useful to classify your technical skills by the level of experience (beginner, intermediate, expert) or how long you've been using them (1 week, 1 year, 10 years etc). It's also essential to say a bit about what you've used them for, as its all to easy to list skills you don't actually have. It can be tricky to classify your technical skills sensibly as they all overlap. You might find the classification used in [thoughtworks.com/radar](https://www.thoughtworks.com/radar) useful:  
-    1. **Techniques**: Agile, Test-driven etc
+    1. **Techniques**: Agile, Test-driven, Waterfall etc
     2. **Tools** : Git, Eclipse etc
     3. **Platforms**: Linux, Android, macOS, Windows, Amazon Alexa etc
     4. **Languages & Frameworks**: Java, Python, Bootstrap, Angular etc
