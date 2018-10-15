@@ -11,6 +11,19 @@ While referring to this guide, remember that:
 2. the chances are, your CV will be [assessed in seconds](http://www.huffingtonpost.com/2012/03/23/resume-tips-for-post-50s_n_1372705.html), rather than minutes so brevity really is key
 3. Bullet points are good way to be brief, leading with key verbs [git.io/verbsfirst](http://git.io/verbsfirst), rather than lengthy sections of prose
 
+## Quick check list
+
+A lot of the mistakes people make on CV's are easily fixed: Here's the top ten bugs we've seen in the School of Computer Science:
+
+1. Is your year of graduation, degree program, University and expected classification clear?
+2. Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker
+3. Does it look good, decent layout, appropriate use of LaTeX or Word or whatever?
+4. Does it fit comfortably on either one or two pages only?
+5. Is it in reverse chronological order? Most important (usually recent) things first?
+6. Have you talked about what you have actually done using prominent verbs, rather than just what they think they know? See [git.io/verbsfirst](http://git.io/verbsfirst) for examples
+7. Have you mentioned things you are studying now, not just courses you have finished?
+
+
 ## Improving specific areas of your CV
 
 The links below take you to specific instructions on how to improve and debug particular areas of your CV:
