@@ -15,7 +15,7 @@ While referring to this guide, remember that:
 
 A lot of the mistakes people make on CV's are easily fixed: Here's the top bugs we've seen in the School of Computer Science:
 
-1. Is your year of graduation, degree program, University and expected classification clear?
+1. Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?
 2. Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker
 3. Does it look good, decent layout, appropriate use of LaTeX or Word or whatever?
 4. Does it fit comfortably on either one (Résumé) or two pages (CV) only?
