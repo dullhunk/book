@@ -18,7 +18,7 @@ A lot of the mistakes people make on CV's are easily fixed: Here's the top bugs 
 1. Is your year of graduation, degree program, University and expected classification clear?
 2. Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker
 3. Does it look good, decent layout, appropriate use of LaTeX or Word or whatever?
-4. Does it fit comfortably on either one or two pages only?
+4. Does it fit comfortably on either one (Résumé) or two pages (CV) only?
 5. Is it in reverse chronological order? Most important (usually recent) things first?
 6. Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? See [git.io/verbsfirst](http://git.io/verbsfirst) for examples
 7. Have you mentioned things you are studying now, not just courses you have finished?
