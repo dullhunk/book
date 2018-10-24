@@ -13,7 +13,7 @@ While referring to this guide, remember that:
 
 ## Quick CV debug checklist
 
-A lot of the mistakes people make on CV's are easily fixed: Here's the top bugs we've seen in the School of Computer Science:
+A lot of the mistakes that undergraduates make on CV's are easily fixed: Here's the top bugs we've seen in the School of Computer Science:
 
 1. Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?
 2. Are there any spelling mistakes, typos and grammar? [https://blog.oxforddictionaries.com/2015/08/06/mistakes-spellchecker-will-miss/](Don't just rely on a spellchecker)
