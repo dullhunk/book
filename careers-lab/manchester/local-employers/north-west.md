@@ -1,9 +1,9 @@
 
 Employers in Manchester that recruit Computer Scientists
 ========================================================
-![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
-
 This section (Shortcut url http://git.io/manc) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of local employers. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
+
+![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
@@ -97,4 +97,4 @@ If you are a Manchester based employer who isn't listed here, but would like to 
 
 *GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
 
-#NotJustLondon image via Some rights reserved via PSD https://www.flickr.com/photos/psd/44796486382
+#NotJustLondon image via PSD Some rights reserved https://www.flickr.com/photos/psd/44796486382
