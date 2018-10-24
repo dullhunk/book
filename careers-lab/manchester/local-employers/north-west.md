@@ -11,6 +11,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * AO, http://www.ao-jobs.com, BL6 4SD
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
 * ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
+* AstraZeneca, https://www.astrazeneca.co.uk, SK10 2NA
 * Aucoda, http://www.aucoda.com, M1 5NG
 * Autotrader, https://careers.autotrader.co.uk, M15 4FN
 * Autodesk, http://www.autodesk.co.uk, S1 2EL
