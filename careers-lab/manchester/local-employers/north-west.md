@@ -6,6 +6,7 @@ This section (Shortcut url http://git.io/manc) lists organisations in and around
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It's often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
+* Amazon, http://www.amazon.com, M4 4AH
 * Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
 * AO, http://www.ao-jobs.com, BL6 4SD
 * Apadmi, http://www.apadmi.com/careers, M17 1LB
@@ -42,7 +43,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * GCHQ, http://www.gchq-careers.co.uk, Top Secret*
 * HAVAS LYNX, https://www.havaslynx.com, M1 6JX
 * HUMAN, https://human.software, M1 6HS
-* The Hut Group, http://www.thehutgroup.com, CW9 7RA (but relocating to manchester)
+* The Hut Group, http://www.thehutgroup.com, M50 2LH
 * IBM, http://www.ibm.com, M3 2EG
 * Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
 * Ivanti, https://www.ivanti.com, WA4 4BU
