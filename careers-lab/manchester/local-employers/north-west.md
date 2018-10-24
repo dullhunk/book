@@ -97,4 +97,4 @@ If you are a Manchester based employer who isn't listed here, but would like to 
 
 *GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
 
-#NotJustLondon image via PSD Some rights reserved https://www.flickr.com/photos/psd/44796486382
+[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) image via PSD Some rights reserved https://www.flickr.com/photos/psd/44796486382
