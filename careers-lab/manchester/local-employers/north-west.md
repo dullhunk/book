@@ -1,7 +1,7 @@
 
 Employers in Manchester that recruit Computer Scientists
 ========================================================
-This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv) lists organisations in (and around) Manchester that employ Computer Science students, either before or after graduation. This is a partial list of what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
+This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester that employ Computer Science students, either before or after graduation. This is a partial list of what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
