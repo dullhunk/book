@@ -23,7 +23,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Avecto, [avecto.com](http://www.avecto.com), SK8 3SR
 * BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
-* BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk), M50 2LH
+* BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/segs](http://bbc.in/segs), M50 2LH
 * Bet365, [bet365careers.com](https://www.bet365careers.com), M2
 * Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
 * BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
