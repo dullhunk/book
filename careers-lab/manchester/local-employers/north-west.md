@@ -1,7 +1,7 @@
 
 Employers in Manchester that recruit Computer Scientists
 ========================================================
-This section (Shortcut url http://git.io/manc) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of local employers. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
+This guide (Shortcut url http://git.io/manc part of http://git.io/mycv) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of local employers. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
@@ -97,4 +97,4 @@ If you are a Manchester based employer who isn't listed here, but would like to 
 
 *GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
 
-[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) image via PSD Some rights reserved https://www.flickr.com/photos/psd/44796486382
+[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd) Some rights reserved https://www.flickr.com/photos/psd/44796486382
