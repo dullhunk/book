@@ -51,42 +51,42 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * HUMAN, [human.software](https://human.software), M1 6HS
 * The Hut Group, [thehutgroup.com](http://www.thehutgroup.com), M50 2LH
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
-* Ivanti, https://www.ivanti.com, WA4 4BU
-* Jaguar Land Rover, http://www.jaguarlandrovercareers.com, M1 4ET
-* Keto Software, http://www.ketosoftware.com, M50 2EQ
-* The Landing, http://www.thelanding.org.uk, M50 2ST (lots of startups under one roof)
-* LateRooms, http://careers.laterooms.com, M4 4FB
-* Magma Digital, http://www.magmadigital.co.uk, M1 6DE
-* Matillion, https://www.matillion.com, WA16 8GS
-* MediaBurst, https://www.mediaburst.co.uk, M1 1FR
-* Mentor Graphics, https://www.mentor.com, WA14 5GL
-* Metafused, https://www.metafused.com, M1 5AN
-* Micron, http://uk.micron.com, SK8 3GR
-* MindTrace, http://mindtrace.ai, M3 3BQ
-* MoneySupermarket, http://www.moneysupermarketjobs.com, M2 2BY
-* Novacoast, https://www.novacoast.com, M1 4HN
-* NCC Group plc, https://www.nccgroup.trust, M1 7EF
-* OCLC, https://www.oclc.org, S1 4LW
-* On The Beach, https://www.onthebeach.co.uk/jobs, SK3 0XN
-* Open Shadow, https://www.openshadow.com, M50 2ST
-* Purple AI, http://purple.ai, OL9 7LD
-* Raytheon, https://www.raytheon.com/uk, M1
-* Red Embedded Consulting Ltd, http://www.redembedded.com, BD17 7DU
-* RentalCars, http://careers.rentalcars.com, M3 3JZ
-* Sabisu, http://www.sabisu.co, M33 3SJ
-* Sage, http://www.sage.com, M5 3ED
-* Sainsbury's, http://www.sainsburys.work, M4 3AL
-* Sensible Code, http://sensiblecode.io, WA3 3JD
-* Shout App, http://shout-app.com, M13 9PL
-* SIS, https://www.sis.tv, M50 2ST
-* SKY technology hub, https://jobs.sky.com, LS10 1QE
-* Softcat, https://www.softcat.com/contact-us/softcat-manchester, M12 6JH
-* Space 48, http://www.space48.com, M2 7HA
-* Swinton Insurance, http://www.swintoncareers.com, M1 5SW
-* Swrrl, http://www.swirrl.com, M2 3DE
-* Team Netsol, https://teamnetsol.com, M4 5BA
-* Thales Group, https://www.thalesgroup.com, SK3 0XB
-* ThinCI, [thinci.com/](https://thinci.com), Leeds
+* Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
+* Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
+* Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
+* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
+* LateRooms, [careers.laterooms.com](http://careers.laterooms.com), M4 4FB
+* Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
+* Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
+* MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
+* Mentor Graphics, [mentor.com](https://www.mentor.com), WA14 5GL
+* Metafused, [metafused.com](https://www.metafused.com), M1 5AN
+* Micron, [uk.micron.com](http://uk.micron.com), SK8 3GR
+* MindTrace, [mindtrace.ai](http://mindtrace.ai), M3 3BQ
+* MoneySupermarket, [moneysupermarketjobs.com](http://www.moneysupermarketjobs.com), M2 2BY
+* Novacoast, [novacoast.com](https://www.novacoast.com), M1 4HN
+* NCC Group plc, [nccgroup.trust](https://www.nccgroup.trust), M1 7EF
+* OCLC, [oclc.org](https://www.oclc.org), S1 4LW
+* On The Beach, [onthebeach.co.uk/jobs](https://www.onthebeach.co.uk/jobs), SK3 0XN
+* Open Shadow, [openshadow.com](https://www.openshadow.com), M50 2ST
+* Purple AI, [purple.ai](http://purple.ai), OL9 7LD
+* Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
+* Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
+* RentalCars / BookingGo, [careers.rentalcars.com](http://careers.rentalcars.com), M3 3JZ
+* Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
+* Sage, [sage.com](http://www.sage.com), M5 3ED
+* Sainsbury's, [sainsburys.work](http://www.sainsburys.work), M4 3AL
+* Sensible Code, [ensiblecode.io](http://sensiblecode.io), WA3 3JD
+* Shout App, [shout-app.com](http://shout-app.com), M13 9PL
+* SIS, [sis.tv](https://www.sis.tv), M50 2ST
+* SKY technology hub, [jobs.sky.com](https://jobs.sky.com), LS10 1QE
+* Softcat, [softcat.com](https://www.softcat.com/contact-us/softcat-manchester), M12 6JH
+* Space 48, [space48.com](http://www.space48.com), M2 7HA
+* Swinton Insurance, [swintoncareers.com](http://www.swintoncareers.com), M1 5SW
+* Swrrl, [swirrl.com](http://www.swirrl.com), M2 3DE
+* Team Netsol, [teamnetsol.com](https://teamnetsol.com), M4 5BA
+* Thales Group, [thalesgroup.com](https://www.thalesgroup.com), SK3 0XB
+* ThinCI, [thinci.com](https://thinci.com), Leeds
 * ThoughtWorks, [thoughtworks.com](https://www.thoughtworks.com), M4 4BF
 * TopCashBack, [topcashback.co.uk](http://www.topcashback.co.uk), BL6 5UE
 * TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
