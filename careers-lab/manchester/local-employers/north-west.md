@@ -5,7 +5,7 @@ This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
-**Figure 1 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved**
+**Figure 1**: [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
 ## Not Just London
 
