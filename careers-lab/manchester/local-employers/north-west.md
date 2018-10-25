@@ -24,34 +24,33 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
 * BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk), M50 2LH
-* Bet365, https://www.bet365careers.com, M2
-* Biorelate, http://www.biorelate.com, M15 6JJ
-* BJSS, http://www.bjss.com, M1 3DZ
-* BNY Mellon, https://www.bnymellon.com, M3 3HF
-* Boo Hoo, https://careers.boohoo.com, M1 2HF
-* Bosch, http://www.bosch-career.com, SK3 0XG
-* Bentley, http://www.bentley.com, WA3 6ZH
-* Cake Solutions, http://www.cakesolutions.net, SK5 6DA
-* Cantarus, http://www.cantarus.com, M2 4PD
-* Cheshire Datasystems Ltd, http://www.cdl.co.uk, SK4 2HD
-* Code Computer Love, http://www.codecomputerlove.com, M1 2BE
-* CodeThink, http://www.codethink.co.uk, M1 2JW
-* The Co-operative Group, https://jobs.coop.co.uk, M60 0AG
-* Couchbase, http://www.couchbase.com/careers, M1 1JB
-* Cubic Motion, https://www.cubicmotion.com, M15 6AZ
-* DeepCognito, http://www.deepcognito.com, M1 1AN
-* Sci-Tech Daresbury, http://www.sci-techdaresbury.com, WA4 4FS
-* DAI, http://dai.co.uk, SK3 0WZ
-* Degree53, https://www.degree53.com, M40 5BJ
-* Digital Bridge, http://digitalbridge.eu, M15 6AY
-* DWP, https://www.gov.uk/government/organisations/department-for-work-pensions, SK4 1LS
-* Exgence Ltd, http://exgence.mycindr.com, M13 9NT
-* GCHQ, http://www.gchq-careers.co.uk, Top Secret*
-* HAVAS LYNX, https://www.havaslynx.com, M1 6JX
-* HUMAN, https://human.software, M1 6HS
-* The Hut Group, http://www.thehutgroup.com, M50 2LH
-* IBM, http://www.ibm.com, M3 2EG
-* Imagination Technologies, https://graduates.imgtec.com, LS11 5DB
+* Bet365, [bet365careers.com](https://www.bet365careers.com), M2
+* Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
+* BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
+* BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
+* Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
+* Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
+* Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
+* Cake Solutions, [cakesolutions.net](http://www.cakesolutions.net), SK5 6DA
+* Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
+* Cheshire Datasystems Ltd, [cdl.co.uk](http://www.cdl.co.uk), SK4 2HD
+* Code Computer Love, [codecomputerlove.com](http://www.codecomputerlove.com), M1 2BE
+* CodeThink, [codethink.co.uk](http://www.codethink.co.uk), M1 2JW
+* The Co-operative Group, [jobs.coop.co.uk](https://jobs.coop.co.uk), M60 0AG
+* Couchbase, [couchbase.com/careers](http://www.couchbase.com/careers), M1 1JB
+* Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
+* DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
+* Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
+* DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
+* Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
+* Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
+* DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
+* Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
+* GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), Top Secret*
+* HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
+* HUMAN, [human.software](https://human.software), M1 6HS
+* The Hut Group, [thehutgroup.com](http://www.thehutgroup.com), M50 2LH
+* IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Ivanti, https://www.ivanti.com, WA4 4BU
 * Jaguar Land Rover, http://www.jaguarlandrovercareers.com, M1 4ET
 * Keto Software, http://www.ketosoftware.com, M50 2EQ
@@ -87,14 +86,15 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Swrrl, http://www.swirrl.com, M2 3DE
 * Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
-* ThoughtWorks, https://www.thoughtworks.com, M4 4BF
-* TopCashBack, http://www.topcashback.co.uk, BL6 5UE
-* TPP, https://www.tpp-uk.com, LS18 5PX
-* UKFast, https://www.ukfast.co.uk, M15 5QJ
-* Ultra Electronics, https://www.ultra-electronics.com, M23 9SS
-* Wakelet, https://wakelet.com, M20 3BN
-* Web Applications UK, http://www.webapplicationsuk.com, OL4 1TD
-* Zuhlke Engineering, https://www.zuehlke.com, M2 3AW
+* ThinCI, [thinci.com/](https://thinci.com), Leeds
+* ThoughtWorks, [thoughtworks.com](https://www.thoughtworks.com), M4 4BF
+* TopCashBack, [topcashback.co.uk](http://www.topcashback.co.uk), BL6 5UE
+* TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
+* UKFast, [ukfast.co.uk](https://www.ukfast.co.uk), M15 5QJ
+* Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
+* Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
+* Web Applications UK, [webapplicationsuk.com](http://www.webapplicationsuk.com), OL4 1TD
+* Zuhlke Engineering, [zuehlke.co](https://www.zuehlke.com), M2 3AW
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [jobs.manchesterdigital.com](https://jobs.manchesterdigital.com)
 
