@@ -11,19 +11,19 @@ This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
-* Amazon, http://www.amazon.com, M4 4AH
-* Ampersand Commerce, http://ampersandcommerce.com, M3 2JA
-* AO, http://www.ao-jobs.com, BL6 4SD
-* Apadmi, http://www.apadmi.com/careers, M17 1LB
-* ARM, http://www.arm.com/careers, M2 3BB and S1 4EB
-* AstraZeneca, https://www.astrazeneca.co.uk, SK10 2NA
-* Aucoda, http://www.aucoda.com, M1 5NG
-* Autotrader, https://careers.autotrader.co.uk, M15 4FN
-* Autodesk, http://www.autodesk.co.uk, S1 2EL
-* Avecto, http://www.avecto.com, SK8 3SR
-* BAML, http://careers.bankofamerica.com/emea, CH4 9QQ
-* Barclays, http://jobs.barclays.co.uk, WA16 9EU
-* BBC, http://careerssearch.bbc.co.uk, M50 2LH
+* Amazon, [amazon.com](http://www.amazon.com), M4 4AH
+* Ampersand Commerce, [ampersandcommerce.com](http://ampersandcommerce.com), M3 2JA
+* AO, [ao-jobs.com](http://www.ao-jobs.com), BL6 4SD
+* Apadmi, [apadmi.com/careers](http://www.apadmi.com/careers), M17 1LB
+* ARM, [arm.com/careers](http://www.arm.com/careers), M2 3BB and S1 4EB
+* AstraZeneca, [astrazeneca.co.uk](https://www.astrazeneca.co.uk), SK10 2NA
+* Aucoda, [aucoda.com](http://www.aucoda.com), M1 5NG
+* Autotrader, [careers.autotrader.co.uk](https://careers.autotrader.co.uk), M15 4FN
+* Autodesk, [autodesk.co.uk](http://www.autodesk.co.uk), S1 2EL
+* Avecto, [avecto.com](http://www.avecto.com), SK8 3SR
+* BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
+* Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
+* BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk), M50 2LH
 * Bet365, https://www.bet365careers.com, M2
 * Biorelate, http://www.biorelate.com, M15 6JJ
 * BJSS, http://www.bjss.com, M1 3DZ
