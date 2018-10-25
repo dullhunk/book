@@ -1,9 +1,13 @@
 
 Employers in Manchester that recruit Computer Scientists
 ========================================================
-This guide (Shortcut url http://git.io/manc part of http://git.io/mycv) lists organisations in and around Manchester that employ Computer Science students, either before or after graduation. This is a partial list of [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of local employers. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
+This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv) lists organisations in (and around) Manchester that employ Computer Science students, either before or after graduation. This is a partial list of what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
+
+**Figure 1: [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved **
+
+## Not Just London
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
@@ -80,6 +84,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Softcat, https://www.softcat.com/contact-us/softcat-manchester, M12 6JH
 * Space 48, http://www.space48.com, M2 7HA
 * Swinton Insurance, http://www.swintoncareers.com, M1 5SW
+* Swrrl, http://www.swirrl.com, M2 3DE
 * Team Netsol, https://teamnetsol.com, M4 5BA
 * Thales Group, https://www.thalesgroup.com, SK3 0XB
 * ThoughtWorks, https://www.thoughtworks.com, M4 4BF
@@ -97,4 +102,4 @@ If you are a Manchester based employer who isn't listed here, but would like to 
 
 *GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
 
-[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd) Some rights reserved https://www.flickr.com/photos/psd/44796486382
+[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
