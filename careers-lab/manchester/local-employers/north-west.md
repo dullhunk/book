@@ -94,7 +94,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Web Applications UK, [webapplicationsuk.com](http://www.webapplicationsuk.com), OL4 1TD
-* Zuhlke Engineering, [zuehlke.co](https://www.zuehlke.com), M2 3AW
+* Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [jobs.manchesterdigital.com](https://jobs.manchesterdigital.com)
 
