@@ -9,7 +9,7 @@ This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](
 
 ## Not Just London
 
-You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possible comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
+You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
 * Amazon, [amazon.com](http://www.amazon.com), M4 4AH
 * Ampersand Commerce, [ampersandcommerce.com](http://ampersandcommerce.com), M3 2JA
@@ -69,6 +69,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * OCLC, [oclc.org](https://www.oclc.org), S1 4LW
 * On The Beach, [onthebeach.co.uk/jobs](https://www.onthebeach.co.uk/jobs), SK3 0XN
 * Open Shadow, [openshadow.com](https://www.openshadow.com), M50 2ST
+* Peak AI, [peak.ai](http://peak.ai), M1 4ET
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
