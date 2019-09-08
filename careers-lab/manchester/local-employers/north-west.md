@@ -1,7 +1,10 @@
 
 Employers in Manchester that recruit Computer Scientists
 ========================================================
-This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester that employ Computer Science students, either before or after graduation. This is a partial list of what some people call the [Northern Powerhouse](https://en.wikipedia.org/wiki/Northern_Powerhouse). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West. See for example [The top 100 tech companies in Greater Manchester 2017](http://www.manchestereveningnews.co.uk/business/business-news/top-tech-companies-manchester-north-13716704), as judged by the Manchester Evening News.
+This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
+
+## The Northern Softwarehouse
+This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) or what the BBC calls [Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
@@ -31,7 +34,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
 * Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
-* Cake Solutions, [cakesolutions.net](http://www.cakesolutions.net), SK5 6DA
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
 * Cheshire Datasystems Ltd, [cdl.co.uk](http://www.cdl.co.uk), SK4 2HD
 * Code Computer Love, [codecomputerlove.com](http://www.codecomputerlove.com), M1 2BE
@@ -41,12 +43,14 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
 * DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
 * Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
+* D3T, [https://d3tltd.com], WA7 1UG
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
+* Disney+, [wikipedia.org/wiki/Disney+](https://en.wikipedia.org/wiki/Disney%2B), SK5 6DA
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
-* GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), Top Secret*
+* GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
 * HUMAN, [human.software](https://human.software), M1 6HS
 * The Hut Group, [thehutgroup.com](http://www.thehutgroup.com), M50 2LH
@@ -55,7 +59,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
-* LateRooms, [careers.laterooms.com](http://careers.laterooms.com), M4 4FB
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
@@ -77,13 +80,14 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
 * Sage, [sage.com](http://www.sage.com), M5 3ED
 * Sainsbury's, [sainsburys.work](http://www.sainsburys.work), M4 3AL
-* Sensible Code, [ensiblecode.io](http://sensiblecode.io), WA3 3JD
+* Sensible Code, [sensiblecode.io](http://sensiblecode.io), WA3 3JD
 * Shout App, [shout-app.com](http://shout-app.com), M13 9PL
 * SIS, [sis.tv](https://www.sis.tv), M50 2ST
 * SKY technology hub, [jobs.sky.com](https://jobs.sky.com), LS10 1QE
 * Softcat, [softcat.com](https://www.softcat.com/contact-us/softcat-manchester), M12 6JH
 * Space 48, [space48.com](http://www.space48.com), M2 7HA
 * Swinton Insurance, [swintoncareers.com](http://www.swintoncareers.com), M1 5SW
+* SteamaCo, [steama.co/](https://steama.co/), M15 6SE
 * Swrrl, [swirrl.com](http://www.swirrl.com), M2 3DE
 * Team Netsol, [teamnetsol.com](https://teamnetsol.com), M4 5BA
 * Thales Group, [thalesgroup.com](https://www.thalesgroup.com), SK3 0XB
@@ -99,8 +103,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [jobs.manchesterdigital.com](https://jobs.manchesterdigital.com)
 
+## Add you company to this list
+
 If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
 
-*GCHQ opened a new office in Manchester in 2015 but they are not telling anyone where it is. Top secret, see [manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/fancy-being-real-life-spy-gchq-8441799)
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
