@@ -3,7 +3,7 @@ Employers in Manchester that recruit Computer Scientists
 ========================================================
 This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
 
-## The Northern Softwarehouse
+## The Northern Software house
 This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) or what the BBC calls [Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
