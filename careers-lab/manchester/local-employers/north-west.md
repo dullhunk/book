@@ -53,7 +53,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
 * HUMAN, [human.software](https://human.software), M1 6HS
-* The Hut Group, [thehutgroup.com](http://www.thehutgroup.com), M50 2LH
+* The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
