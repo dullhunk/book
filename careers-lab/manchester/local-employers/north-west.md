@@ -43,7 +43,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
 * DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
 * Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
-* D3T, [https://d3tltd.com], WA7 1UG
+* D3T, [d3tltd.com](https://d3tltd.com), WA7 1UG
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
