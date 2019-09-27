@@ -1,10 +1,6 @@
 # Getting started with computing education projects
 
-If you are starting your [third year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged)
-
-> “Our top priority was, is and always will be education, education, education”
-
-... can you work out which political leader said this and when?
+If you are starting your [third year undergraduate project in computer science education](https://goo.gl/z9Hs9x), here are some useful resources to help get you started with your project and keep you going throughout the academic year. You can link directly to this document using the shortcut [git.io/computinged](http://git.io/computinged) which should be read alongside [Coding their future: computing education projects](http://www.cs.man.ac.uk/~hulld/coding-their-future.html)
 
 ## Joining in
 If you haven't already, join [Computing At School (CAS)](http://www.computingatschool.org.uk). CAS is UK network of teachers of computing in primary and secondary schools with lots of free resources available that you can re-use and extend, see [community.computingatschool.org.uk/door](http://community.computingatschool.org.uk/door). The University of Manchester is a [CAS Regional Hub](https://twitter.com/cas_manchester), so you've got some expert teachers in the Kilburn building who can help you, [Dave Ames](https://twitter.com/davidames), [Sarah Zaman](https://www.linkedin.com/in/sarah-zaman-85a4aa52) and Carol Murray.
@@ -112,4 +108,4 @@ Even if you are working primarily with secondary school students, it can be bene
 * Look at past reports from third year students (search for projects supervised by "Duncan Hull") on the [Selected recommended third year project reports](https://studentnet.cs.manchester.ac.uk/resources/library/3rd-year-project.php?view=ug)
 
 
---[Duncan Hull](http://www.cs.man.ac.uk/~hulld), June 2017
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2019
