@@ -1,5 +1,5 @@
 
-The Northern Software house
+The Northern software house
 ========================================================
 This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
 
