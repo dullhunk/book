@@ -37,7 +37,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
 * Cheshire Datasystems Ltd, [cdl.co.uk](http://www.cdl.co.uk), SK4 2HD
 * Code Computer Love, [codecomputerlove.com](http://www.codecomputerlove.com), M1 2BE
-* CodeThink, [codethink.co.uk](http://www.codethink.co.uk), M1 2JW
+* Codethink Ltd., [codethink.co.uk](http://www.codethink.co.uk), M1 2JW
 * The Co-operative Group, [jobs.coop.co.uk](https://jobs.coop.co.uk), M60 0AG
 * Couchbase, [couchbase.com/careers](http://www.couchbase.com/careers), M1 1JB
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
