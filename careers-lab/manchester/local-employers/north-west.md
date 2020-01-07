@@ -58,6 +58,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
+* Koderly (f.k.a. Web Applications UK), [koder.ly](https://www.koder.ly/), OL4 1TD
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
@@ -99,7 +100,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * UKFast, [ukfast.co.uk](https://www.ukfast.co.uk), M15 5QJ
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
-* Web Applications UK, [webapplicationsuk.com](http://www.webapplicationsuk.com), OL4 1TD
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [jobs.manchesterdigital.com](https://jobs.manchesterdigital.com)
