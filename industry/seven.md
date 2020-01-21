@@ -31,4 +31,4 @@ Thanks to Gayle Hermick for her permission to use the artwork in this piece.
 1. Engineering: CERN employs ten times more engineers and technicians than research physicists. Do you know why? [https://home.cern/science/engineering](https://home.cern/science/engineering)
 1. [Bent Stumpe](https://en.wikipedia.org/wiki/Bent_Stumpe) and [Christine Sutton](https://en.wikipedia.org/wiki/Christine_Sutton) (2010) [The first capacitative touch screens at CERN: The story of a forerunner to today’s mobile-phone screens](https://cerncourier.com/a/the-first-capacitative-touch-screens-at-cern/), *CERN courier*
 1. Maria Girone and Andrzej Nowak (2013) [The Grid, CERN's Global Supercomputer - Computerphile](https://www.youtube.com/watch?v=cj8ZNgnzSSU) *Computerphile*
-1. Geoff Brumfriel (2009) LHC switches on: Giant accelerator sees first beam circulate successfully. *Nature* 10.1038/news.2008.1098
+1. Geoff Brumfriel (2009) LHC switches on: Giant accelerator sees first beam circulate successfully. *Nature* [http://dx.doi.org/10.1038/news.2008.1098](DOI:10.1038/news.2008.1098)
