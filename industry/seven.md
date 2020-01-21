@@ -29,5 +29,5 @@ Thanks to Gayle Hermick for her permission to use the artwork in this piece.
 1. [John Graham-Cumming](https://en.wikipedia.org/wiki/John_Graham-Cumming) (2009) [The Geek Atlas: 128 places where Science & Technology come alive](https://www.oreilly.com/library/view/the-geek-atlas/9780596802257/) *O'Reilly Media, Inc.* ISBN: 9780596802257
 1. Engineering: CERN employs ten times more engineers and technicians than research physicists. Do you know why? [home.cern/science/engineering](https://home.cern/science/engineering)
 1. [Bent Stumpe](https://en.wikipedia.org/wiki/Bent_Stumpe) and [Christine Sutton](https://en.wikipedia.org/wiki/Christine_Sutton) (2010) [The first capacitative touch screens at CERN: The story of a forerunner to today’s mobile-phone screens](https://cerncourier.com/a/the-first-capacitative-touch-screens-at-cern/), *CERN courier*
-1. Maria Girone and Andrzej Nowak (2013) [The Grid, CERN's Global Supercomputer - Computerphile](https://www.youtube.com/watch?v=cj8ZNgnzSSU) *Computerphile*
+1. Maria Girone and Andrzej Nowak (2013) [The Grid, CERN's Global Supercomputer](https://www.youtube.com/watch?v=cj8ZNgnzSSU) *Computerphile*
 1. Geoff Brumfriel (2009) LHC switches on: Giant accelerator sees first beam circulate successfully. *Nature* [DOI: 10.1038/news.2008.1098](http://dx.doi.org/10.1038/news.2008.1098)
