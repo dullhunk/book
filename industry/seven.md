@@ -9,7 +9,7 @@ Even in you're not a Physicist, there is plenty to see and do above and below gr
     + Materials engineers test novel materials, metals, magnets, microscopes, superconductors, vacuums, X-ray diffraction and apply radiochemistry
     + Software and hardware engineers develop applications, virtualised infrastructure, distributed computing and databases using a wide range of programming and scripting languages to manage data in one of the most highly demanding computing environments in the research world
     + Electrical and electronic engineers work on energy distribution, signal processing, microelectronics and radiofrequency technology
-    + Civil engineers and geotechnical engineerings develop structures, roads, drainage, both above (and under) ground to accommodate all of the above
+    + Civil engineers and geotechnical engineers develop structures, roads, drainage, both above (and under) ground to accommodate all of the above
     + There are non-engineering jobs too, in administration [careers.cern/AdminStudent-projects](https://careers.cern/AdminStudent-projects) and physics (obviously)
 
 So CERN is full of all kinds of engineers. But if you're not a physicist or an engineer looking for a job, there is still plenty to see and do. Let's resume our [listicle](https://en.wikipedia.org/wiki/Listicle): six things to do at CERN if you're not a physicist (or an engineer):
