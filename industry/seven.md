@@ -33,7 +33,7 @@ Thanks to current and former CERN technical students from the University of Manc
 
 Thanks to Gayle Hermick for her permission to re-use the artwork in this piece.
 
-DISCLAIMER: I am not a Physicist, unless you count my very rusty A-level from a loooong time ago.
+DISCLAIMER: I am not a Physicist, unless you count my very rusty A-level from a loooong time ago. Any errors in the above text are all my own fault.
 
 # References
 
