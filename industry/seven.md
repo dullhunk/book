@@ -38,7 +38,7 @@ DISCLAIMER: I am not a Physicist, unless you count my very rusty A-level from a 
 # References
 
 1. [John Graham-Cumming](https://en.wikipedia.org/wiki/John_Graham-Cumming) (2009) [The Geek Atlas: 128 places where Science & Technology come alive](https://www.oreilly.com/library/view/the-geek-atlas/9780596802257/) *O'Reilly Media, Inc.* ISBN: 9780596802257
-1. Engineering: CERN employs ten times more engineers and technicians than research physicists. Do you know why? [home.cern/science/engineering](https://home.cern/science/engineering)
+1. Did you know: CERN employs **ten times more engineers** and technicians than research physicists. Do you know why? [home.cern/science/engineering](https://home.cern/science/engineering)
 1. [Bent Stumpe](https://en.wikipedia.org/wiki/Bent_Stumpe) and [Christine Sutton](https://en.wikipedia.org/wiki/Christine_Sutton) (2010) [The first capacitative touch screens at CERN: The story of a forerunner to today’s mobile-phone screens](https://cerncourier.com/a/the-first-capacitative-touch-screens-at-cern/), *CERN courier*
 1. Maria Girone and Andrzej Nowak (2013) [The Grid, CERN's Global Supercomputer](https://www.youtube.com/watch?v=cj8ZNgnzSSU) *Computerphile*
 1.  Mélissa Gaillard (2019) [Key Facts and Figures – CERN Data Centre](http://information-technology.web.cern.ch/sites/information-technology.web.cern.ch/files/CERNDataCentre_KeyInformation_December2019V1.pdf) *information-technology.web.cern.ch*
