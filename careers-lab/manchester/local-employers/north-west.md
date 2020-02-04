@@ -114,6 +114,7 @@ If you are interested in more Manchester based employers, other place you can lo
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/)
+* Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 
 ## Add your organisation to this list
