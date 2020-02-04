@@ -107,7 +107,7 @@ If you are interested in more Manchester based employers, another place you can 
 
 ## Add your organisation to this list
 
-If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
+If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me, “where can I work in Manchester and the North?”. This is the page I point them at to answer their question. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
 
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
