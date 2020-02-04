@@ -104,17 +104,18 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * UKFast, [ukfast.co.uk](https://www.ukfast.co.uk), M15 5QJ
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
+* Waters, [waters.com](https://www.waters.com), SK9 5AA
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
 ## But wait, there's more!
 
-If you are interested in more Manchester based employers, other place you can look are incubators, co-working spaces, science parks and local trade bodies such as:
+If you are interested in more Manchester based employers, other place you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
 
-* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre/](https://mspl.co.uk/campuses/manchester-technology-centre/)
-* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
+* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre/](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED
+* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
-* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/)
+* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 
