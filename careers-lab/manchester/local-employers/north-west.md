@@ -14,7 +14,7 @@ This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.g
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
 
-* Amazon, [amazon.com](http://www.amazon.com), M4 4AH
+* Amazon, [amazon.jobs/manchester](https://www.amazon.jobs/en-gb/locations/manchester-england), M4 4AH (see [blog.aboutamazon.co.uk](https://blog.aboutamazon.co.uk/company-news/amazon-opens-doors-to-newest-corporate-office-in-manchester) for details of new Manchester office)
 * Ampersand Commerce, [ampersandcommerce.com](http://ampersandcommerce.com), M3 2JA
 * AO, [ao-jobs.com](http://www.ao-jobs.com), BL6 4SD
 * Apadmi, [apadmi.com/careers](http://www.apadmi.com/careers), M17 1LB
@@ -23,11 +23,11 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Aucoda, [aucoda.com](http://www.aucoda.com), M1 5NG
 * Autotrader, [careers.autotrader.co.uk](https://careers.autotrader.co.uk), M15 4FN
 * Autodesk, [autodesk.co.uk](http://www.autodesk.co.uk), S1 2EL
-* Avecto, [avecto.com](http://www.avecto.com), SK8 3SR
 * BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
 * BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/segs](http://bbc.in/segs), M50 2LH
 * Bet365, [bet365careers.com](https://www.bet365careers.com), M2
+* BeyondTrust, [beyondtrust.com](https://www.beyondtrust.com), M22 5XB (formerly Avecto)
 * Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
 * BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
 * BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
@@ -55,7 +55,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * HUMAN, [human.software](https://human.software), M1 6HS
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
-* Infinity Works, [https://www.infinityworks.com], LS1 2EQ
+* Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
@@ -90,7 +90,8 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Softcat, [softcat.com](https://www.softcat.com/contact-us/softcat-manchester), M12 6JH
 * Space 48, [space48.com](http://www.space48.com), M2 7HA
 * Swinton Insurance, [swintoncareers.com](http://www.swintoncareers.com), M1 5SW
-* SteamaCo, [steama.co/](https://steama.co/), M15 6SE
+* The Startup Factory, [thestartupfactory.tech](https://thestartupfactory.tech/), M1 7ED
+* SteamaCo, [steama.co](https://steama.co/), M15 6SE
 * Swrrl, [swirrl.com](http://www.swirrl.com), M2 3DE
 * Team Netsol, [teamnetsol.com](https://teamnetsol.com), M4 5BA
 * Thales Group, [thalesgroup.com](https://www.thalesgroup.com), SK3 0XB
