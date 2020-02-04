@@ -117,11 +117,11 @@ If you are interested in more Manchester based employers, other place you can lo
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
-* Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
+* Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally [£60 for startups](https://www.manchesterdigital.com/membership-benefits)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 
 ## Add your organisation to this list
 
-If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me, “where can I work in Manchester and the North?”. This is the page I point them at to answer their question. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
+If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me, “I don't want to work in London, where can I work in Manchester and the North?”. This is the page I point them at. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback and additions to it.
 
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
