@@ -64,7 +64,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
 * Koderly, [koder.ly](https://www.koder.ly/), OL4 1TD (formerly Web Applications UK)
-* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
@@ -109,7 +108,13 @@ You don't **have** to move to London to find top employers, there are plenty loc
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
 
-If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)
+If you are interested in more Manchester based employers, other place you can look are
+
+* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre/](https://mspl.co.uk/campuses/manchester-technology-centre/)
+* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
+* Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
+* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/)
+* Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 
 ## Add your organisation to this list
 
