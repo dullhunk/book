@@ -49,7 +49,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
-* Disney+, [disneyplus.com](https://www.disneyplus.com), SK5 6DA
+* Disney Streaming Services, [www.disneystreaming.com](https://www.disneystreaming.com), SK5 6DA, Manchester city centre soon
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
