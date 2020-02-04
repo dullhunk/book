@@ -4,7 +4,7 @@ The Northern software house
 This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
 
 ## Employers in Manchester that recruit Computer Scientists
-This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) or what the BBC calls [Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g). This is by no means a comprehensive list, but will give you a quick flavour of employers in the North West.
+This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) or what the BBC calls [Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g). This is by no means a comprehensive list, but will give you a quick flavour of employers Manchester, Leeds, Liverpool, Sheffield and the North of England.
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
@@ -55,6 +55,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * HUMAN, [human.software](https://human.software), M1 6HS
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
+* Infinity Works, [https://www.infinityworks.com], LS1 2EQ
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
@@ -102,9 +103,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 
-If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [jobs.manchesterdigital.com](https://jobs.manchesterdigital.com)
+If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)
 
-## Add you company to this list
+## Add your organisation to this list
 
 If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback on it.
 
