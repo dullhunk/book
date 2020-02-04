@@ -59,7 +59,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
-* Intechnica, [intechnica.com](https://intechnica.com/),
+* Intechnica, [intechnica.com](https://intechnica.com/), M3 2EG
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
@@ -107,8 +107,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
+## But wait, there's more!
 
-If you are interested in more Manchester based employers, other place you can look are
+If you are interested in more Manchester based employers, other place you can look are incubators, co-working spaces, science parks and local trade bodies such as:
 
 * Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre/](https://mspl.co.uk/campuses/manchester-technology-centre/)
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
