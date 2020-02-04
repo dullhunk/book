@@ -12,7 +12,7 @@ This is a partial list of the [Northern Powerhouse](https://northernpowerhouse.g
 
 ## Not Just London
 
-You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [techw.uk](http://technw.uk) if you want to find out more.
+You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [technw.uk](http://technw.uk) if you want to find out more.
 
 * Amazon, [amazon.jobs/manchester](https://www.amazon.jobs/en-gb/locations/manchester-england), M4 4AH (see [blog.aboutamazon.co.uk](https://blog.aboutamazon.co.uk/company-news/amazon-opens-doors-to-newest-corporate-office-in-manchester) for details of new Manchester office)
 * Ampersand Commerce, [ampersandcommerce.com](http://ampersandcommerce.com), M3 2JA
@@ -112,16 +112,21 @@ You don't **have** to move to London to find top employers, there are plenty loc
 
 If you are interested in more Manchester based employers, other place you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
 
-* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre/](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED
+* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
-* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10/](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
+* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally [£60 for startups](https://www.manchesterdigital.com/membership-benefits)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
+* North West [technw.uk](http://technw.uk)
 
 ## Add your organisation to this list
 
-If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me, “I don't want to work in London, where can I work in Manchester and the North?”. This is the page I point them at. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback and additions to it.
+If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me,
+
+> “I don't want to work in London, where can I work in Manchester and the North?”.
+
+This is the page I point them at. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback and additions to it.
 
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
