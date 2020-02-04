@@ -50,6 +50,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
 * Disney+, [wikipedia.org/wiki/Disney+](https://en.wikipedia.org/wiki/Disney%2B), SK5 6DA
+* Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
@@ -58,6 +59,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
+* Intechnica, [intechnica.com](https://intechnica.com/),
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
@@ -83,11 +85,12 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
 * Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
 * Sage, [sage.com](http://www.sage.com), M5 3ED
-* Sainsbury's, [sainsburys.work](http://www.sainsburys.work), M4 3AL
+* Sainsbury's, [sainsburys.jobs](https://sainsburys.jobs), M4 3AQ
 * Sensible Code, [sensiblecode.io](http://sensiblecode.io), WA3 3JD
 * Shout App, [shout-app.com](http://shout-app.com), M13 9PL
 * SIS, [sis.tv](https://www.sis.tv), M50 2ST
 * SKY technology hub, [jobs.sky.com](https://jobs.sky.com), LS10 1QE
+* Slalom, [slalom.com/locations/manchester](https://www.slalom.com/locations/manchester),  M1 5AN
 * Softcat, [softcat.com](https://www.softcat.com/contact-us/softcat-manchester), M12 6JH
 * Space 48, [space48.com](http://www.space48.com), M2 7HA
 * Swinton Insurance, [swintoncareers.com](http://www.swintoncareers.com), M1 5SW
