@@ -117,10 +117,10 @@ If you are interested in more Manchester based employers, other place you can lo
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
-* Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally [£60 for startups](https://www.manchesterdigital.com/membership-benefits)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
-* North West [technw.uk](http://technw.uk)
+* Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
+* North West Tech Community [technw.uk](http://technw.uk) Tonnes of friendly tech meetups in and around Manchester
 
-## Add your organisation to this list
+## Add your organisation to this list...
 
 If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me,
 
@@ -130,3 +130,5 @@ This is the page I point them at. The document source is written in [markdown](h
 
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
+
+Last updated February 2020 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
