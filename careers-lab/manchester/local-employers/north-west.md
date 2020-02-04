@@ -31,9 +31,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
 * BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
 * BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
-* Blaize, [blaize.com/](https://www.blaize.com/), LS2 7HZ (formerly ThinCI)
+* Blaize, [blaize.com](https://www.blaize.com/), LS2 7HZ (formerly ThinCI)
 * Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
-* BookingGo, [https://careers.booking.com/](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
+* BookingGo, [https://careers.booking.com](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
 * Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
