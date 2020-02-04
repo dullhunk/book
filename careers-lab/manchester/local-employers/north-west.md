@@ -49,7 +49,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](http://digitalbridge.eu), M15 6AY
-* Disney+, [wikipedia.org/wiki/Disney+](https://en.wikipedia.org/wiki/Disney%2B), SK5 6DA
+* Disney+, [disneyplus.com](https://www.disneyplus.com), SK5 6DA
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
@@ -119,6 +119,8 @@ If you are interested in more Manchester based employers, other place you can lo
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF (By Manchester Victoria Station)
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
+* Jim Garside's Advanced Processor Technologies (APT) Research Group, list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list
+
 
 ## Add your organisation to this list...
 
