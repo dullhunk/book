@@ -31,6 +31,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
 * BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
 * BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
+* Blaize, [blaize.com/](https://www.blaize.com/), LS2 7HZ (formerly ThinCI)
 * Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
 * BookingGo, [https://careers.booking.com/](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
@@ -53,7 +54,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
-* HUMAN, [human.software](https://human.software), M1 6HS
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
@@ -65,7 +65,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
-* Mentor Graphics, [mentor.com](https://www.mentor.com), WA14 5GL
+* Mentor Graphics, [mentor.com](https://www.mentor.com), WA14 5GL (now part of Siemens)
 * Metafused, [metafused.com](https://www.metafused.com), M1 5AN
 * Micron, [uk.micron.com](http://uk.micron.com), SK8 3GR
 * MindTrace, [mindtrace.ai](http://mindtrace.ai), M3 3BQ
@@ -95,7 +95,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Swrrl, [swirrl.com](http://www.swirrl.com), M2 3DE
 * Team Netsol, [teamnetsol.com](https://teamnetsol.com), M4 5BA
 * Thales Group, [thalesgroup.com](https://www.thalesgroup.com), SK3 0XB
-* ThinCI, [thinci.com](https://thinci.com), Leeds
 * ThoughtWorks, [thoughtworks.com](https://www.thoughtworks.com), M4 4BF
 * TopCashBack, [topcashback.co.uk](http://www.topcashback.co.uk), BL6 5UE
 * TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
@@ -103,6 +102,8 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
+<!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
+
 
 If you are interested in more Manchester based employers, another place you can look is Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (normally £40 for individual membership) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)
 
