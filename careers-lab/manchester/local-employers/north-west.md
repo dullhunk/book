@@ -54,6 +54,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
+* Hello Soda Limited, [hellosoda.com](https://hellosoda.com/), M2 4EW
 * The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
