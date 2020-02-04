@@ -32,6 +32,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BJSS, [bjss.com](http://www.bjss.com), M1 3DZ
 * BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
 * Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
+* BookingGo, [https://careers.booking.com/](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
 * Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
@@ -59,7 +60,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ivanti, [ivanti.com](https://www.ivanti.com), WA4 4BU
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
-* Koderly (f.k.a. Web Applications UK), [koder.ly](https://www.koder.ly/), OL4 1TD
+* Koderly, [koder.ly](https://www.koder.ly/), OL4 1TD (formerly Web Applications UK)
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (lots of startups under one roof)
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
@@ -79,7 +80,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
-* RentalCars / BookingGo, [careers.rentalcars.com](http://careers.rentalcars.com), M3 3JZ
 * Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
 * Sage, [sage.com](http://www.sage.com), M5 3ED
 * Sainsbury's, [sainsburys.work](http://www.sainsburys.work), M4 3AL
