@@ -112,13 +112,13 @@ You don't **have** to move to London to find top employers, there are plenty loc
 
 If you are interested in more Manchester based employers, other place you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
 
-* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED
-* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST
-* Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/)
-* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ
-* Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF
+* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED (just down the Oxford Road)
+* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (MediaCityUK)
+* Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/), M15 6JJ (Behind the Uni Library)
+* City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ (just up the Oxford Road)
+* Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF (By Manchester Victoria Station)
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
-* North West Tech Community [technw.uk](http://technw.uk) Tonnes of friendly tech meetups in and around Manchester
+* North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
 
 ## Add your organisation to this list...
 
