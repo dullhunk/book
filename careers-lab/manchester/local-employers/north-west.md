@@ -33,7 +33,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * BNY Mellon, [bnymellon.com](https://www.bnymellon.com), M3 3HF
 * Blaize, [blaize.com](https://www.blaize.com/), LS2 7HZ (formerly ThinCI)
 * Boo Hoo, [careers.boohoo.com](https://careers.boohoo.com), M1 2HF
-* BookingGo, [https://careers.booking.com](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
+* BookingGo, [careers.booking.com](https://careers.booking.com/), M3 3JZ (formerly RentalCars)
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
 * Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
@@ -105,7 +105,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
-* Wonderbill, [wonderbill.com](https://www.wonderbill.com), M1 (ish)
+* Wonderbill, [wonderbill.com](https://www.wonderbill.com), M3 3EB
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
