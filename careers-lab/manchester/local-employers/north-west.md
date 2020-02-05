@@ -4,7 +4,7 @@ The Northern software house
 This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
 
 ## Employers in Manchester that recruit Computer Scientists
-This is a partial list of employers in Manchester ([Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers Manchester, Leeds, Liverpool, Sheffield and the North of England.
+This is a partial list of employers in Manchester ([Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
@@ -106,6 +106,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
 * Wonderbill, [wonderbill.com](https://www.wonderbill.com), M3 3EB
+* Yourgene Health, [yourgene-health.com](https://www.yourgene-health.com/), M13 9NQ
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
