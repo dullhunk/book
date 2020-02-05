@@ -105,6 +105,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
+* Wonderbill, [wonderbill.com](https://www.wonderbill.com), M1 (ish)
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
