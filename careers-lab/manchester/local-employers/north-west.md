@@ -10,7 +10,7 @@ This is a partial list of employers in Manchester ([Man-hattanchester](https://w
 
 **Figure 1**: [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
-## Hit the North: Not Just London
+## Hit the North, Not Just London
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [technw.uk](http://technw.uk) if you want to find out more.
 
@@ -121,7 +121,7 @@ If you are interested in more Manchester based employers, other places you can l
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 * Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
-* Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list (not just The North®)
+* Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list (not just *The North®*)
 
 
 ## Add your organisation to this list...
