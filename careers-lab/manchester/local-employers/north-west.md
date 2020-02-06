@@ -116,7 +116,7 @@ If you are interested in more Manchester based employers, other places you can l
 * Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED (just down the Oxford Road)
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (MediaCityUK)
 * Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/), M15 6JJ (Behind the Uni Library)
-* The Hive Manchester, [thehivemanchester.com](https://www.thehivemanchester.com/), M11FN (home to lots of interesting employers, hosts many events see [@TheHiveManc](https://twitter.com/TheHiveManc))
+* The Hive Manchester, [thehivemanchester.com](https://www.thehivemanchester.com/), M1 1FN (home to lots of interesting employers, hosts many events see [@TheHiveManc](https://twitter.com/TheHiveManc))
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ (just up the Oxford Road)
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF (By Manchester Victoria Station)
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
