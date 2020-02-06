@@ -44,7 +44,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Couchbase, [couchbase.com/careers](http://www.couchbase.com/careers), M1 1JB
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
 * DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
-* Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
 * D3T, [d3tltd.com](https://d3tltd.com), WA7 1UG
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
@@ -120,8 +119,9 @@ If you are interested in more Manchester based employers, other place you can lo
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ (just up the Oxford Road)
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF (By Manchester Victoria Station)
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
+* Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
-* Jim Garside's Advanced Processor Technologies (APT) Research Group, list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list
+* Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list
 
 
 ## Add your organisation to this list...
