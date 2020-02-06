@@ -111,7 +111,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 
 ## But wait, there's more!
 
-If you are interested in more Manchester based employers, other place you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
+If you are interested in more Manchester based employers, other places you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
 
 * Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED (just down the Oxford Road)
 * The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (MediaCityUK)
@@ -121,7 +121,7 @@ If you are interested in more Manchester based employers, other place you can lo
 * Manchester Digital (MD) [manchesterdigital.com](https://www.manchesterdigital.com). MD is an independent trade association for tech and digital businesses (many in advertising & marketing) in the North West of England. Student membership of [@mcrdig](https://twitter.com/mcrdig) is free (see [manchesterdigital.com/for-students](https://www.manchesterdigital.com/for-students)) and they advertise jobs at [manchesterdigital.com/jobs](https://www.manchesterdigital.com/jobs)  
 * Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
-* Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list
+* Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list (not just The North®)
 
 
 ## Add your organisation to this list...
