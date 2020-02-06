@@ -139,4 +139,4 @@ Last updated February 2020 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
 
 ## References
 
-1. [Mark E. Smith](https://en.wikipedia.org/wiki/Mark_E._Smith), Brix Smith and The Fall (1987) [Hit the North](https://www.youtube.com/watch?v=QzivmOQWkVQ), see [wikipedia.org/wiki/Hit_the_North](https://en.wikipedia.org/wiki/Hit_the_North)
+1. [Mark E. Smith](https://en.wikipedia.org/wiki/Mark_E._Smith), Brix Smith and The Fall (1987) [Hit the North (music video)](https://www.youtube.com/watch?v=QzivmOQWkVQ), see [wikipedia.org/wiki/Hit_the_North](https://en.wikipedia.org/wiki/Hit_the_North)
