@@ -136,3 +136,7 @@ This is the page I point them at. The document source is written in [markdown](h
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
 Last updated February 2020 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
+
+## References
+
+1. [Mark E. Smith](https://en.wikipedia.org/wiki/Mark_E._Smith), Brix Smith and The Fall (1987) [youtube.com/watch?v=QzivmOQWkVQ](https://www.youtube.com/watch?v=QzivmOQWkVQ)
