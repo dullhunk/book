@@ -104,6 +104,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
+* Wejo, [wejo.com](https://www.wejo.com), M3 4AE
 * Wonderbill, [wonderbill.com](https://www.wonderbill.com), M3 3EB
 * Yourgene Health, [yourgene-health.com](https://www.yourgene-health.com/), M13 9NQ
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
@@ -124,7 +125,6 @@ If you are interested in more Manchester based employers, other places you can l
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
 * Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list (not just *The North®*)
 
-
 ## Add your organisation to this list...
 
 If you are a Manchester based employer who isn't listed here, but would like to be, [raise an issue](https://github.com/dullhunk/book/issues) or [submit a pull request](https://github.com/dullhunk/book/compare). Students frequently ask me,
@@ -140,4 +140,4 @@ Last updated February 2020 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
 
 ## References
 
-1. [Mark E. Smith](https://en.wikipedia.org/wiki/Mark_E._Smith), Brix Smith and The Fall (1987) [Hit the North (music video)](https://www.youtube.com/watch?v=QzivmOQWkVQ), see [wikipedia.org/wiki/Hit_the_North](https://en.wikipedia.org/wiki/Hit_the_North)
+1. [Mark E. Smith](https://en.wikipedia.org/wiki/Mark_E._Smith), Brix Smith and Simon Rogers (1987) [Hit the North (music video)](https://www.youtube.com/watch?v=QzivmOQWkVQ), see [wikipedia.org/wiki/Hit_the_North](https://en.wikipedia.org/wiki/Hit_the_North) by The Fall
