@@ -1,7 +1,7 @@
 
 The Northern software house
 ========================================================
-This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester have employed Computer Science students, either before or after graduation.
+This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation.
 
 ## Employers in Manchester that recruit Computer Scientists
 This is a partial list of employers in Manchester ([Man-hattanchester](https://www.bbc.co.uk/programmes/m000182g)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
@@ -81,6 +81,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
+* ResearchIT, [itservices.manchester.ac.uk/research/](http://www.itservices.manchester.ac.uk/research/), M13 9PL
 * Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
 * Sage, [sage.com](http://www.sage.com), M5 3ED
 * Sainsbury's, [sainsburys.jobs](https://sainsburys.jobs), M4 3AQ
@@ -102,6 +103,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
 * UKFast, [ukfast.co.uk](https://www.ukfast.co.uk), M15 5QJ
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
+* Valtech, [valtech.com](https://www.valtech.com), M1
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
 * Wejo, [wejo.com](https://www.wejo.com), M3 4AE
