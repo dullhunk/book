@@ -14,6 +14,7 @@ This is a partial list of employers in Manchester ([Man-hattanchester](https://w
 
 You don't **have** to move to London to find top employers, there are plenty located here in the North West if you'd like to stick around after you graduate. It is often argued that [Manchester offers a better quality of life than London](https://www.theguardian.com/money/2015/jul/07/manchester-offers-best-quality-of-life-for-young-graduates-says-report) we couldn't possibly comment other than to say its [horses for courses](https://en.wiktionary.org/wiki/horses_for_courses). The North West Tech Community calendar [@technwuk](https://twitter.com/technwuk), provides a window on (and networking opportunities with) many of employers based in the North West [technw.uk](http://technw.uk) if you want to find out more.
 
+* AccessPay, [accesspay.com](https://www.accesspay.com), M1 4BT
 * Amazon, [amazon.jobs/manchester](https://www.amazon.jobs/en-gb/locations/manchester-england), M4 4AH (see [blog.aboutamazon.co.uk](https://blog.aboutamazon.co.uk/company-news/amazon-opens-doors-to-newest-corporate-office-in-manchester) for details of new Manchester office)
 * Ampersand Commerce, [ampersandcommerce.com](http://ampersandcommerce.com), M3 2JA
 * AO, [ao-jobs.com](http://www.ao-jobs.com), BL6 4SD
