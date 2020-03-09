@@ -111,6 +111,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Wonderbill, [wonderbill.com](https://www.wonderbill.com), M3 3EB
 * Yourgene Health, [yourgene-health.com](https://www.yourgene-health.com/), M13 9NQ
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
+* Zuto, [careers.zuto.com](https://careers.zuto.com/), SK11 0LP
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
 
 ## But wait, there's more!
