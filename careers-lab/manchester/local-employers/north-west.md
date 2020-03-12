@@ -81,13 +81,14 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
+* RecourseAI, [recourseai.com](https://recourseai.com/), M1 4PZ
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
 * ResearchIT, [itservices.manchester.ac.uk/research/](http://www.itservices.manchester.ac.uk/research/), M13 9PL
 * Sabisu, [sabisu.co](http://www.sabisu.co), M33 3SJ
 * Sage, [sage.com](http://www.sage.com), M5 3ED
 * Sainsbury's, [sainsburys.jobs](https://sainsburys.jobs), M4 3AQ
 * Sensible Code, [sensiblecode.io](http://sensiblecode.io), WA3 3JD
-* Shout App, [shout-app.com](http://shout-app.com), M13 9PL
+* Shout App, [shout-app.com](http://shout-app.com), M1 4PZ
 * SIS, [sis.tv](https://www.sis.tv), M50 2ST
 * SKY technology hub, [jobs.sky.com](https://jobs.sky.com), LS10 1QE
 * Slalom, [slalom.com/locations/manchester](https://www.slalom.com/locations/manchester),  M1 5AN
