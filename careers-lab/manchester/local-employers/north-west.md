@@ -43,7 +43,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Codethink Ltd., [codethink.co.uk](http://www.codethink.co.uk), M1 2HF
 * The Co-operative Group, [jobs.coop.co.uk](https://jobs.coop.co.uk), M60 0AG
 * Couchbase, [couchbase.com/careers](http://www.couchbase.com/careers), M1 1JB
-* Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ
+* Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ (Acquired by [epicgames.com](https://www.epicgames.com/store/en-US/) in March 2020)
 * DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
 * D3T, [d3tltd.com](https://d3tltd.com), WA7 1UG
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
