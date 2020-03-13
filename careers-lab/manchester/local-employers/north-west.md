@@ -53,6 +53,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
+* FuzzyLabs, [fuzzylabs.ai](https://fuzzylabs.ai/), M1 7ED
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
 * Hello Soda Limited, [hellosoda.com](https://hellosoda.com/), M2 4EW
