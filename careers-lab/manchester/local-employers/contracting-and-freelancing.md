@@ -1,4 +1,4 @@
-# Finding freelance and contract work in software engineering
+ # Finding freelance and contract work in software engineering
 
 It is very common for companies to employ software engineers and other technical staff as contractors, for short periods of time, rather than as employees. Consequently, there is lots of work available in freelance and contract work. The sites below could help you bid for work available as a self-employed contractor and freelancer
 
