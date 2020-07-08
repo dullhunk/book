@@ -68,6 +68,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
+* Medicines Catapult [md.catapult.org.uk](https://md.catapult.org.uk), SK10 4TG
 * Mentor Graphics, [mentor.com](https://www.mentor.com), WA14 5GL (now part of Siemens)
 * Metafused, [metafused.com](https://www.metafused.com), M1 5AN
 * Micron, [uk.micron.com](http://uk.micron.com), SK8 3GR
