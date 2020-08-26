@@ -13,3 +13,9 @@ You could start out by offering low prices and bidding on smaller projects to ge
 To find projects where you can work directly with the client (without going through a broker or agent), a good place to start is attending meetups in Manchester and go along with some business cards. Organisations like [technw.uk](http://technw.uk), [meetup.com](http://www.meetup.com), [lanyrd.com](http://lanyrd.com) and [eventbrite.co.uk](http://www.eventbrite.co.uk) etc are all good places to start looking.
 
 Other good leads are friends and family, an you develop software that solves a problem that your friends or family have?
+
+I guess it depends, they can be useful for building a portfolio but I think getting a relevant summer job (e.g. with a local design/dev agency) and putting that on your CV can be more useful. If you are going to use the sites you have to be aware that you'll be paid next to nothing and will be competing with freelancers in countries with much lower costs of living.
+
+See life as a coin-operated monkey by Paul Waring
+https://talks.phpdeveloper.org.uk/freelancing/slides.html
+and
