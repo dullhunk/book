@@ -43,10 +43,10 @@ The links below take you to specific instructions on how to improve and debug pa
 Once you've read the above, here's what you could do next:
 
 * **REPEAT IT** So [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often). According to [Linus's (Torvald's) Law](https://en.wikipedia.org/wiki/Linus%27s_Law) “*given enough eyeballs, all bugs are shallow*”. So the more people who see your CV, the more bugs you can squash. Do a CV swap and peer-review with a fellow student (if you haven't already). Show it to your friends, colleagues, family, personal tutor, pet dog etc. The more people who see it, the better it will get. You can apply many of the the principles of [agile software development](https://en.wikipedia.org/wiki/Agile_software_development) to your CV. Iterate round this loop as many times as possible.
-* **IMPROVE IT** See five steps to take next: 1) Explore, 2) Connect, 3) Communicate, 4) Reflect and 5) Apply [careers.manchester.ac.uk/myfuture](http://www.careers.manchester.ac.uk/myfuture/) and if you are in:
+* **IMPROVE IT** See five steps to take next: 1) Explore, 2) Connect, 3) Communicate, 4) Reflect and 5) Apply [careers.manchester.ac.uk/myfuture](http://www.careers.manchester.ac.uk/myfuture/) <!--and if you are in:
   * First year of your degree, see [careers.manchester.ac.uk/first](http://www.careers.manchester.ac.uk/first/)
   * Middle years of your degree, see  [careers.manchester.ac.uk/middegree](http://www.careers.manchester.ac.uk/middegree/)
-  * Final years of your degree, see [careers.manchester.ac.uk/final](http://www.careers.manchester.ac.uk/final/)
+  * Final years of your degree, see [careers.manchester.ac.uk/final](http://www.careers.manchester.ac.uk/final/)-->
 * **CHECK IT** Have another look at the [CV and LinkedIn guide](http://man.ac.uk/6Ef90a) from the careers service, there is good advice mentioned there that is not in this guide
 * **UPLOAD IT** Upload an updated version to the [CV bank](https://studentnet.cs.manchester.ac.uk/employment/industryclub/cvbank) once you've changed it and ask for more feedback if you need it
 * **DEAL WITH IT** It is hard work finding a job, most people will make several unsuccessful job applications and have multiple interviews before receiving a job offer from an employer they are interested in. Coping with rejection is routine part of applying for jobs. Keep trying and aim to get better each time, learning from your mistakes rather than repeating them. If you need moral support, through what can be a stressful and demoralising process, see [from concerned to confident](http://www.careers.manchester.ac.uk/services/concerns) and remember that [help is always available if you need it](http://www.cs.manchester.ac.uk/study/news/full-article/?articleid=4558).
@@ -54,4 +54,4 @@ Once you've read the above, here's what you could do next:
 
 Good luck with your applications and interviews. If you need any help speak to [Mabel Yau](https://www.linkedin.com/pub/mabel-yau/26/152/a5), your personal tutor or myself. The [careers service](http://www.careers.manchester.ac.uk/services/guidance/) also provide good non-technical generic advice. I'm happy to give more feedback on improved versions of your CV in the future, while you are at University.
 
---[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2019
+--[Duncan Hull](http://www.cs.man.ac.uk/~hulld), September 2020
