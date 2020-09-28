@@ -16,9 +16,9 @@ While referring to this guide, remember that:
 A lot of the mistakes that undergraduates make on CV's are easily fixed: Here's the top bugs we've seen in the School of Computer Science:
 
 1. Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?
-2. Are there any spelling mistakes, typos and grammar? [Don't just rely on a spellchecker](https://blog.oxforddictionaries.com/2015/08/06/mistakes-spellchecker-will-miss/)
+2. Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, they can't detect everything
 3. Does it look good, decent layout, appropriate use of LaTeX or Word or whatever?
-4. Does it fit comfortably on either one (Résumé) or two pages (CV) only?
+4. Does it fit comfortably on preferably one (Résumé) or two pages (CV) only?
 5. Is it in reverse chronological order? Most important (usually recent) things first?
 6. Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? See [git.io/verbsfirst](http://git.io/verbsfirst) for examples
 7. Have you mentioned things you are studying now, not just courses you have finished?
