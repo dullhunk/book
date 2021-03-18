@@ -77,8 +77,8 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * NCC Group plc, [nccgroup.trust](https://www.nccgroup.trust), M1 7EF
 * OCLC, [oclc.org](https://www.oclc.org), S1 4LW
 * On The Beach, [onthebeach.co.uk/jobs](https://www.onthebeach.co.uk/jobs), SK3 0XN
-* Open Shadow, [openshadow.com](https://www.openshadow.com), M50 2ST
 * Peak AI, [peak.ai](http://peak.ai), M1 4ET
+* Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
@@ -115,6 +115,8 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 * Zuto, [careers.zuto.com](https://careers.zuto.com/), SK11 0LP
 <!--* Liquidated HUMAN, [human.software](https://human.software), M1 6HS-->
+<!--* Open Shadow, [openshadow.com](https://www.openshadow.com), M50 2ST-->
+
 
 ## But wait, there's more!
 
@@ -130,6 +132,7 @@ If you are interested in more Manchester based employers, other places you can l
 * Sci-Tech Daresbury, [sci-techdaresbury.com](http://www.sci-techdaresbury.com), WA4 4FS
 * North West Tech Community [technw.uk](http://technw.uk), tonnes of friendly tech meetups in and around Manchester.
 * Jim Garside's Advanced Processor Technologies (APT) alumni list [apt.cs.manchester.ac.uk/people](http://apt.cs.manchester.ac.uk/people/), scroll down to *Alumni* for an impressive global list (not just *The North®*)
+
 
 ## Add your organisation to this list...
 
