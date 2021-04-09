@@ -1,16 +1,6 @@
 
 # Personal Details and References
 
-This section [git.io/mycvpd](http://git.io/mycvpd) is part of [git.io/mycv](http://git.io/mycv)
-
 ## Personalising it
 
-How to get in touch, you should be able to your essential contact details (email, phone & web) on one line in the header of your CV. It doesn't need a section of its own.
-
-1. **DROP IT** PushedForSpace? Consider leaving out your postal address as an email address and phone number are usually sufficient, first contact from a prospective employer is unlikely to be by post. Some people put personal details last (with references), as they aren't the most important thing about you. Another option is to have them in the header or footer, if you have space, so that they are on every page of your CV.
-2. **OWN IT** The title should **never** be CURRICULUM VITAE. It will be obvious to the reader that the document is a CV/Resume, saying so is usually a waste of valuable space. The title of the document should be **YOUR NAME** big, bold and simple. E.g. just “ALAN TURING” not “CURRICULUM VITAE ALAN TURING”.
-3. **LEAVE IT** You don't need to include every personal detail date of birth, sex, marital status, photo on your CV - your age/gender/looks/marital status should not be a factor in job applications. Also, publishing your birth date *could* make you more vulnerable to identity theft, see the [dangers of revealing your date of birth](http://security.stackexchange.com/questions/95029/how-dangerous-is-it-to-reveal-your-date-of-birth-and-why) for example. It is unusual to put a photo or [mugshot](https://en.wikipedia.org/wiki/Mug_shot) of yourself on your CV. What you look like should not be a factor in your job application (though some recruiters find it helps them to remember your face, especially if they have to deal with a high volume of CVs)
-6. **DOMAIN IT** The email address me@mydomain.com says more than just how to contact you, it shows that you know how to setup an email server and a web server. Make sure you mention your personal domain and email if you have one. It can give a better impression than a generic me@hotmail.com or me@gmail.com.
-7. **REQUEST IT** Usually you can just say “references available on request” rather than listing all your referees. If you have space, listing your referees will make it easier for the employer as they won't need to contact you again to get them, but most people won't have space to include them. Also by saying “on request” you know when the references will be taken up (because you'll be notified) so you have more control over the process.
-8. **REFEREE IT** Make sure you check with your referees before references are taken up (often after your interview), its good to have a mixture of referees from different places if you can (e.g. Employers, University tutors etc) and you obviously need to be confident that they will write you a good reference.
-10. **PERSONALISE IT** If you are going to write a personal statement keep it brief, one or two sentences should do. Don't write your life story and a great big long essay, no-one will read it. E.g. “*I am a second year student studying Computer Science at the University of Manchester looking for an opportunity to apply my skills in algorithms and Java in the financial services industry*” not [“*A long time ago in a galaxy far, far away...*”](https://en.wikipedia.org/wiki/Star_Wars_opening_crawl)
+This guide has now moved to the debugging chapter of *Coding Your Future* [www.cdyf.me/debugging.html](https://www.cdyf.me/debugging.html)
