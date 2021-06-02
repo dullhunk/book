@@ -51,6 +51,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Disney Streaming Services, [www.disneystreaming.com](https://www.disneystreaming.com), SK5 6DA, Manchester city centre soon
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
+* EasyChair, [easychair.org](https://easychair.org/), M20 2RY
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
 * FuzzyLabs, [fuzzylabs.ai](https://fuzzylabs.ai/), M1 7ED
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
@@ -81,6 +82,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
+* RailDiairy, [raildiary.com](https://www.raildiary.com/), M2 4LQ
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
 * RecourseAI, [recourseai.com](https://recourseai.com/), M1 4PZ
 * Red Embedded Consulting Ltd, [redembedded.com](http://www.redembedded.com), BD17 7DU
