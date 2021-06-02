@@ -50,7 +50,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Digital Bridge, [digitalbridge.eu](https://www.digitalbridge.com), M15 6AY
 * Disney Streaming Services, [www.disneystreaming.com](https://www.disneystreaming.com), SK5 6DA, Manchester city centre soon
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
-* DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), SK4 1LS
+* DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), M2 3LR
 * EasyChair, [easychair.org](https://easychair.org/), M20 2RY
 * Exgence Ltd, [exgence.mycindr.com](http://exgence.mycindr.com), M13 9NT
 * FuzzyLabs, [fuzzylabs.ai](https://fuzzylabs.ai/), M1 7ED
