@@ -23,6 +23,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Aucoda, [aucoda.com](http://www.aucoda.com), M1 5NG
 * Autotrader, [careers.autotrader.co.uk](https://careers.autotrader.co.uk), M15 4FN
 * Autodesk, [autodesk.co.uk](http://www.autodesk.co.uk), S1 2EL
+* Awareness Software Limited, [aware-soft.com](https://www.aware-soft.com/), SK7 5ER
 * BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
 * BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/segs](http://bbc.in/segs), M50 2LH
@@ -104,6 +105,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Swrrl, [swirrl.com](http://www.swirrl.com), M2 3DE
 * Team Netsol, [teamnetsol.com](https://teamnetsol.com), M4 5BA
 * Thales Group, [thalesgroup.com](https://www.thalesgroup.com), SK3 0XB
+* TitanProducts, [titanproducts.com](https://titanproducts.com/), SK6 2SD
 * ThoughtWorks, [thoughtworks.com](https://www.thoughtworks.com), M4 4BF
 * TopCashBack, [topcashback.co.uk](http://www.topcashback.co.uk), BL6 5UE
 * TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
