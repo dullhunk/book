@@ -98,6 +98,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * SKY technology hub, [jobs.sky.com](https://jobs.sky.com), LS10 1QE
 * Slalom, [slalom.com/locations/manchester](https://www.slalom.com/locations/manchester),  M1 5AN
 * Softcat, [softcat.com](https://www.softcat.com/contact-us/softcat-manchester), M12 6JH
+* Softwire, [softwire.com](https://www.softwire.com/), M4 6WX
 * Space 48, [space48.com](http://www.space48.com), M2 7HA
 * Swinton Insurance, [swintoncareers.com](http://www.swintoncareers.com), M1 5SW
 * The Startup Factory, [thestartupfactory.tech](https://thestartupfactory.tech/), M1 7ED
