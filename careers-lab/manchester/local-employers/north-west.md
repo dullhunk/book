@@ -69,6 +69,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Jaguar Land Rover, [jaguarlandrovercareers.com](http://www.jaguarlandrovercareers.com), M1 4ET
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
 * Koderly, [koder.ly](https://www.koder.ly/), OL4 1TD (formerly Web Applications UK)
+* KPMG, [home.kpmg](https://home.kpmg/), M3 3AE
 * Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
@@ -87,6 +88,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
+* PWC, [pwc.co.uk](https://www.pwc.co.uk/), M3 3EB
 * RailDiairy, [raildiary.com](https://www.raildiary.com/), M2 4LQ
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
 * RecourseAI, [recourseai.com](https://recourseai.com/), M1 4PZ
@@ -153,7 +155,7 @@ If you are a Manchester based employer who isn't listed here, but would like to 
 This is the page I point them at. The document source is written in [markdown](https://en.wikipedia.org/wiki/Markdown), and I welcome constructive feedback and additions to it.
 
 
-[#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
+NotJustLondon logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
 Last updated November 2021 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
 
