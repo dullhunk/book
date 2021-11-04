@@ -2,7 +2,7 @@ The Northern software house
 ========================================================
 This page (Shortcut url [git.io/manc]) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation. This data is in the process of being migrated to the *Moving your Future* chapter of *Coding your Future* at [cdyf.me/moving.html](https://www.cdyf.me/moving.html)
 
-If you want to add your organisation to this list, scroll down to the bottom of the page for instructions on how to do so.
+If you want to add your organisation to this list, or update the details listed, scroll down to the bottom of the page for instructions on how to do so.
 
 ## Employers in Manchester that recruit Computer Scientists
 This is a partial list of employers in Manchester ([Manc-hattan?](https://www.theguardian.com/artanddesign/2019/oct/21/welcome-to-manc-hattan-how-the-city-sold-its-soul-for-luxury-skyscrapers)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers in Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
@@ -83,6 +83,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * OCLC, [oclc.org](https://www.oclc.org), S1 4LW
 * On The Beach, [onthebeach.co.uk/jobs](https://www.onthebeach.co.uk/jobs), SK3 0XN
 * Peak AI, [peak.ai](http://peak.ai), M1 4ET
+* Podcast.co, [podcast.co](https://www.podcast.co/), M4 1FS
 * Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
 * Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
@@ -112,6 +113,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * ThoughtWorks, [thoughtworks.com](https://www.thoughtworks.com), M4 4BF
 * TopCashBack, [topcashback.co.uk](http://www.topcashback.co.uk), BL6 5UE
 * TPP, [tpp-uk.com](https://www.tpp-uk.com), LS18 5PX
+* TTGames, [ttgames.com](https://www.ttgames.com), SK9 1AP and WA16 0NL
 * UKFast, [ukfast.co.uk](https://www.ukfast.co.uk), M15 5QJ
 * Ultra Electronics, [ultra-electronics.com](https://www.ultra-electronics.com), M23 9SS
 * Valtech, [valtech.com](https://www.valtech.com), M1
