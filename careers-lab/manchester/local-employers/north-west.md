@@ -1,6 +1,6 @@
 The Northern software house
 ========================================================
-This page (Shortcut url [git.io/manc](http://git.io/manc) part of [git.io/mycv](http://git.io/mycv)) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation.
+This page (Shortcut url [git.io/manc]) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation. This data is in the process of being migrated to the *Moving your Future* chapter of *Coding your Future* at [cdyf.me/moving.html](https://www.cdyf.me/moving.html)
 
 ## Employers in Manchester that recruit Computer Scientists
 This is a partial list of employers in Manchester ([Manc-hattan?](https://www.bbc.co.uk/programmes/m000182g)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers in Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
@@ -73,7 +73,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Medicines Catapult [md.catapult.org.uk](https://md.catapult.org.uk), SK10 4TG
 * Mentor Graphics, [mentor.com](https://www.mentor.com), WA14 5GL (now part of Siemens)
 * Metafused, [metafused.com](https://www.metafused.com), M1 5AN
-* Micron, [uk.micron.com](http://uk.micron.com), SK8 3GR
+* Micron, [micron.com](http://www.micron.com), SK8 3GR
 * MindTrace, [mindtrace.ai](http://mindtrace.ai), M3 3BQ
 * MoneySupermarket, [moneysupermarketjobs.com](http://www.moneysupermarketjobs.com), M2 2BY
 * Novacoast, [novacoast.com](https://www.novacoast.com), M1 4HN
