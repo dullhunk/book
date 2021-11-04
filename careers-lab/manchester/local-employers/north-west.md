@@ -1,6 +1,6 @@
 The Northern software house
 ========================================================
-This page (Shortcut url [git.io/manc]) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation. This data is in the process of being migrated to the *Moving your Future* chapter of *Coding your Future* at [cdyf.me/moving.html](https://www.cdyf.me/moving.html)
+This page (Shortcut url [git.io/manc](https://git.io/manc)) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation. This data is in the process of being migrated to the *Moving your Future* chapter of *Coding your Future* at [cdyf.me/moving.html](https://www.cdyf.me/moving.html)
 
 If you want to add your organisation to this list, or update the details listed, scroll down to the bottom of the page for instructions on how to do so.
 
