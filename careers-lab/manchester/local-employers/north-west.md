@@ -26,7 +26,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Autotrader, [careers.autotrader.co.uk](https://careers.autotrader.co.uk), M15 4FN
 * Autodesk, [autodesk.co.uk](http://www.autodesk.co.uk), S1 2EL
 * Awareness Software Limited, [aware-soft.com](https://www.aware-soft.com/), SK7 5ER
-* BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
+* BAML, [careers.bankofamerica.com](http://careers.bankofamerica.com), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
 * BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/3q7nRRV](https://bbc.in/3q7nRRV), M50 2LH
 * Bet365, [bet365careers.com](https://www.bet365careers.com), M2
@@ -46,7 +46,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * The Co-operative Group, [jobs.coop.co.uk](https://jobs.coop.co.uk), M60 0AG
 * Couchbase, [couchbase.com/careers](http://www.couchbase.com/careers), M1 1JB
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ (Acquired by [epicgames.com](https://www.epicgames.com/store/en-US/) in March 2020)
-* DeepCognito, [deepcognito.com](http://www.deepcognito.com), M1 1AN
+* DeepCognito, [deepcognito.com](https://www.deepcognito.com), M1 1AN
 * D3T, [d3tltd.com](https://d3tltd.com), WA7 1UG
 * DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
