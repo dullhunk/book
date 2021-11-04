@@ -77,11 +77,11 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Metafused, [metafused.com](https://www.metafused.com), M1 5AN
 * Micron, [micron.com](http://www.micron.com), SK8 3GR
 * MindTrace, [mindtrace.ai](http://mindtrace.ai), M3 3BQ
-* MoneySupermarket, [moneysupermarketjobs.com](http://www.moneysupermarketjobs.com), M2 2BY
+* MoneySupermarket, [jobs.moneysupermarketgroup.com](https://www.jobs.moneysupermarketgroup.com/), M2 2BY
 * Novacoast, [novacoast.com](https://www.novacoast.com), M1 4HN
 * NCC Group plc, [nccgroup.trust](https://www.nccgroup.trust), M1 7EF
 * OCLC, [oclc.org](https://www.oclc.org), S1 4LW
-* On The Beach, [onthebeach.co.uk/jobs](https://www.onthebeach.co.uk/jobs), SK3 0XN
+* On The Beach, [onthebeach.co.uk](https://www.onthebeach.co.uk), SK3 0XN
 * Peak AI, [peak.ai](http://peak.ai), M1 4ET
 * Podcast.co, [podcast.co](https://www.podcast.co/), M4 1FS
 * Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
