@@ -2,8 +2,10 @@ The Northern software house
 ========================================================
 This page (Shortcut url [git.io/manc]) lists organisations in (and around) Manchester that have employed Computer Science students, either before or after graduation. This data is in the process of being migrated to the *Moving your Future* chapter of *Coding your Future* at [cdyf.me/moving.html](https://www.cdyf.me/moving.html)
 
+If you want to add your organisation to this list, scroll down to the bottom of the page for instructions on how to do so.
+
 ## Employers in Manchester that recruit Computer Scientists
-This is a partial list of employers in Manchester ([Manc-hattan?](https://www.bbc.co.uk/programmes/m000182g)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers in Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
+This is a partial list of employers in Manchester ([Manc-hattan?](https://www.theguardian.com/artanddesign/2019/oct/21/welcome-to-manc-hattan-how-the-city-sold-its-soul-for-luxury-skyscrapers)) and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) that recruit Computer Science students. This is by no means a comprehensive list, but will give you a quick flavour of employers in Manchester, Leeds, Liverpool, Sheffield and [Northern England](https://en.wikipedia.org/wiki/Northern_England).
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
@@ -151,9 +153,7 @@ This is the page I point them at. The document source is written in [markdown](h
 
 [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
-Last updated August 2020 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
-
-{{% tweet "852205086956818432" %}}
+Last updated November 2021 by [Duncan Hull](http://www.cs.man.ac.uk/~hulld/)
 
 ## References
 
