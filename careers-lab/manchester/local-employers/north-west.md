@@ -9,7 +9,7 @@ This is a partial list of employers in Manchester ([Manc-hattan?](https://www.th
 
 ![#NotJustLondon](https://c2.staticflickr.com/2/1885/44796486382_12b53b6549_m_d.jpg "#NotJustLondon")
 
-**Figure 1**: [#NotJustLondon](https://twitter.com/hashtag/notjustlondon) logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
+**Figure 1**: #NotJustLondon logo by [Sharon Dale @pixlz](https://twitter.com/pixlz) via [Paul Downey @psd](https://www.flickr.com/photos/psd/44796486382) Some rights reserved
 
 ## Hit the North, Not Just London
 
@@ -28,7 +28,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Awareness Software Limited, [aware-soft.com](https://www.aware-soft.com/), SK7 5ER
 * BAML, [careers.bankofamerica.com/emea](http://careers.bankofamerica.com/emea), CH4 9QQ
 * Barclays, [jobs.barclays.co.uk](http://jobs.barclays.co.uk), WA16 9EU
-* BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/segs](http://bbc.in/segs), M50 2LH
+* BBC, [careerssearch.bbc.co.uk](http://careerssearch.bbc.co.uk) and [bbc.in/3q7nRRV](https://bbc.in/3q7nRRV), M50 2LH
 * Bet365, [bet365careers.com](https://www.bet365careers.com), M2
 * BeyondTrust, [beyondtrust.com](https://www.beyondtrust.com), M22 5XB (formerly Avecto)
 * Biorelate, [biorelate.com](http://www.biorelate.com), M15 6JJ
@@ -134,9 +134,9 @@ You don't **have** to move to London to find top employers, there are plenty loc
 
 If you are interested in more Manchester based employers, other places you can look are startup accelerators, incubators, co-working spaces, science parks and local trade bodies such as:
 
-* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED (just down the Oxford Road)
-* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST (MediaCityUK)
-* Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/), M15 6JJ (Behind the Uni Library)
+* Manchester Technology Centre [mspl.co.uk/campuses/manchester-technology-centre](https://mspl.co.uk/campuses/manchester-technology-centre/), M1 7ED )
+* The Landing, [thelanding.org.uk](http://www.thelanding.org.uk), M50 2ST
+* Manchester Science Park, [mspl.co.uk](https://mspl.co.uk/), M15 6JJ
 * The Hive Manchester, [thehivemanchester.com](https://www.thehivemanchester.com/), M1 1FN (home to lots of interesting employers, hosts many events see [@TheHiveManc](https://twitter.com/TheHiveManc))
 * City Labs, [mspl.co.uk/campuses/citylabs/citylabs-10](https://mspl.co.uk/campuses/citylabs/citylabs-10/), M13 9NQ (just up the Oxford Road)
 * Federation House, [coop.co.uk/the-federation](https://www.coop.co.uk/the-federation), M4 4BF (By Manchester Victoria Station)
