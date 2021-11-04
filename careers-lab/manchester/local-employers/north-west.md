@@ -40,7 +40,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Bosch, [bosch-career.com](http://www.bosch-career.com), SK3 0XG
 * Bentley, [bentley.com](http://www.bentley.com), WA3 6ZH
 * Cantarus, [cantarus.com](http://www.cantarus.com), M2 4PD
-* Cheshire Datasystems Ltd, [cdl.co.uk](http://www.cdl.co.uk), SK4 2HD
+* Cheshire Datasystems Ltd, [cdl.co.uk](https://www.cdl.co.uk/), SK4 2HD
 * Code Computer Love, [codecomputerlove.com](http://www.codecomputerlove.com), M1 2BE
 * Codethink Ltd., [codethink.co.uk](http://www.codethink.co.uk), M1 2HF
 * The Co-operative Group, [jobs.coop.co.uk](https://jobs.coop.co.uk), M60 0AG
