@@ -123,7 +123,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Wakelet, [wakelet.com](https://wakelet.com), M20 3BN
 * Waters, [waters.com](https://www.waters.com), SK9 5AA
 * Wejo, [wejo.com](https://www.wejo.com), M3 4AE
-* Wonderbill, [wonderbill.com](https://www.wonderbill.com), M3 3EB
 * Yourgene Health, [yourgene-health.com](https://www.yourgene-health.com/), M13 9NQ
 * Zuhlke Engineering, [zuehlke.com](https://www.zuehlke.com), M2 3AW
 * Zuto, [careers.zuto.com](https://careers.zuto.com/), SK11 0LP
