@@ -1,5 +1,5 @@
 # Debugging your CV
 
-This guide has now moved to the debugging chapter of *Coding Your Future* [www.cdyf.me/debugging.html](https://www.cdyf.me/debugging.html)
+This guide has now moved to the debugging chapter of *Coding Your Future* [www.cdyf.me/debugging](https://www.cdyf.me/debugging)
 
---Duncan Hull, April 2021
+--Duncan Hull, October 2022
