@@ -78,6 +78,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Micron, [micron.com](http://www.micron.com), SK8 3GR
 * MindTrace, [mindtrace.ai](http://mindtrace.ai), M3 3BQ
 * MoneySupermarket, [jobs.moneysupermarketgroup.com](https://www.jobs.moneysupermarketgroup.com/), M2 2BY
+* Naimuri, [naimuri.com](https://naimuri.com/), M50 2UW
 * Netacea, [netacea.com](https://www.netacea.com), M3 2EG
 * Novacoast, [novacoast.com](https://www.novacoast.com), M1 4HN
 * NCC Group plc, [nccgroup.trust](https://www.nccgroup.trust), M1 7EF
