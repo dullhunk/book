@@ -23,6 +23,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * ARM, [arm.com/careers](http://www.arm.com/careers), M2 3BB and S1 4EB
 * AstraZeneca, [astrazeneca.co.uk](https://www.astrazeneca.co.uk), SK10 2NA
 * Aucoda, [aucoda.com](http://www.aucoda.com), M1 5NG
+* Autocab, [autocab.com](https://www.autocab.com/), M1 7FS
 * Autotrader, [careers.autotrader.co.uk](https://careers.autotrader.co.uk), M15 4FN
 * Autodesk, [autodesk.co.uk](http://www.autodesk.co.uk), S1 2EL
 * Awareness Software Limited, [aware-soft.com](https://www.aware-soft.com/), SK7 5ER
@@ -48,10 +49,10 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Cubic Motion, [cubicmotion.com](https://www.cubicmotion.com), M15 6AZ (Acquired by [epicgames.com](https://www.epicgames.com/store/en-US/) in March 2020)
 * DeepCognito, [deepcognito.com](https://www.deepcognito.com), M1 1AN
 * D3T, [d3tltd.com](https://d3tltd.com), WA7 1UG
-* DAI, [dai.co.uk](http://dai.co.uk), SK3 0WZ
+* Dematic, [dematic.com](https://www.dematic.com/), SK3 
 * Degree53, [degree53.com](https://www.degree53.com), M40 5BJ
 * Digital Bridge, [digitalbridge.eu](https://www.digitalbridge.com), M15 6AY
-* Disney Streaming Services, [www.disneystreaming.com](https://www.disneystreaming.com), SK5 6DA, Manchester city centre soon
+* Disney Streaming Services, [www.disneystreaming.com](https://www.disneystreaming.com), M1 7FS
 * Drive Works, [driveworks.co.uk](https://www.driveworks.co.uk/), WA4 2TF
 * DWP, [gov.uk](https://www.gov.uk/government/organisations/department-for-work-pensions), M2 3LR
 * EasyChair, [easychair.org](https://easychair.org/), M20 2RY
@@ -59,8 +60,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * FuzzyLabs, [fuzzylabs.ai](https://fuzzylabs.ai/), M1 7ED
 * GCHQ, [gchq-careers.co.uk](http://www.gchq-careers.co.uk), M2 5LE
 * HAVAS LYNX, [havaslynx.com](https://www.havaslynx.com), M1 6JX
-* Hello Soda Limited, [hellosoda.com](https://hellosoda.com/), M2 4EW
-* The Hut Group, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
+* THG, [thg.com](https://www.thg.com), M50 2EQ, M90 3DQ
 * IBM, [ibm.com](http://www.ibm.com), M3 2EG
 * Imago, [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/), M13 9PL
 * Infinity Works, [infinityworks.com](https://www.infinityworks.com), LS1 2EQ
@@ -70,7 +70,6 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Keto Software, [ketosoftware.com](http://www.ketosoftware.com), M50 2EQ
 * Koderly, [koder.ly](https://www.koder.ly/), OL4 1TD (formerly Web Applications UK)
 * KPMG, [home.kpmg](https://home.kpmg/), M3 3AE
-* Magma Digital, [magmadigital.co.uk](http://www.magmadigital.co.uk), M1 6DE
 * Matillion, [matillion.com](https://www.matillion.com), WA16 8GS
 * MediaBurst, [mediaburst.co.uk](https://www.mediaburst.co.uk), M1 1FR
 * Medicines Catapult [md.catapult.org.uk](https://md.catapult.org.uk), SK10 4TG
@@ -88,7 +87,7 @@ You don't **have** to move to London to find top employers, there are plenty loc
 * Podcast.co, [podcast.co](https://www.podcast.co/), M4 1FS
 * Prevayl, [prevayl.com](https://prevayl.com), M3 3JE
 * Purple AI, [purple.ai](http://purple.ai), OL9 7LD
-* Push Doctor, [pushdoctor.co.uk/careers](https://www.pushdoctor.co.uk/careers), M3 2LF
+* Push Doctor, [pushdoctor.co.uk](https://www.pushdoctor.co.uk), M3 2LF
 * PWC, [pwc.co.uk](https://www.pwc.co.uk/), M3 3EB
 * RailDiairy, [raildiary.com](https://www.raildiary.com/), M2 4LQ
 * Raytheon, [raytheon.com/uk](https://www.raytheon.com/uk), M1
